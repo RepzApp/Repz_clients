@@ -2,19 +2,19 @@
   "2025-09-11": {
     "ex1": {
       "set1": {
-        "weight": "5",
-        "reps": "5",
-        "tank": "5"
+        "weight": "10",
+        "reps": "10",
+        "tank": "10"
       },
       "set2": {
-        "weight": "5",
-        "reps": "5",
-        "tank": "5"
+        "weight": "10",
+        "reps": "10",
+        "tank": "10"
       },
       "set3": {
-        "weight": "5",
-        "reps": "5",
-        "tank": "5"
+        "weight": "10",
+        "reps": "10",
+        "tank": "10"
       },
       "notes": ""
     },
@@ -60,7 +60,7 @@
       },
       "notes": ""
     },
-    "lastModified": "2025-09-11T22:07:25.851Z"
+    "lastModified": "2025-09-11T22:08:00.227Z"
   },
   "2025-08-19": {
     "ex1": {
