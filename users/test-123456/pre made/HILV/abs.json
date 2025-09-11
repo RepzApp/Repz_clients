@@ -1,66 +1,4 @@
 {
-  "2025-08-19": {
-    "ex1": {
-      "set1": {
-        "weight": "5",
-        "reps": "5",
-        "tank": "5"
-      },
-      "set2": {
-        "weight": "",
-        "reps": "",
-        "tank": ""
-      },
-      "set3": {
-        "weight": "",
-        "reps": "",
-        "tank": ""
-      },
-      "notes": ""
-    },
-    "ex2": {
-      "set1": {
-        "weight": "",
-        "rightReps": "",
-        "rightTank": "",
-        "leftReps": "",
-        "leftTank": ""
-      },
-      "set2": {
-        "weight": "",
-        "rightReps": "",
-        "rightTank": "",
-        "leftReps": "",
-        "leftTank": ""
-      },
-      "set3": {
-        "weight": "",
-        "rightReps": "",
-        "rightTank": "",
-        "leftReps": "",
-        "leftTank": ""
-      },
-      "notes": ""
-    },
-    "ex3": {
-      "set1": {
-        "weight": "",
-        "reps": "",
-        "tank": ""
-      },
-      "set2": {
-        "weight": "",
-        "reps": "",
-        "tank": ""
-      },
-      "set3": {
-        "weight": "",
-        "reps": "",
-        "tank": ""
-      },
-      "notes": ""
-    }
-  },
   "2025-09-11": {
     "ex1": {
       "set1": {
@@ -123,5 +61,67 @@
       "notes": ""
     },
     "lastModified": "2025-09-11T22:08:00.227Z"
+  },
+  "2025-08-19": {
+    "ex1": {
+      "set1": {
+        "weight": "5",
+        "reps": "5",
+        "tank": "5"
+      },
+      "set2": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "set3": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    },
+    "ex2": {
+      "set1": {
+        "weight": "",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "set2": {
+        "weight": "",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "set3": {
+        "weight": "",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "notes": ""
+    },
+    "ex3": {
+      "set1": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "set2": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "set3": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    }
   }
 }
