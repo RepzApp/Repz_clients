@@ -65,19 +65,19 @@
   "2025-09-12": {
     "ex1": {
       "set1": {
-        "weight": "",
-        "reps": "",
-        "tank": ""
+        "weight": "10",
+        "reps": "8",
+        "tank": "0"
       },
       "set2": {
-        "weight": "",
-        "reps": "",
-        "tank": ""
+        "weight": "15",
+        "reps": "7",
+        "tank": "0"
       },
       "set3": {
-        "weight": "",
-        "reps": "",
-        "tank": ""
+        "weight": "20",
+        "reps": "6",
+        "tank": "0"
       },
       "notes": "test"
     },
