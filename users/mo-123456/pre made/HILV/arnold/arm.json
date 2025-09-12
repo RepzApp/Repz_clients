@@ -147,14 +147,14 @@
     },
     "ex2": {
       "set1": {
-        "weight": "10",
-        "reps": "5",
-        "tank": "0"
+        "weight": "",
+        "reps": "",
+        "tank": ""
       },
       "set2": {
-        "weight": "15",
-        "reps": "4",
-        "tank": "0"
+        "weight": "",
+        "reps": "",
+        "tank": ""
       },
       "notes": ""
     },
