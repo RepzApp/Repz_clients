@@ -96,5 +96,51 @@
       },
       "notes": ""
     }
+  },
+  "2025-09-12": {
+    "ex1": {
+      "set1": {
+        "weight": "50",
+        "reps": "8",
+        "tank": "0"
+      },
+      "set2": {
+        "weight": "55",
+        "reps": "6",
+        "tank": "0"
+      },
+      "notes": "test notes"
+    },
+    "ex2": {
+      "set1": {
+        "weight": "",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "notes": ""
+    },
+    "ex3": {
+      "set1": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "set2": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    },
+    "ex4": {
+      "set1": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    }
   }
 }
