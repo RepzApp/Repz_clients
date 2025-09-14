@@ -1,5 +1,5 @@
 {
-  "mode": "client",
+  "mode": "coach",
   "client": {
     "coachName": "test coach te",
     "code": "te-1"
