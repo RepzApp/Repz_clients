@@ -1,0 +1,28 @@
+{
+  "workout": {
+    "name": "test user",
+    "days": 2,
+    "createdAt": "2025-09-14T03:34:26.060Z",
+    "day1": {
+      "dayName": "chest day",
+      "exercises": [
+        {
+          "name": "chest",
+          "sets": 1,
+          "singleArm": false
+        }
+      ]
+    },
+    "day2": {
+      "dayName": "leg day",
+      "exercises": [
+        {
+          "name": "leg",
+          "sets": 1,
+          "singleArm": true
+        }
+      ]
+    }
+  },
+  "records": []
+}
