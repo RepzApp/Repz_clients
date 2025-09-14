@@ -1,13 +1,8 @@
 {
-  "mode": "client",
-  "client": {
-    "coachName": "test coach te",
-    "code": "te-1"
+  "selectedCoach": {
+    "name": "test coach te",
+    "code": "1234",
+    "folder": "test-coach-te-1234"
   },
-  "lastUpdated": "2025-09-14T20:30:49.058Z",
-  "coach": {
-    "serial": "UUQ-EYM-ALC-0RT-TTO-NC5-H2",
-    "name": "test coach",
-    "code": "te-1234"
-  }
+  "clientCode": "te-1"
 }
