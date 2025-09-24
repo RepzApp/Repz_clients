@@ -1,0 +1,63 @@
+{
+  "2025-09-24": {
+    "ex1": {
+      "set1": {
+        "weight": "10",
+        "rightReps": "10",
+        "rightTank": "0",
+        "leftReps": "9",
+        "leftTank": "0"
+      },
+      "set2": {
+        "weight": "10",
+        "rightReps": "8",
+        "rightTank": "0",
+        "leftReps": "8",
+        "leftTank": "0"
+      },
+      "notes": "المفروض ملفش بوسطي المفروض دراعي هو اللي يرجع لورا عشان الحته دي هي اللي فيها الشغل اصلا ..الوزن بلاطات "
+    },
+    "ex2": {
+      "set1": {
+        "weight": "55",
+        "reps": "8",
+        "tank": "0"
+      },
+      "notes": "مفيش shrugs عشان بنلعب بعدها ترابيس اصلا "
+    },
+    "ex3": {
+      "set1": {
+        "weight": "25",
+        "reps": "9",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex4": {
+      "set1": {
+        "weight": "7.5",
+        "rightReps": "10",
+        "rightTank": "0",
+        "leftReps": "10",
+        "leftTank": "0"
+      },
+      "notes": ""
+    },
+    "ex5": {
+      "set1": {
+        "weight": "15",
+        "reps": "10",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex6": {
+      "set1": {
+        "weight": "0",
+        "reps": "8",
+        "tank": "0"
+      },
+      "notes": ""
+    }
+  }
+}
