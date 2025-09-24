@@ -1,10 +1,9 @@
 {
   "serialInfo": {
-    "serial": "trial",
-    "duration": "15",
-    "expiryDate": "2025-10-03T03:28:00.370Z",
-    "activatedDate": "2025-09-18T03:28:00.371Z",
-    "deviceId": "trial-device"
+    "serial": "4AP-DBT-NHQ-07C-US6-GZ6-Y1",
+    "duration": "7",
+    "expiryDate": "2025-10-01T22:18:09.468Z",
+    "activatedDate": "2025-09-24T22:18:09.468Z"
   },
   "trialUsed": true
 }
