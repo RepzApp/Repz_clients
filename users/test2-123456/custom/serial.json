@@ -1,11 +1,9 @@
 {
   "serialInfo": {
-    "serial": "SUJ-XBN-VCU-0S8-HH2-9FL-51",
-    "programId": "11",
-    "duration": 7,
-    "expiryDate": "2025-10-02T11:41:48.050Z",
-    "activatedDate": "2025-09-25T11:41:48.050Z",
-    "deviceId": "device-t7yuax0wi"
+    "serial": "CUS-EK9-GT5-07N-7SE-Z27-D2",
+    "duration": "30",
+    "expiryDate": "2025-10-25T11:54:46.584Z",
+    "activatedDate": "2025-09-25T11:54:46.584Z"
   },
   "trialUsed": true
 }
