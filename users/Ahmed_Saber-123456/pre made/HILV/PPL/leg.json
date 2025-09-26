@@ -1,0 +1,58 @@
+{
+  "2025-09-26": {
+    "ex1": {
+      "set1": {
+        "weight": "12",
+        "rightReps": "7",
+        "rightTank": "0",
+        "leftReps": "7",
+        "leftTank": "0"
+      },
+      "set2": {
+        "weight": "10",
+        "rightReps": "9",
+        "rightTank": "0",
+        "leftReps": "9",
+        "leftTank": "0"
+      },
+      "notes": ""
+    },
+    "ex2": {
+      "set1": {
+        "weight": "95",
+        "reps": "12",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex3": {
+      "set1": {
+        "weight": "15",
+        "reps": "10",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex4": {
+      "set1": {
+        "weight": "15",
+        "reps": "10",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex5": {
+      "set1": {
+        "weight": "40",
+        "reps": "12",
+        "tank": "0"
+      },
+      "set2": {
+        "weight": "50",
+        "reps": "10",
+        "tank": "0"
+      },
+      "notes": ""
+    }
+  }
+}
