@@ -59,5 +59,66 @@
       },
       "notes": ""
     }
+  },
+  "2025-10-01": {
+    "ex1": {
+      "set1": {
+        "weight": "10",
+        "rightReps": "8",
+        "rightTank": "0",
+        "leftReps": "8",
+        "leftTank": "0"
+      },
+      "set2": {
+        "weight": "10",
+        "rightReps": "7",
+        "rightTank": "2",
+        "leftReps": "7",
+        "leftTank": "0"
+      },
+      "notes": "الفتحه رقم 7 من فوق \nعشان بعدنا عن الجهاز بالهاند بتاعة الجهاز .. لو قربت احطها اعلي حاجه ف الجهاز عادي بحيث أيدي لما تضمها لجسمي متكوتش متنيه اوي "
+    },
+    "ex2": {
+      "set1": {
+        "weight": "55",
+        "reps": "8",
+        "tank": "0"
+      },
+      "notes": "الوزن اللي عليه بلاستيك اتقل من الحديد بس "
+    },
+    "ex3": {
+      "set1": {
+        "weight": "25",
+        "reps": "10",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex4": {
+      "set1": {
+        "weight": "7.5",
+        "rightReps": "10",
+        "rightTank": "0",
+        "leftReps": "10",
+        "leftTank": "0"
+      },
+      "notes": ""
+    },
+    "ex5": {
+      "set1": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    },
+    "ex6": {
+      "set1": {
+        "weight": "",
+        "reps": "8",
+        "tank": "0"
+      },
+      "notes": ""
+    }
   }
 }
