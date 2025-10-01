@@ -1,0 +1,18 @@
+{
+  "workout": {
+    "name": "terstfe",
+    "days": 1,
+    "createdAt": "2025-10-01T21:14:43.343Z",
+    "day1": {
+      "dayName": "gherthrt",
+      "exercises": [
+        {
+          "name": "trjtrj",
+          "sets": 1,
+          "singleArm": false
+        }
+      ]
+    }
+  },
+  "records": []
+}
