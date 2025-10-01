@@ -59,5 +59,66 @@
       },
       "notes": ""
     }
+  },
+  "2025-10-01": {
+    "ex1": {
+      "set1": {
+        "weight": "10",
+        "rightReps": "10",
+        "rightTank": "0",
+        "leftReps": "10",
+        "leftTank": "0"
+      },
+      "set2": {
+        "weight": "11",
+        "rightReps": "8.5",
+        "rightTank": "0",
+        "leftReps": "9",
+        "leftTank": "0"
+      },
+      "notes": "فتحة سادسة من فوق "
+    },
+    "ex2": {
+      "set1": {
+        "weight": "57.5",
+        "reps": "5.5",
+        "tank": "0"
+      },
+      "notes": "العب بطارات حديد بعد كدة "
+    },
+    "ex3": {
+      "set1": {
+        "weight": "35",
+        "reps": "9",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex4": {
+      "set1": {
+        "weight": "15",
+        "rightReps": "7",
+        "rightTank": "0",
+        "leftReps": "7",
+        "leftTank": "0"
+      },
+      "notes": ""
+    },
+    "ex5": {
+      "set1": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": "مالعبتهاش"
+    },
+    "ex6": {
+      "set1": {
+        "weight": "0",
+        "reps": "15",
+        "tank": "0"
+      },
+      "notes": ""
+    }
   }
 }
