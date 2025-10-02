@@ -1,0 +1,10 @@
+{
+  "serialInfo": {
+    "serial": "trial",
+    "duration": "15",
+    "expiryDate": "2025-10-17T13:41:44.844Z",
+    "activatedDate": "2025-10-02T13:41:44.844Z",
+    "deviceId": "trial-device"
+  },
+  "trialUsed": true
+}
