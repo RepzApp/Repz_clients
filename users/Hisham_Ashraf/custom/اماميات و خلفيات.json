@@ -1,0 +1,208 @@
+{
+  "workout": {
+    "name": "اماميات و خلفيات",
+    "days": 4,
+    "createdAt": "2025-10-02T13:42:43.830Z",
+    "day1": {
+      "dayName": "اماميات أ",
+      "exercises": [
+        {
+          "name": "شيست بريي دامبل",
+          "sets": 3,
+          "singleArm": false
+        },
+        {
+          "name": "كتف جانبي كيبل",
+          "sets": 2,
+          "singleArm": true
+        },
+        {
+          "name": "باي بيجن كيرل",
+          "sets": 2,
+          "singleArm": true
+        },
+        {
+          "name": "كتف امامي",
+          "sets": 2,
+          "singleArm": false
+        },
+        {
+          "name": "بطن",
+          "sets": 3,
+          "singleArm": false
+        },
+        {
+          "name": "اماميات رجل",
+          "sets": 3,
+          "singleArm": true
+        },
+        {
+          "name": "سواعد",
+          "sets": 2,
+          "singleArm": true
+        },
+        {
+          "name": "ريست",
+          "sets": 2,
+          "singleArm": true
+        },
+        {
+          "name": "تيبياليس",
+          "sets": 2,
+          "singleArm": false
+        }
+      ]
+    },
+    "day2": {
+      "dayName": "خلفيات أ",
+      "exercises": [
+        {
+          "name": "تراي بوش داون",
+          "sets": 3,
+          "singleArm": true
+        },
+        {
+          "name": "ابر باك كيلسوا شرجز",
+          "sets": 3,
+          "singleArm": false
+        },
+        {
+          "name": "لاتس رو",
+          "sets": 3,
+          "singleArm": true
+        },
+        {
+          "name": "كتف خلفي",
+          "sets": 2,
+          "singleArm": false
+        },
+        {
+          "name": "ايريكتورز",
+          "sets": 2,
+          "singleArm": false
+        },
+        {
+          "name": "خلفيات رجل",
+          "sets": 2,
+          "singleArm": false
+        },
+        {
+          "name": "جلوتس",
+          "sets": 2,
+          "singleArm": false
+        },
+        {
+          "name": "سمانه",
+          "sets": 2,
+          "singleArm": false
+        },
+        {
+          "name": "ابر ترابس",
+          "sets": 2,
+          "singleArm": false
+        }
+      ]
+    },
+    "day3": {
+      "dayName": "اماميات ب",
+      "exercises": [
+        {
+          "name": "شيست بريس عالي",
+          "sets": 3,
+          "singleArm": false
+        },
+        {
+          "name": "باي نو شيت كيرل",
+          "sets": 3,
+          "singleArm": true
+        },
+        {
+          "name": "كتف جانبي",
+          "sets": 2,
+          "singleArm": true
+        },
+        {
+          "name": "كتف امامي",
+          "sets": 2,
+          "singleArm": false
+        },
+        {
+          "name": "بطن",
+          "sets": 3,
+          "singleArm": false
+        },
+        {
+          "name": "ساعد",
+          "sets": 2,
+          "singleArm": true
+        },
+        {
+          "name": "رست",
+          "sets": 2,
+          "singleArm": false
+        },
+        {
+          "name": "اماميات رجل",
+          "sets": 3,
+          "singleArm": true
+        },
+        {
+          "name": "تيبياليس",
+          "sets": 2,
+          "singleArm": false
+        }
+      ]
+    },
+    "day4": {
+      "dayName": "خلفيات ب",
+      "exercises": [
+        {
+          "name": "تراي اوڤر هيد",
+          "sets": 3,
+          "singleArm": true
+        },
+        {
+          "name": "الر باك عادي",
+          "sets": 2,
+          "singleArm": false
+        },
+        {
+          "name": "لات بول داون",
+          "sets": 3,
+          "singleArm": false
+        },
+        {
+          "name": "الر ترابس",
+          "sets": 2,
+          "singleArm": false
+        },
+        {
+          "name": "ايريكتورز",
+          "sets": 2,
+          "singleArm": false
+        },
+        {
+          "name": "خلفيات رجل",
+          "sets": 3,
+          "singleArm": false
+        },
+        {
+          "name": "جلوتس",
+          "sets": 2,
+          "singleArm": false
+        },
+        {
+          "name": "كتف خلفي",
+          "sets": 2,
+          "singleArm": false
+        },
+        {
+          "name": "سمانه",
+          "sets": 2,
+          "singleArm": false
+        }
+      ]
+    }
+  },
+  "records": []
+}
