@@ -1,0 +1,48 @@
+{
+  "2025-08-27": {
+    "ex1": {
+      "set1": {
+        "weight": "5",
+        "reps": "10",
+        "tank": "0"
+      },
+      "set2": {
+        "weight": "7",
+        "reps": "6",
+        "tank": "0"
+      },
+      "notes": "Nice App ❤️"
+    },
+    "ex2": {
+      "set1": {
+        "weight": "",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "notes": ""
+    },
+    "ex3": {
+      "set1": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "set2": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    },
+    "ex4": {
+      "set1": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    }
+  }
+}
