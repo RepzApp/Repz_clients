@@ -1,0 +1,56 @@
+{
+  "2025-10-05": {
+    "ex1": {
+      "set1": {
+        "weight": "55",
+        "reps": "10.3",
+        "tank": "0"
+      },
+      "set2": {
+        "weight": "57.5",
+        "reps": "8.3",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex3": {
+      "set1": {
+        "weight": "10",
+        "rightReps": "10",
+        "rightTank": "0",
+        "leftReps": "10",
+        "leftTank": "0"
+      },
+      "notes": "الفتحه الرابعه من تحت "
+    },
+    "ex4": {
+      "set1": {
+        "weight": "8",
+        "reps": "9",
+        "tank": "0"
+      },
+      "notes": "بلاطات "
+    },
+    "ex5": {
+      "set1": {
+        "weight": "12",
+        "reps": "6",
+        "tank": "0"
+      },
+      "set2": {
+        "weight": "12",
+        "reps": "6",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex6": {
+      "set1": {
+        "weight": "",
+        "reps": "9",
+        "tank": ""
+      },
+      "notes": ""
+    }
+  }
+}
