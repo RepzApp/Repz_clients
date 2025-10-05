@@ -52,5 +52,59 @@
       },
       "notes": ""
     }
+  },
+  "2025-10-05": {
+    "ex1": {
+      "set1": {
+        "weight": "57.5",
+        "reps": "7.3",
+        "tank": "0"
+      },
+      "set2": {
+        "weight": "57.5",
+        "reps": "8.4",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex3": {
+      "set1": {
+        "weight": "12",
+        "rightReps": "8",
+        "rightTank": "0",
+        "leftReps": "8",
+        "leftTank": "0"
+      },
+      "notes": "فتحة رابعة من تحت "
+    },
+    "ex4": {
+      "set1": {
+        "weight": "9",
+        "reps": "9",
+        "tank": "0"
+      },
+      "notes": "جهاز جديد"
+    },
+    "ex5": {
+      "set1": {
+        "weight": "17.5",
+        "reps": "4",
+        "tank": "0"
+      },
+      "set2": {
+        "weight": "12",
+        "reps": "12",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex6": {
+      "set1": {
+        "weight": "0",
+        "reps": "15",
+        "tank": "0"
+      },
+      "notes": ""
+    }
   }
 }
