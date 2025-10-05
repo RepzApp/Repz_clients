@@ -32,5 +32,12 @@
     "seen": false,
     "repeat": false,
     "repeatEndDate": null
+  },
+  {
+    "message": "test new delete",
+    "timestamp": "2025-10-05T12:51:25.815Z",
+    "seen": false,
+    "repeat": false,
+    "repeatEndDate": null
   }
 ]
