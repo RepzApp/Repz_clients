@@ -11,5 +11,12 @@
     "message": "test new notification",
     "timestamp": "2025-10-05T11:43:27.843Z",
     "seen": false
+  },
+  {
+    "message": "test newest",
+    "timestamp": "2025-10-05T12:33:57.801Z",
+    "seen": false,
+    "repeat": false,
+    "repeatEndDate": null
   }
 ]
