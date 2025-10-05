@@ -6,5 +6,10 @@
   {
     "message": "test notification",
     "timestamp": "2025-10-05T08:48:41.005Z"
+  },
+  {
+    "message": "test new notification",
+    "timestamp": "2025-10-05T11:43:28.836Z",
+    "seen": false
   }
 ]
