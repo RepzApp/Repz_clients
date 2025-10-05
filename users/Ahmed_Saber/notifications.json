@@ -25,5 +25,12 @@
     "seen": false,
     "repeat": false,
     "repeatEndDate": null
+  },
+  {
+    "message": "test delete",
+    "timestamp": "2025-10-05T12:43:38.200Z",
+    "seen": false,
+    "repeat": false,
+    "repeatEndDate": null
   }
 ]
