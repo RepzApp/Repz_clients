@@ -1,5 +1,5 @@
 {
   "gender": "male",
   "password": "123456",
-  "locked": true
+  "locked": false
 }
