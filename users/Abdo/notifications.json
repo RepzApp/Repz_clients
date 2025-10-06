@@ -18,12 +18,5 @@
     "seen": false,
     "repeat": true,
     "repeatDuration": 30
-  },
-  {
-    "message": "test newest",
-    "timestamp": "2025-10-05T12:33:55.759Z",
-    "seen": false,
-    "repeat": false,
-    "repeatEndDate": null
   }
 ]
