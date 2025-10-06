@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "message": "test edit",
+    "timestamp": "2025-10-06T02:11:40.060Z",
+    "seen": false,
+    "repeat": false,
+    "repeatEndDate": null,
+    "displayTime": null
+  }
+]
