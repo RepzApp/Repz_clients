@@ -25,19 +25,5 @@
     "seen": false,
     "repeat": false,
     "repeatEndDate": null
-  },
-  {
-    "message": "test delete",
-    "timestamp": "2025-10-05T12:34:48.755Z",
-    "seen": false,
-    "repeat": false,
-    "repeatEndDate": null
-  },
-  {
-    "message": "test delete",
-    "timestamp": "2025-10-05T12:43:37.197Z",
-    "seen": false,
-    "repeat": false,
-    "repeatEndDate": null
   }
 ]
