@@ -2,7 +2,7 @@
   {
     "message": "test edit",
     "timestamp": "2025-10-06T02:11:40.060Z",
-    "seen": false,
+    "seen": true,
     "repeat": false,
     "repeatEndDate": null,
     "displayTime": null
@@ -10,7 +10,7 @@
   {
     "message": "test notification",
     "timestamp": "2025-10-09T13:11:16.127Z",
-    "seen": false,
+    "seen": true,
     "repeat": false,
     "repeatEndDate": null,
     "displayTime": null
@@ -18,7 +18,7 @@
   {
     "message": "test2",
     "timestamp": "2025-10-09T13:12:51.390Z",
-    "seen": false,
+    "seen": true,
     "repeat": false,
     "repeatEndDate": null,
     "displayTime": null
