@@ -120,5 +120,66 @@
       },
       "notes": ""
     }
+  },
+  "2025-10-09": {
+    "ex1": {
+      "set1": {
+        "weight": "11",
+        "rightReps": "8",
+        "rightTank": "0",
+        "leftReps": "8",
+        "leftTank": "0"
+      },
+      "set2": {
+        "weight": "11",
+        "rightReps": "8",
+        "rightTank": "0",
+        "leftReps": "7",
+        "leftTank": "0"
+      },
+      "notes": "كابل قديم /بادئ باليمين"
+    },
+    "ex2": {
+      "set1": {
+        "weight": "60",
+        "reps": "6",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex3": {
+      "set1": {
+        "weight": "35",
+        "reps": "9",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex4": {
+      "set1": {
+        "weight": "15",
+        "rightReps": "7",
+        "rightTank": "0",
+        "leftReps": "7",
+        "leftTank": "0"
+      },
+      "notes": ""
+    },
+    "ex5": {
+      "set1": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": "مالعبتهاش"
+    },
+    "ex6": {
+      "set1": {
+        "weight": "0",
+        "reps": "15",
+        "tank": ""
+      },
+      "notes": ""
+    }
   }
 }
