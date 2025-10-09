@@ -120,5 +120,66 @@
       },
       "notes": ""
     }
+  },
+  "2025-10-09": {
+    "ex1": {
+      "set1": {
+        "weight": "11",
+        "rightReps": "6",
+        "rightTank": "2",
+        "leftReps": "6",
+        "leftTank": "0"
+      },
+      "set2": {
+        "weight": "11",
+        "rightReps": "5",
+        "rightTank": "1",
+        "leftReps": "5",
+        "leftTank": "0"
+      },
+      "notes": "الوزن بلاطه .. المرة الجايه هخفف وزن احسن "
+    },
+    "ex2": {
+      "set1": {
+        "weight": "60",
+        "reps": "6",
+        "tank": "0"
+      },
+      "notes": "No shrugs "
+    },
+    "ex3": {
+      "set1": {
+        "weight": "30",
+        "reps": "10",
+        "tank": "0"
+      },
+      "notes": "30 every side"
+    },
+    "ex4": {
+      "set1": {
+        "weight": "10",
+        "rightReps": "9",
+        "rightTank": "1",
+        "leftReps": "7",
+        "leftTank": "0"
+      },
+      "notes": ""
+    },
+    "ex5": {
+      "set1": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    },
+    "ex6": {
+      "set1": {
+        "weight": "",
+        "reps": "9",
+        "tank": ""
+      },
+      "notes": ""
+    }
   }
 }
