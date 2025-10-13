@@ -1,6 +1,6 @@
 {
   "gender": "male",
   "password": "123456",
-  "locked": false,
+  "locked": true,
   "fcmToken": "dreTemgmRTGPI_yS7gjp7j:APA91bHx1k3mnmcQCs5uedYgO1SAcGsqn28Zsp7oUHHf0VXipV6YqlRVLxSrzfQN62G-ANWfTpj8AXQZslnkbGbqwouBRRNetbxjIG75DD1xMFWNlTv9tls"
 }
