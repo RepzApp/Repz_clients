@@ -106,5 +106,59 @@
       },
       "notes": ""
     }
+  },
+  "2025-10-13": {
+    "ex1": {
+      "set1": {
+        "weight": "60",
+        "reps": "6.3",
+        "tank": "0"
+      },
+      "set2": {
+        "weight": "60",
+        "reps": "6.3",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex3": {
+      "set1": {
+        "weight": "12",
+        "rightReps": "7",
+        "rightTank": "1",
+        "leftReps": "7",
+        "leftTank": "1"
+      },
+      "notes": "فتحة رابعة من تحت / العب بالقبضة الحديد أو شداد"
+    },
+    "ex4": {
+      "set1": {
+        "weight": "7",
+        "reps": "10",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex5": {
+      "set1": {
+        "weight": "15",
+        "reps": "10",
+        "tank": "0"
+      },
+      "set2": {
+        "weight": "15",
+        "reps": "9",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex6": {
+      "set1": {
+        "weight": "0",
+        "reps": "13",
+        "tank": "0"
+      },
+      "notes": ""
+    }
   }
 }
