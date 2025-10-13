@@ -42,7 +42,7 @@
   {
     "message": "test fcm",
     "timestamp": "2025-10-12T03:39:09.711Z",
-    "seen": false,
+    "seen": true,
     "repeat": false,
     "repeatEndDate": null,
     "displayTime": null
