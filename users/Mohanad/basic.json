@@ -1,4 +1,6 @@
 {
   "gender": "male",
-  "password": "01080238658"
+  "password": "01080238658",
+  "locked": false,
+  "fcmToken": "fGpOpaIORgO8u8PrIUD-pm:APA91bGW2mUE8_gpMy6L9ATUcSY014ZGepTh5qKigSuoKTsyhs-fJXdD4x8INxI65eAvJ36fMUHHkBQQFccrvgD7Dk52ykKBni6mawfzPyrIqgXSEtXuvvY"
 }
