@@ -1,6 +1,6 @@
 {
   "gender": "female",
   "password": "١٢٣٤٥٦",
-  "locked": false,
+  "locked": true,
   "fcmToken": ""
 }
