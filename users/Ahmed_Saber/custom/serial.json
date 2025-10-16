@@ -1,9 +1,10 @@
 {
   "serialInfo": {
-    "serial": "ATZ-FZQ-VR7-9CU-SY9-XNU-B9",
-    "duration": "permanent",
-    "expiryDate": "permanent",
-    "activatedDate": "2025-10-01T20:50:03.390Z"
+    "serial": "trial",
+    "duration": "15",
+    "expiryDate": "2025-10-29T08:28:21.894Z",
+    "activatedDate": "2025-10-14T08:28:21.894Z",
+    "deviceId": "trial-device"
   },
   "trialUsed": true
 }
