@@ -1,8 +1,7 @@
 {
-  "selectedCoach": {
-    "name": "test serial",
-    "code": "1234",
-    "folder": "test-serial-1234"
-  },
-  "clientCode": "002tes"
+  "serial": "ONC-L9W-WGF-0Y8-MDK-QA3-Y2",
+  "status": "Active",
+  "expiryDate": "2025-11-15T05:20:22.011Z",
+  "durationCode": "02",
+  "isTrial": false
 }
