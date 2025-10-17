@@ -1,7 +1,8 @@
 {
-  "serial": "MUW-VEL-37O-0NC-LJR-8JL-H2",
-  "status": "Active",
-  "expiryDate": "2025-11-16T07:26:51.661Z",
-  "durationCode": "02",
-  "isTrial": false
+  "selectedCoach": {
+    "name": "test5",
+    "code": "1234",
+    "folder": "test5-1234"
+  },
+  "clientCode": "001cli"
 }
