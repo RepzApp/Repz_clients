@@ -1,0 +1,19 @@
+{
+  "workout": {
+    "name": "bro split",
+    "days": 1,
+    "createdAt": "2025-10-17T14:22:51.689Z",
+    "day1": {
+      "dayName": "leg",
+      "exercises": [
+        {
+          "name": "hack squat",
+          "sets": 1,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/Repz_clients/main/users/test/custom/media/bro-split-day1-ex1.png"
+        }
+      ]
+    }
+  },
+  "records": []
+}
