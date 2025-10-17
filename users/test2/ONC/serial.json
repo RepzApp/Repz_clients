@@ -1,8 +1,7 @@
 {
-  "selectedCoach": {
-    "name": "test",
-    "code": "1234",
-    "folder": "test-1234"
-  },
-  "clientCode": "002cli"
+  "serial": "GF9-9NH-6PH-05E-SVZ-ONC-P2",
+  "status": "Active",
+  "expiryDate": "2025-11-16T15:13:25.884Z",
+  "durationCode": "02",
+  "isTrial": false
 }
