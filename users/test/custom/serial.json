@@ -1,11 +1,11 @@
 {
   "serialInfo": {
-    "serial": "7ON-CT3-PLS-03B-8EJ-K3Q-P2",
-    "status": "Active",
-    "expiryDate": "2026-01-17T15:11:48.286Z",
+    "serial": "SZZ-7YU-EYO-0NC-A8Q-JDA-V2",
     "duration": "90",
-    "activatedDate": "2025-10-17T14:11:48.286Z",
-    "isTrial": false
+    "expiryDate": "2026-01-15T14:42:48.765Z",
+    "activatedDate": "2025-10-17T14:42:48.765Z",
+    "deviceId": "device-onouwn8y6qswtffygc4qub",
+    "isGhost": true
   },
   "trialUsed": true
 }
