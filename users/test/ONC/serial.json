@@ -1,7 +1,8 @@
 {
-  "serial": "PAO-NCT-XFP-0VA-LWD-U3N-N2",
-  "status": "Active",
-  "expiryDate": "2025-11-16T08:32:46.402Z",
-  "durationCode": "02",
-  "isTrial": false
+  "selectedCoach": {
+    "name": "test",
+    "code": "1234",
+    "folder": "test-1234"
+  },
+  "clientCode": "002cli"
 }
