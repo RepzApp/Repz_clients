@@ -1,8 +1,7 @@
 {
-  "selectedCoach": {
-    "name": "test",
-    "code": "1234",
-    "folder": "test-1234"
-  },
-  "clientCode": "002cli"
+  "serial": "7ON-CT3-PLS-03B-8EJ-K3Q-P2",
+  "status": "Active",
+  "expiryDate": "2025-11-16T14:54:31.562Z",
+  "durationCode": "02",
+  "isTrial": false
 }
