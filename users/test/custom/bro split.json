@@ -17,6 +17,15 @@
   },
   "records": [
     {
+      "date": "2025-10-17T14:59:09.560Z",
+      "data": {
+        "ex-bro-split-day1-ex0-set1-weight": "10",
+        "ex-bro-split-day1-ex0-set1-reps": "5",
+        "ex-bro-split-day1-ex0-set1-tank": "0"
+      },
+      "day": 1
+    },
+    {
       "date": "2025-10-17T14:52:56.928Z",
       "data": {
         "ex-bro-split-day1-ex0-set1-weight": "5",
@@ -31,10 +40,10 @@
       "day": 1
     },
     {
-      "date": "2025-10-17T14:59:09.560Z",
+      "date": "2025-10-17T15:12:51.952Z",
       "data": {
-        "ex-bro-split-day1-ex0-set1-weight": "10",
-        "ex-bro-split-day1-ex0-set1-reps": "5",
+        "ex-bro-split-day1-ex0-set1-weight": "15",
+        "ex-bro-split-day1-ex0-set1-reps": "10",
         "ex-bro-split-day1-ex0-set1-tank": "0"
       },
       "day": 1
