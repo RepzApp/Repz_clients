@@ -1,7 +1,8 @@
 {
-  "serial": "MCD-DON-C4Y-0UW-C2Y-PLQ-32",
-  "status": "Active",
-  "expiryDate": "2025-11-16T11:33:46.085Z",
-  "durationCode": "02",
-  "isTrial": false
+  "selectedCoach": {
+    "name": "test",
+    "code": "1234",
+    "folder": "test-1234"
+  },
+  "clientCode": "001cli"
 }
