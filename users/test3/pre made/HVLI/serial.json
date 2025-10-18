@@ -3,5 +3,10 @@
     "program": "Push Pull Leg HVLI",
     "serial": "FMN-CEC-BZL-9PH-VBK-23V-89",
     "activatedAt": "2025-10-18T11:39:32.154Z"
+  },
+  {
+    "program": "Bro Split HVLI",
+    "serial": "PWL-BHV-A63-9U5-JAJ-SL2-T9",
+    "activatedAt": "2025-10-18T11:47:26.801Z"
   }
 ]
