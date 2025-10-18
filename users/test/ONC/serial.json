@@ -1,7 +1,8 @@
 {
-  "serial": "GLV-Z4Z-ONC-0QW-C7U-9XL-72",
-  "status": "Active",
-  "expiryDate": "2025-11-17T08:10:35.689Z",
-  "durationCode": "02",
-  "isTrial": false
+  "selectedCoach": {
+    "name": "video",
+    "code": "1234",
+    "folder": "video-1234"
+  },
+  "clientCode": "001cli"
 }
