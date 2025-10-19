@@ -1,0 +1,40 @@
+{
+  "2025-08-28": {
+    "ex1": {
+      "set1": {
+        "weight": "2",
+        "reps": "2",
+        "tank": "2"
+      },
+      "set2": {
+        "weight": "2",
+        "reps": "2",
+        "tank": "2"
+      },
+      "set3": {
+        "weight": "2",
+        "reps": "2",
+        "tank": "2"
+      },
+      "notes": ""
+    },
+    "ex2": {
+      "set1": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "set2": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "set3": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    }
+  }
+}
