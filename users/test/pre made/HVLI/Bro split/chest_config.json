@@ -15,6 +15,13 @@
       "numSets": 3
     },
     {
+      "id": "ex3",
+      "name": "Decline Cable Chest",
+      "image": "../../../exercises images/decline cable chest.png",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
       "id": "ex4",
       "name": "Chest Fly",
       "image": "../../../exercises images/chest fly.PNG",
