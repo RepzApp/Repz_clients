@@ -6,13 +6,6 @@
       "image": "../../../exercises images/t-bar row.PNG",
       "isSingleSide": false,
       "numSets": 3
-    },
-    {
-      "id": "ex2",
-      "name": "Rear Delt Fly",
-      "image": "../../../exercises images/rear delt fly machine.PNG",
-      "isSingleSide": false,
-      "numSets": 3
     }
   ]
 }
