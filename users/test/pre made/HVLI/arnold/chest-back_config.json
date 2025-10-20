@@ -4,7 +4,7 @@
       "id": "ex1",
       "name": "Incline Dumbbell Bench Press",
       "image": "../../../exercises images/incline chest .PNG",
-      "isSingleSide": false,
+      "isSingleSide": true,
       "numSets": 3
     },
     {
