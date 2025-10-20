@@ -64,6 +64,13 @@
       "numSets": 3
     },
     {
+      "id": "ex10",
+      "name": "Hamstring",
+      "image": "../../../exercises images/hammestring.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
       "id": "ex11",
       "name": "Standing Calves",
       "image": "../../../exercises images/standing calfes.PNG",
