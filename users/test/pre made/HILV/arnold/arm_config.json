@@ -3,8 +3,8 @@
     {
       "id": "ex1",
       "name": "Cable Lateral Raise",
-      "image": "",
-      "isSingleSide": false,
+      "image": "../../../exercises images/cable lateral raise.jpg",
+      "isSingleSide": true,
       "numSets": 2
     },
     {
