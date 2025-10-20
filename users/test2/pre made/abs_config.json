@@ -6,13 +6,6 @@
       "image": "../../../exercises images/cable crunch.PNG",
       "isSingleSide": false,
       "numSets": 3
-    },
-    {
-      "id": "ex3",
-      "name": "Abs Crunch",
-      "image": "../../../exercises images/abs crunch.PNG",
-      "isSingleSide": false,
-      "numSets": 3
     }
   ]
 }
