@@ -27,13 +27,6 @@
       "image": "../../../exercises images/adductors.PNG",
       "isSingleSide": false,
       "numSets": 3
-    },
-    {
-      "id": "ex5",
-      "name": "Standing Calves",
-      "image": "../../../exercises images/standing calfes.PNG",
-      "isSingleSide": false,
-      "numSets": 3
     }
   ]
 }
