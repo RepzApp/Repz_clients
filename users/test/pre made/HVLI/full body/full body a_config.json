@@ -43,13 +43,6 @@
       "numSets": 3
     },
     {
-      "id": "ex7",
-      "name": "Cable Bi Curl",
-      "image": "../../../exercises images/bi cable curl.PNG",
-      "isSingleSide": false,
-      "numSets": 3
-    },
-    {
       "id": "ex8",
       "name": "Decline Cable Chest",
       "image": "../../../exercises images/decline cable chest.png",
