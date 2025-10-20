@@ -20,13 +20,6 @@
       "image": "../../../exercises images/rear delt fly machine.PNG",
       "isSingleSide": false,
       "numSets": 3
-    },
-    {
-      "id": "ex4",
-      "name": "Tricep Over Head",
-      "image": "../../../exercises images/tri over head.PNG",
-      "isSingleSide": false,
-      "numSets": 3
     }
   ]
 }
