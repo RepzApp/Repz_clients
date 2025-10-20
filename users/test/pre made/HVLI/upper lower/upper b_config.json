@@ -27,13 +27,6 @@
       "image": "../../../exercises images/tri over head.PNG",
       "isSingleSide": false,
       "numSets": 3
-    },
-    {
-      "id": "ex5",
-      "name": "Seated Row Wide Grip",
-      "image": "../../../exercises images/seated row wide grip.PNG",
-      "isSingleSide": false,
-      "numSets": 3
     }
   ]
 }
