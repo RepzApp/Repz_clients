@@ -1,0 +1,25 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "رفع جانبي بالكابل",
+      "image": "../../../exercises images/cable lateral raise.jpg",
+      "isSingleSide": true,
+      "numSets": 2
+    },
+    {
+      "id": "ex2",
+      "name": "دفع الحبل للترايسبس",
+      "image": "../../../exercises images/tricep row push down.png",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex3",
+      "name": "كيرل بدون غش",
+      "image": "../../../exercises images/no cheated curl.jpg",
+      "isSingleSide": false,
+      "numSets": 2
+    }
+  ]
+}
