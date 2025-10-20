@@ -1,0 +1,25 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Hack Squat",
+      "image": "../../../exercises images/hack squat.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex2",
+      "name": "Hamstring",
+      "image": "../../../exercises images/hammestring.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex3",
+      "name": "Standing Calves",
+      "image": "../../../exercises images/standing calfes.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    }
+  ]
+}
