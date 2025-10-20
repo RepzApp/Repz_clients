@@ -13,6 +13,27 @@
       "image": "../../../exercises images/leg extension.PNG",
       "isSingleSide": false,
       "numSets": 3
+    },
+    {
+      "id": "ex3",
+      "name": "Hamstring",
+      "image": "../../../exercises images/hammestring.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex4",
+      "name": "Adductors",
+      "image": "../../../exercises images/adductors.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex5",
+      "name": "Standing Calves",
+      "image": "../../../exercises images/standing calfes.PNG",
+      "isSingleSide": false,
+      "numSets": 3
     }
   ]
 }
