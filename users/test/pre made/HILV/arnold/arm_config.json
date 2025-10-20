@@ -9,16 +9,16 @@
     },
     {
       "id": "ex2",
-      "name": "Tri Cep Rope Push Dow",
-      "image": "",
-      "isSingleSide": true,
+      "name": "Tri Cep Rope Push Down",
+      "image": "../../../exercises images/tricep row push down.png",
+      "isSingleSide": false,
       "numSets": 2
     },
     {
       "id": "ex3",
       "name": "No Cheated Curl",
-      "image": "",
-      "isSingleSide": true,
+      "image": "../../../exercises images/no cheated curl.jpg",
+      "isSingleSide": false,
       "numSets": 2
     }
   ]
