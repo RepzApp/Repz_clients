@@ -1,0 +1,32 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "T-Bar Row",
+      "image": "../../../exercises images/t-bar row.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex2",
+      "name": "Lat Pull Down",
+      "image": "../../../exercises images/lat pull down.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex3",
+      "name": "Seated Row Wide Grip",
+      "image": "../../../exercises images/seated row wide grip.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex5",
+      "name": "Lower Back Extension",
+      "image": "../../../exercises images/lower back extension.jpg",
+      "isSingleSide": false,
+      "numSets": 3
+    }
+  ]
+}
