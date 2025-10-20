@@ -15,13 +15,6 @@
       "numSets": 3
     },
     {
-      "id": "ex3",
-      "name": "Dumbbell Lat Row",
-      "image": "../../../exercises images/dumbbell lat row.PNG",
-      "isSingleSide": true,
-      "numSets": 3
-    },
-    {
       "id": "ex4",
       "name": "Cable Bi Curl",
       "image": "../../../exercises images/bi cable curl.PNG",
