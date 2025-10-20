@@ -20,13 +20,6 @@
       "image": "../../../exercises images/adductors.PNG",
       "isSingleSide": false,
       "numSets": 3
-    },
-    {
-      "id": "ex4",
-      "name": "Lower Back Extension",
-      "image": "../../../exercises images/lower back extension.jpg",
-      "isSingleSide": false,
-      "numSets": 3
     }
   ]
 }
