@@ -6,13 +6,6 @@
       "image": "../../../exercises images/squat.PNG",
       "isSingleSide": false,
       "numSets": 3
-    },
-    {
-      "id": "ex2",
-      "name": "Leg Extension",
-      "image": "../../../exercises images/leg extension.PNG",
-      "isSingleSide": false,
-      "numSets": 3
     }
   ]
 }
