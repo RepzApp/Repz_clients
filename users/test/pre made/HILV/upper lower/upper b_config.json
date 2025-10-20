@@ -1,13 +1,6 @@
 {
   "exercises": [
     {
-      "id": "ex3",
-      "name": "Cable Lateral Raise",
-      "image": "../../../exercises images/cable lateral raise.jpg",
-      "isSingleSide": true,
-      "numSets": 1
-    },
-    {
       "id": "ex4",
       "name": "SA Cable Rear Delt Fly",
       "image": "../../../exercises images/Rear delt fly.PNG",
