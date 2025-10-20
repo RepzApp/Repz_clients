@@ -13,13 +13,6 @@
       "image": "../../../exercises images/leg extension.PNG",
       "isSingleSide": false,
       "numSets": 3
-    },
-    {
-      "id": "ex3",
-      "name": "Adductors Machine",
-      "image": "../../../exercises images/adductors.PNG",
-      "isSingleSide": false,
-      "numSets": 3
     }
   ]
 }
