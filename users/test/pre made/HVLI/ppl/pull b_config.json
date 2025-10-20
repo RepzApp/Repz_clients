@@ -1,13 +1,6 @@
 {
   "exercises": [
     {
-      "id": "ex1",
-      "name": "Seated Row Wide Grip",
-      "image": "../../../exercises images/seated row wide grip.PNG",
-      "isSingleSide": false,
-      "numSets": 3
-    },
-    {
       "id": "ex4",
       "name": "Cable Bi Curl",
       "image": "../../../exercises images/bi cable curl.PNG",
