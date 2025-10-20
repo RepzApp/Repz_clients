@@ -1,0 +1,32 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Flat Smith Machine Bench Press",
+      "image": "../../../exercises images/flat smith machine.PNG",
+      "isSingleSide": true,
+      "numSets": 2
+    },
+    {
+      "id": "ex2",
+      "name": "Cable Lateral Raise",
+      "image": "../../../exercises images/cable lateral raise.jpg",
+      "isSingleSide": true,
+      "numSets": 1
+    },
+    {
+      "id": "ex3",
+      "name": "Incline Dumbbell Chest Press",
+      "image": "../../../exercises images/incline chest .PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex4",
+      "name": "Tricep Over Head (V-Grip)",
+      "image": "../../../exercises images/tri over head.PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    }
+  ]
+}
