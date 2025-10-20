@@ -1,0 +1,46 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Dumbbell Lateral Raise",
+      "image": "../../../exercises images/dumbbell lateral raise.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex2",
+      "name": "Rear Delt Fly",
+      "image": "../../../exercises images/rear delt fly.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex3",
+      "name": "Machine Shoulder Press",
+      "image": "../../../exercises images/machine shoulder press.jpg",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex4",
+      "name": "Bi Cable Curl",
+      "image": "../../../exercises images/bi cable curl.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex5",
+      "name": "Hammer Curl",
+      "image": "../../../exercises images/hammer curl.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex7",
+      "name": "Tri Cep Over Head",
+      "image": "../../../exercises images/tri over head.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    }
+  ]
+}
