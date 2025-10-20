@@ -20,13 +20,6 @@
       "image": "../../../exercises images/tri over head.PNG",
       "isSingleSide": false,
       "numSets": 3
-    },
-    {
-      "id": "ex4",
-      "name": "Dumbbell Hammer Curl",
-      "image": "../../../exercises images/hammer curl.PNG",
-      "isSingleSide": false,
-      "numSets": 3
     }
   ]
 }
