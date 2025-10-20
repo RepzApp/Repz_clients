@@ -1,0 +1,18 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Cable Reverse Curl",
+      "image": "",
+      "isSingleSide": true,
+      "numSets": 3
+    },
+    {
+      "id": "ex2",
+      "name": "Wrist Curl",
+      "image": "../../../exercises images/wrist curl.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    }
+  ]
+}
