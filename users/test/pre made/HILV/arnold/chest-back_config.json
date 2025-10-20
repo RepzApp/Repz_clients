@@ -1,0 +1,39 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Incline Dumbbell Chest Press",
+      "image": "../../../exercises images/incline chest .PNG",
+      "isSingleSide": true,
+      "numSets": 2
+    },
+    {
+      "id": "ex2",
+      "name": "T-Bar Row",
+      "image": "../../../exercises images/t-bar row.PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex3",
+      "name": "Flat Smith Machine Bench Press",
+      "image": "../../../exercises images/flat smith machine.PNG",
+      "isSingleSide": false,
+      "numSets": 1
+    },
+    {
+      "id": "ex4",
+      "name": "Lat Pull Down",
+      "image": "../../../exercises images/lat pull down.PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex5",
+      "name": "Lower Back Extension",
+      "image": "../../../exercises images/lower back extension.jpg",
+      "isSingleSide": false,
+      "numSets": 1
+    }
+  ]
+}
