@@ -22,13 +22,6 @@
       "numSets": 3
     },
     {
-      "id": "ex4",
-      "name": "Tricep Rope Push Down",
-      "image": "../../../exercises images/tricep row push down.png",
-      "isSingleSide": false,
-      "numSets": 3
-    },
-    {
       "id": "ex5",
       "name": "Seated Row Close Grip",
       "image": "../../../exercises images/seated row close grip.PNG",
