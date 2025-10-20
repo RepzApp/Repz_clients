@@ -1,0 +1,39 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Incline Dumbbell Chest Press",
+      "image": "../../../exercises images/incline chest .PNG",
+      "isSingleSide": true,
+      "numSets": 2
+    },
+    {
+      "id": "ex2",
+      "name": "Cable Lateral Raise",
+      "image": "../../../exercises images/cable lateral raise.jpg",
+      "isSingleSide": true,
+      "numSets": 1
+    },
+    {
+      "id": "ex3",
+      "name": "Decline Cable High to Low",
+      "image": "../../../exercises images/decline cable chest.png",
+      "isSingleSide": false,
+      "numSets": 1
+    },
+    {
+      "id": "ex4",
+      "name": "Machine Shoulder Press",
+      "image": "../../../exercises images/machine shoulder press.jpg",
+      "isSingleSide": false,
+      "numSets": 1
+    },
+    {
+      "id": "ex5",
+      "name": "Tricep Rope Push Down",
+      "image": "../../../exercises images/tricep row push down.png",
+      "isSingleSide": false,
+      "numSets": 2
+    }
+  ]
+}
