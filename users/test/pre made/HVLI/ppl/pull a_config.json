@@ -1,0 +1,25 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "T-Bar Row",
+      "image": "../../../exercises images/t-bar row.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex2",
+      "name": "Rear Delt Fly",
+      "image": "../../../exercises images/rear delt fly machine.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex3",
+      "name": "Machine Preacher Curl",
+      "image": "../../../exercises images/machine preacher curl.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    }
+  ]
+}
