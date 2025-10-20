@@ -4,8 +4,8 @@
       "id": "ex1",
       "name": "Incline Dumbbell Chest Press",
       "image": "../../../exercises images/incline chest .PNG",
-      "isSingleSide": false,
-      "numSets": 3
+      "numSets": 3,
+      "isSingleSide": true
     },
     {
       "id": "ex2",
