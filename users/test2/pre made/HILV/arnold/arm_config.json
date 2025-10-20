@@ -6,13 +6,6 @@
       "image": "../../../exercises images/cable lateral raise.jpg",
       "isSingleSide": true,
       "numSets": 2
-    },
-    {
-      "id": "ex2",
-      "name": "حبل تراى",
-      "image": "../../../exercises images/tricep row push down.png",
-      "isSingleSide": false,
-      "numSets": 2
     }
   ]
 }
