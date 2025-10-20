@@ -8,13 +8,6 @@
       "numSets": 1
     },
     {
-      "id": "ex3",
-      "name": "Adductors Machine",
-      "image": "../../../exercises images/adductors.PNG",
-      "isSingleSide": false,
-      "numSets": 2
-    },
-    {
       "id": "ex4",
       "name": "Lower Back Extension",
       "image": "../../../exercises images/lower back extension.jpg",
