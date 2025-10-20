@@ -4,7 +4,7 @@
       "id": "ex1",
       "name": "Squat",
       "image": "../../../exercises images/squat.PNG",
-      "isSingleSide": false,
+      "isSingleSide": true,
       "numSets": 3
     }
   ]
