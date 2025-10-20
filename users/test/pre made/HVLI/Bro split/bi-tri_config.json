@@ -13,13 +13,6 @@
       "image": "../../../exercises images/bi cable curl.PNG",
       "isSingleSide": false,
       "numSets": 3
-    },
-    {
-      "id": "ex3",
-      "name": "Tri Cep Over Head",
-      "image": "../../../exercises images/tri over head.PNG",
-      "isSingleSide": false,
-      "numSets": 3
     }
   ]
 }
