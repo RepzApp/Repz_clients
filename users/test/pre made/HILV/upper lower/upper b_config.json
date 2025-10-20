@@ -1,10 +1,38 @@
 {
   "exercises": [
     {
+      "id": "ex1",
+      "name": "Flat Smith Machine Bench Press",
+      "image": "../../../exercises images/flat smith machine.PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex2",
+      "name": "Lat Pull Down",
+      "image": "../../../exercises images/lat pull down.PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex3",
+      "name": "Cable Lateral Raise",
+      "image": "../../../exercises images/cable lateral raise.jpg",
+      "isSingleSide": true,
+      "numSets": 1
+    },
+    {
       "id": "ex4",
       "name": "SA Cable Rear Delt Fly",
       "image": "../../../exercises images/Rear delt fly.PNG",
       "isSingleSide": true,
+      "numSets": 1
+    },
+    {
+      "id": "ex5",
+      "name": "Tricep Overhead",
+      "image": "../../../exercises images/tri over head.PNG",
+      "isSingleSide": false,
       "numSets": 1
     },
     {
