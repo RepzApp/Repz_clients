@@ -4,7 +4,7 @@
       "id": "ex4",
       "name": "Cable Bi Curl",
       "image": "../../../exercises images/bi cable curl.PNG",
-      "isSingleSide": false,
+      "isSingleSide": true,
       "numSets": 3
     }
   ]
