@@ -4,7 +4,7 @@
       "id": "ex1",
       "name": "Machine Shoulder Press",
       "image": "../../../exercises images/machine shoulder press.jpg",
-      "isSingleSide": false,
+      "isSingleSide": true,
       "numSets": 3
     },
     {
