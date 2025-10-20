@@ -27,13 +27,6 @@
       "image": "../../../exercises images/bi cable curl.PNG",
       "isSingleSide": false,
       "numSets": 3
-    },
-    {
-      "id": "ex5",
-      "name": "Shrugs Diamond Bar",
-      "image": "../../../exercises images/shrugs diamond bar.PNG",
-      "isSingleSide": false,
-      "numSets": 3
     }
   ]
 }
