@@ -1,13 +1,6 @@
 {
   "exercises": [
     {
-      "id": "ex1",
-      "name": "Iliac Lat Pull Down",
-      "image": "../../../exercises images/iliac lats.jpg",
-      "isSingleSide": true,
-      "numSets": 2
-    },
-    {
       "id": "ex2",
       "name": "T-Bar Row",
       "image": "../../../exercises images/t-bar row.PNG",
