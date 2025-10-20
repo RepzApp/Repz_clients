@@ -4,7 +4,7 @@
       "id": "ex1",
       "name": "T-Bar Row",
       "image": "../../../exercises images/t-bar row.PNG",
-      "isSingleSide": false,
+      "isSingleSide": true,
       "numSets": 3
     }
   ]
