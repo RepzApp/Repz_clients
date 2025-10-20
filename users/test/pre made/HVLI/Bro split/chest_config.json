@@ -4,7 +4,7 @@
       "id": "ex2",
       "name": "Flat Bar Bench Press",
       "image": "../../../exercises images/flat bar bench press.PNG",
-      "isSingleSide": false,
+      "isSingleSide": true,
       "numSets": 3
     },
     {
