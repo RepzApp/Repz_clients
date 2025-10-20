@@ -1,13 +1,6 @@
 {
   "exercises": [
     {
-      "id": "ex1",
-      "name": "Flat Smith Machine Bench Press",
-      "image": "../../../exercises images/flat smith machine.PNG",
-      "isSingleSide": false,
-      "numSets": 2
-    },
-    {
       "id": "ex2",
       "name": "Lat Pull Down",
       "image": "../../../exercises images/lat pull down.PNG",
