@@ -4,7 +4,7 @@
       "id": "ex3",
       "name": "Standing Calves",
       "image": "../../../exercises images/standing calfes.PNG",
-      "isSingleSide": false,
+      "isSingleSide": true,
       "numSets": 3
     }
   ]
