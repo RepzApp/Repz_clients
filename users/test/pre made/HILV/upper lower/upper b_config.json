@@ -1,13 +1,6 @@
 {
   "exercises": [
     {
-      "id": "ex2",
-      "name": "Lat Pull Down",
-      "image": "../../../exercises images/lat pull down.PNG",
-      "isSingleSide": false,
-      "numSets": 2
-    },
-    {
       "id": "ex3",
       "name": "Cable Lateral Raise",
       "image": "../../../exercises images/cable lateral raise.jpg",
