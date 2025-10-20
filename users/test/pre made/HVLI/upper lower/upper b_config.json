@@ -1,13 +1,6 @@
 {
   "exercises": [
     {
-      "id": "ex1",
-      "name": "Flat Bar Bench Press",
-      "image": "../../../exercises images/flat bar bench press.PNG",
-      "isSingleSide": false,
-      "numSets": 3
-    },
-    {
       "id": "ex3",
       "name": "Rear Delt Fly",
       "image": "../../../exercises images/rear delt fly machine.PNG",
