@@ -1,0 +1,46 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Incline Dumbbell Chest Press",
+      "image": "../../../exercises images/incline chest .PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex2",
+      "name": "T-bar Row",
+      "image": "../../../exercises images/t-bar row.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex3",
+      "name": "Dumbbell Lat Row",
+      "image": "../../../exercises images/dumbbell lat row.PNG",
+      "isSingleSide": true,
+      "numSets": 3
+    },
+    {
+      "id": "ex4",
+      "name": "Tricep Rope Push Down",
+      "image": "../../../exercises images/tricep row push down.png",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex5",
+      "name": "Seated Row Close Grip",
+      "image": "../../../exercises images/seated row close grip.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex6",
+      "name": "Bicep Cable Curl",
+      "image": "../../../exercises images/bi cable curl.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    }
+  ]
+}
