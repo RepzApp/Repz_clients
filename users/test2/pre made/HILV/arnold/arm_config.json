@@ -2,21 +2,21 @@
   "exercises": [
     {
       "id": "ex1",
-      "name": "رفع جانبي بالكابل",
+      "name": "رفرفة جانبى على الكابل",
       "image": "../../../exercises images/cable lateral raise.jpg",
       "isSingleSide": true,
       "numSets": 2
     },
     {
       "id": "ex2",
-      "name": "دفع الحبل للترايسبس",
+      "name": "حبل تراى",
       "image": "../../../exercises images/tricep row push down.png",
       "isSingleSide": false,
       "numSets": 2
     },
     {
       "id": "ex3",
-      "name": "كيرل بدون غش",
+      "name": "تبادل باى",
       "image": "../../../exercises images/no cheated curl.jpg",
       "isSingleSide": false,
       "numSets": 2
