@@ -15,13 +15,6 @@
       "numSets": 3
     },
     {
-      "id": "ex3",
-      "name": "Dumbbell Lat Row",
-      "image": "../../../exercises images/dumbbell lat row.PNG",
-      "isSingleSide": true,
-      "numSets": 3
-    },
-    {
       "id": "ex5",
       "name": "Seated Row Close Grip",
       "image": "../../../exercises images/seated row close grip.PNG",
