@@ -4,7 +4,7 @@
       "id": "ex1",
       "name": "Hack Squat",
       "image": "../../../exercises images/hack squat.PNG",
-      "isSingleSide": false,
+      "isSingleSide": true,
       "numSets": 1
     },
     {
