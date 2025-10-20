@@ -9,9 +9,9 @@
     },
     {
       "id": "ex2",
-      "name": "Tri Cep Rope Push Down",
-      "image": "../../../exercises images/tricep row push down.png",
-      "isSingleSide": false,
+      "name": "Tri Cep Rope Push Dow",
+      "image": "",
+      "isSingleSide": true,
       "numSets": 2
     },
     {
