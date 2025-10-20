@@ -1,0 +1,25 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Incline Dumbbell Chest Press",
+      "image": "../../../exercises images/incline chest .PNG",
+      "isSingleSide": true,
+      "numSets": 2
+    },
+    {
+      "id": "ex2",
+      "name": "Decline Cable High to Low",
+      "image": "../../../exercises images/decline cable chest.png",
+      "isSingleSide": false,
+      "numSets": 1
+    },
+    {
+      "id": "ex3",
+      "name": "Flat Smith Machine Bench Press",
+      "image": "../../../exercises images/flat smith machine.PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    }
+  ]
+}
