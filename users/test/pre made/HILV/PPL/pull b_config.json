@@ -15,13 +15,6 @@
       "numSets": 1
     },
     {
-      "id": "ex4",
-      "name": "Dumbbell Preacher Curl",
-      "image": "../../../exercises images/dumbbell preacher curl.PNG",
-      "isSingleSide": true,
-      "numSets": 1
-    },
-    {
       "id": "ex5",
       "name": "Dead Lift",
       "image": "../../../exercises images/dead lift.PNG",
