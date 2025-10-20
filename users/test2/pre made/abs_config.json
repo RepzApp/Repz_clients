@@ -2,8 +2,22 @@
   "exercises": [
     {
       "id": "ex1",
-      "name": "Cable Crunch",
+      "name": "كرنش بالكابل",
       "image": "../../../exercises images/cable crunch.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex2",
+      "name": "تمارين جانبية للبطن",
+      "image": "../../../exercises images/side abs.PNG",
+      "isSingleSide": true,
+      "numSets": 3
+    },
+    {
+      "id": "ex3",
+      "name": "كرنش البطن",
+      "image": "../../../exercises images/abs crunch.PNG",
       "isSingleSide": false,
       "numSets": 3
     }
