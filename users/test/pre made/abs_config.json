@@ -10,8 +10,8 @@
     {
       "id": "ex2",
       "name": "Side Abs",
-      "image": "../../../exercises images/side abs.PNG",
-      "isSingleSide": true,
+      "image": "",
+      "isSingleSide": false,
       "numSets": 3
     },
     {
