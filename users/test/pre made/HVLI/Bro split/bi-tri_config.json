@@ -1,13 +1,6 @@
 {
   "exercises": [
     {
-      "id": "ex1",
-      "name": "Tri Cep Push Rope Down",
-      "image": "../../../exercises images/tricep row push down.png",
-      "isSingleSide": false,
-      "numSets": 3
-    },
-    {
       "id": "ex2",
       "name": "Cable Bi Curl",
       "image": "../../../exercises images/bi cable curl.PNG",
