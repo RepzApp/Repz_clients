@@ -8,13 +8,6 @@
       "numSets": 1
     },
     {
-      "id": "ex5",
-      "name": "Tricep Overhead",
-      "image": "../../../exercises images/tri over head.PNG",
-      "isSingleSide": false,
-      "numSets": 1
-    },
-    {
       "id": "ex6",
       "name": "No Cheated Curl",
       "image": "../../../exercises images/no cheated curl.jpg",
