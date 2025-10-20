@@ -13,13 +13,6 @@
       "image": "../../../exercises images/dumbbell lateral raise.PNG",
       "isSingleSide": false,
       "numSets": 3
-    },
-    {
-      "id": "ex3",
-      "name": "Rear Delt Fly",
-      "image": "../../../exercises images/rear delt fly machine.PNG",
-      "isSingleSide": false,
-      "numSets": 3
     }
   ]
 }
