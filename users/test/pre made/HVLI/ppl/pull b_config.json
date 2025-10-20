@@ -8,13 +8,6 @@
       "numSets": 3
     },
     {
-      "id": "ex2",
-      "name": "Lat Pull Down",
-      "image": "../../../exercises images/lat pull down.PNG",
-      "isSingleSide": false,
-      "numSets": 3
-    },
-    {
       "id": "ex4",
       "name": "Cable Bi Curl",
       "image": "../../../exercises images/bi cable curl.PNG",
