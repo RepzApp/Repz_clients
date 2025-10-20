@@ -8,9 +8,23 @@
       "numSets": 3
     },
     {
+      "id": "ex2",
+      "name": "Flat Bar Bench Press",
+      "image": "../../../exercises images/flat bar bench press.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
       "id": "ex3",
       "name": "Decline Cable Chest",
       "image": "../../../exercises images/decline cable chest.png",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex4",
+      "name": "Chest Fly",
+      "image": "../../../exercises images/chest fly.PNG",
       "isSingleSide": false,
       "numSets": 3
     }
