@@ -20,13 +20,6 @@
       "image": "../../../exercises images/seated row wide grip.PNG",
       "isSingleSide": false,
       "numSets": 3
-    },
-    {
-      "id": "ex5",
-      "name": "Lower Back Extension",
-      "image": "../../../exercises images/lower back extension.jpg",
-      "isSingleSide": false,
-      "numSets": 3
     }
   ]
 }
