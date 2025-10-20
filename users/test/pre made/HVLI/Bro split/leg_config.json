@@ -20,13 +20,6 @@
       "image": "../../../exercises images/hammestring.PNG",
       "isSingleSide": false,
       "numSets": 3
-    },
-    {
-      "id": "ex4",
-      "name": "Adductors",
-      "image": "../../../exercises images/adductors.PNG",
-      "isSingleSide": false,
-      "numSets": 3
     }
   ]
 }
