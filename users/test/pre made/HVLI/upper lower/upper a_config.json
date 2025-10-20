@@ -13,13 +13,6 @@
       "image": "../../../exercises images/t-bar row.PNG",
       "isSingleSide": false,
       "numSets": 3
-    },
-    {
-      "id": "ex5",
-      "name": "Seated Row Close Grip",
-      "image": "../../../exercises images/seated row close grip.PNG",
-      "isSingleSide": false,
-      "numSets": 3
     }
   ]
 }
