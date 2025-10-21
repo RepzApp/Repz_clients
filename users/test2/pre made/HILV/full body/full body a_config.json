@@ -29,13 +29,6 @@
       "numSets": 1
     },
     {
-      "id": "ex5",
-      "name": "حصان دامبل فردى",
-      "image": "../../../exercises images/dumbbell preacher curl.PNG",
-      "isSingleSide": true,
-      "numSets": 1
-    },
-    {
       "id": "ex8",
       "name": " سمانة واقف",
       "image": "../../../exercises images/standing calfes.PNG",
