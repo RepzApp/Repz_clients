@@ -1,0 +1,46 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "رفرفة دامبل جانبى",
+      "image": "../../../exercises images/dumbbell lateral raise.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex2",
+      "name": "فراشة خلفى",
+      "image": "../../../exercises images/rear delt fly.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex3",
+      "name": "جهاز كتف امامى",
+      "image": "../../../exercises images/machine shoulder press.jpg",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex4",
+      "name": "مسطرة باى",
+      "image": "../../../exercises images/bi cable curl.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex5",
+      "name": "هامر باى دامبل",
+      "image": "../../../exercises images/hammer curl.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex6",
+      "name": "حبل تراى",
+      "image": "../../../exercises images/tricep row push down.png",
+      "isSingleSide": false,
+      "numSets": 3
+    }
+  ]
+}
