@@ -1,0 +1,74 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "دامبل بنس عالى",
+      "image": "../../../exercises images/incline chest .PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex2",
+      "name": "تى بار رو",
+      "image": "../../../exercises images/t-bar row.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex3",
+      "name": "سحب ارضى ضيق",
+      "image": "../../../exercises images/seated row close grip.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex4",
+      "name": "كتف خلفى بالكابل",
+      "image": "../../../exercises images/rear delt fly.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex5",
+      "name": "جهاز كتف امامى",
+      "image": "../../../exercises images/machine shoulder press.jpg",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex6",
+      "name": "حبل تراى",
+      "image": "../../../exercises images/tricep row push down.png",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex7",
+      "name": "مسطرة باى",
+      "image": "../../../exercises images/bi cable curl.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex8",
+      "name": "صدر سفلى على الكابل",
+      "image": "../../../exercises images/decline cable chest.png",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex9",
+      "name": "هاك سكوات",
+      "image": "../../../exercises images/hack squat.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex10",
+      "name": "جهاز رجل امامى",
+      "image": "../../../exercises images/leg extension.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    }
+  ]
+}
