@@ -1,0 +1,53 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "دامبل بنش عالى",
+      "image": "../../../exercises images/incline chest .PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex2",
+      "name": "تى بار رو",
+      "image": "../../../exercises images/t-bar row.PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex3",
+      "name": "حبل تراى",
+      "image": "../../../exercises images/tricep row push down.png",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex4",
+      "name": "رفرفة جانبى على الكابل",
+      "image": "../../../exercises images/cable lateral raise.jpg",
+      "isSingleSide": true,
+      "numSets": 1
+    },
+    {
+      "id": "ex5",
+      "name": "حصان دامبل فردى",
+      "image": "../../../exercises images/dumbbell preacher curl.PNG",
+      "isSingleSide": true,
+      "numSets": 1
+    },
+    {
+      "id": "ex7",
+      "name": "رومانيان ديد ليفت",
+      "image": "../../../exercises images/rdl.PNG",
+      "isSingleSide": false,
+      "numSets": 1
+    },
+    {
+      "id": "ex8",
+      "name": " سمانة واقف",
+      "image": "../../../exercises images/standing calfes.PNG",
+      "isSingleSide": false,
+      "numSets": 1
+    }
+  ]
+}
