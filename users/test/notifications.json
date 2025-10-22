@@ -10,5 +10,11 @@
     "message": "Someone used your code! Now total points: 40, usable: 40",
     "timestamp": "2025-10-22T10:19:13.221Z",
     "seen": true
+  },
+  {
+    "id": 1761143043182,
+    "message": "Someone used your code! Now total points: 60, usable: 60",
+    "timestamp": "2025-10-22T14:24:03.182Z",
+    "seen": false
   }
 ]
