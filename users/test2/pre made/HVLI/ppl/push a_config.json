@@ -1,0 +1,25 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "دامبل بنش عالى",
+      "image": "../../../exercises images/incline chest .PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex2",
+      "name": "حبل تراى",
+      "image": "../../../exercises images/tricep row push down.png",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex3",
+      "name": "رفرفة دامبل جانبى",
+      "image": "../../../exercises images/dumbbell lateral raise.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    }
+  ]
+}
