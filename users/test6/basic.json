@@ -4,10 +4,11 @@
   "locked": false,
   "fcmToken": "",
   "usedDiscount": true,
-  "totalPoints": 60,
-  "usablePoints": 60,
+  "totalPoints": 80,
+  "usablePoints": 80,
   "usedCodes": [
     "TEST220",
-    "TEST620"
+    "TEST620",
+    "TEST320"
   ]
 }
