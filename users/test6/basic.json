@@ -1,0 +1,9 @@
+{
+  "gender": "male",
+  "password": "123456",
+  "locked": false,
+  "fcmToken": "",
+  "usedDiscount": false,
+  "totalPoints": 0,
+  "usablePoints": 0
+}
