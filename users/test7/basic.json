@@ -3,7 +3,9 @@
   "password": "123456",
   "locked": false,
   "fcmToken": "",
-  "usedCodes": [],
-  "totalPoints": 0,
-  "usablePoints": 0
+  "usedCodes": [
+    "TEST320"
+  ],
+  "totalPoints": 20,
+  "usablePoints": 20
 }
