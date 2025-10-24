@@ -1,14 +1,12 @@
 {
   "gender": "male",
-  "password": "123456",
   "locked": false,
-  "fcmToken": "",
-  "usedDiscount": true,
   "totalPoints": 80,
   "usablePoints": 80,
   "usedCodes": [
     "TEST220",
     "TEST620",
     "TEST320"
-  ]
+  ],
+  "lastVersion": "1.0.1.9"
 }
