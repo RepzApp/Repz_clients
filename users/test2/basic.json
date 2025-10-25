@@ -3,7 +3,10 @@
   "password": "123456",
   "locked": false,
   "fcmToken": "",
-  "totalPoints": 80,
-  "usablePoints": 30,
-  "usedDiscount": true
+  "totalPoints": 130,
+  "usablePoints": 80,
+  "usedDiscount": true,
+  "usedCodes": [
+    "AHMED_SABER50"
+  ]
 }
