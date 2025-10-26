@@ -28,5 +28,13 @@
     "message": "Someone used your code! Now total points: 100, usable: 100",
     "timestamp": "2025-10-22T14:34:43.556Z",
     "seen": true
+  },
+  {
+    "message": "test newst",
+    "timestamp": "2025-10-26T20:17:17.778Z",
+    "seen": false,
+    "repeat": false,
+    "repeatEndDate": null,
+    "displayTime": null
   }
 ]
