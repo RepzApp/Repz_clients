@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "message": "test newst",
+    "timestamp": "2025-10-26T20:17:23.960Z",
+    "seen": false,
+    "repeat": false,
+    "repeatEndDate": null,
+    "displayTime": null
+  }
+]
