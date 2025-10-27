@@ -2,5 +2,8 @@
   "gender": "male",
   "password": "123456",
   "locked": false,
-  "fcmToken": "fLbYwmhLT7qiukaf1zTO5J:APA91bG3MERbj2y1_ePkfX7qgb9ypNDsolTZNDVz11KIPJvc3Ceyu3rOj7jgvlq4alSns0Qym8q9bcXEvbggYjPgUtdtj-hMO6wAMOJY7xxwC_8xhHBV4wY"
+  "fcmToken": "fz6hwHteRv-WWwpM2nALQK:APA91bFjMv8bEb16T0cBjQNI2q3n1kTZrsm01XwfEI7M9GrYLm7w9VdqLjwXsrb5rYu7g_5tgti77efst7n8aPIX4-lrBprzmzZbrpzBGMUnnni3NShqzBQ",
+  "totalPoints": 0,
+  "usablePoints": 0,
+  "usedCodes": []
 }
