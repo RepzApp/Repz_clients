@@ -54,5 +54,13 @@
     "repeat": false,
     "repeatEndDate": null,
     "displayTime": null
+  },
+  {
+    "message": "New update is available 1.0.2.0",
+    "timestamp": "2025-10-27T14:02:22.389Z",
+    "seen": false,
+    "repeat": false,
+    "repeatEndDate": null,
+    "displayTime": null
   }
 ]
