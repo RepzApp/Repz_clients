@@ -1,0 +1,161 @@
+{
+  "workout": {
+    "name": "ارنولد",
+    "days": 3,
+    "createdAt": "2025-11-01T14:42:35.704Z",
+    "day1": {
+      "dayName": "صدر و ضهر",
+      "exercises": [
+        {
+          "name": "انكلاين",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "سحب عالي",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "بنج مستوي",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "سحب ارضي",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "بنج سفلي",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "T bar",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    },
+    "day2": {
+      "dayName": "كتف و دراع",
+      "exercises": [
+        {
+          "name": "كتف امامي",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "تراي بوش داون",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "كتف كيبل جانبي",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "تراي اوفر هيد",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "رفرفه جانبي",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "باي انكلاين علي الدكه",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "فراشه خلفي",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "ترابيس علي الدكه",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "باي مستره زجزاج",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "رست",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "ساعد",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    },
+    "day3": {
+      "dayName": "ارجل",
+      "exercises": [
+        {
+          "name": "ليج بريس",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "خلفي",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "ليج اكستنشن",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "ضمه",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "طعن",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "سمانه",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
