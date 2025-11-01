@@ -2,7 +2,7 @@
   "workout": {
     "name": "ارنولد",
     "days": 3,
-    "createdAt": "2025-11-01T14:42:35.704Z",
+    "createdAt": "2025-11-01T22:06:52.700Z",
     "day1": {
       "dayName": "صدر و ضهر",
       "exercises": [
@@ -86,7 +86,7 @@
         {
           "name": "فراشه خلفي",
           "sets": 2,
-          "singleArm": true,
+          "singleArm": false,
           "image": ""
         },
         {
