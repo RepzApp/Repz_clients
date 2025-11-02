@@ -1,10 +1,9 @@
 {
   "serialInfo": {
-    "serial": "trial",
-    "duration": "15",
-    "expiryDate": "2025-11-13T10:35:39.028Z",
-    "activatedDate": "2025-10-29T09:35:39.028Z",
-    "deviceId": "trial-device"
+    "serial": "CUS-X6J-XAK-9SL-RP8-RHW-P9",
+    "duration": "permanent",
+    "expiryDate": "permanent",
+    "activatedDate": "2025-11-02T16:19:41.937Z"
   },
   "trialUsed": true
 }
