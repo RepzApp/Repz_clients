@@ -2,7 +2,7 @@
   "workout": {
     "name": "ppl",
     "days": 3,
-    "createdAt": "2025-11-04T01:49:53.758Z",
+    "createdAt": "2025-11-04T01:39:59.926Z",
     "day1": {
       "dayName": "push",
       "exercises": [
@@ -43,6 +43,15 @@
       "data": {
         "ex-ppl-day1-ex0-set1-weight": "10",
         "ex-ppl-day1-ex0-set1-reps": "8",
+        "ex-ppl-day1-ex0-set1-tank": "0"
+      },
+      "day": 1
+    },
+    {
+      "date": "2025-11-04T01:50:59.302Z",
+      "data": {
+        "ex-ppl-day1-ex0-set1-weight": "15",
+        "ex-ppl-day1-ex0-set1-reps": "10",
         "ex-ppl-day1-ex0-set1-tank": "0"
       },
       "day": 1
