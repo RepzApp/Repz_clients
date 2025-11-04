@@ -1,0 +1,19 @@
+{
+  "workout": {
+    "name": "full body",
+    "days": 1,
+    "createdAt": "2025-11-04T01:48:01.006Z",
+    "day1": {
+      "dayName": "full body",
+      "exercises": [
+        {
+          "name": "full test",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
