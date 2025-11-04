@@ -1,0 +1,19 @@
+{
+  "workout": {
+    "name": "فول بادى",
+    "days": 1,
+    "createdAt": "2025-11-04T01:55:27.525Z",
+    "day1": {
+      "dayName": "فول بادى",
+      "exercises": [
+        {
+          "name": "تمرينة 1",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
