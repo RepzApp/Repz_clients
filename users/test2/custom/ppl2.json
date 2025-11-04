@@ -1,0 +1,19 @@
+{
+  "workout": {
+    "name": "ppl2",
+    "days": 1,
+    "createdAt": "2025-11-04T02:42:29.210Z",
+    "day1": {
+      "dayName": "push",
+      "exercises": [
+        {
+          "name": "chest fly",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
