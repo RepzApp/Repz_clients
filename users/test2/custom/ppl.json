@@ -1,0 +1,41 @@
+{
+  "workout": {
+    "name": "ppl",
+    "days": 3,
+    "createdAt": "2025-11-04T01:38:28.310Z",
+    "day1": {
+      "dayName": "push",
+      "exercises": [
+        {
+          "name": "chest fly",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    },
+    "day2": {
+      "dayName": "pull",
+      "exercises": [
+        {
+          "name": "t-bar",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    },
+    "day3": {
+      "dayName": "leg",
+      "exercises": [
+        {
+          "name": "squat",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
