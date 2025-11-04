@@ -1,0 +1,30 @@
+{
+  "workout": {
+    "name": "upper lower",
+    "days": 2,
+    "createdAt": "2025-11-04T01:41:22.102Z",
+    "day1": {
+      "dayName": "upper",
+      "exercises": [
+        {
+          "name": "chest fly",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    },
+    "day2": {
+      "dayName": "lower",
+      "exercises": [
+        {
+          "name": "squat",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
