@@ -52,5 +52,59 @@
       },
       "notes": ""
     }
+  },
+  "2025-11-05": {
+    "ex1": {
+      "set1": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "set2": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    },
+    "ex2": {
+      "set1": {
+        "weight": "",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "notes": ""
+    },
+    "ex3": {
+      "set1": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    },
+    "ex4": {
+      "set1": {
+        "weight": "35",
+        "reps": "12",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex5": {
+      "set1": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "set2": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    }
   }
 }
