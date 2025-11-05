@@ -10,13 +10,13 @@
           "name": "Y raises",
           "sets": 3,
           "singleArm": false,
-          "image": ""
+          "image": "https://liftmanual.com/wp-content/uploads/2023/04/dumbbell-incline-y-raise.jpg"
         },
         {
           "name": "Serratus anterior",
           "sets": 3,
           "singleArm": false,
-          "image": ""
+          "image": "https://weighttraining.guide/wp-content/uploads/2016/12/machine-chest-press-resized.png"
         },
         {
           "name": "rear delt fly",
@@ -34,7 +34,7 @@
           "name": "cable front raise",
           "sets": 3,
           "singleArm": true,
-          "image": ""
+          "image": "https://images.squarespace-cdn.com/content/v1/5ffcea9416aee143500ea103/1637854995298-0QU223L22UX8ZQ9SNVF4/One%2BArm%2BCable%2BFront%2BRaises.jpeg"
         },
         {
           "name": "shrugs",
