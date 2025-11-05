@@ -2,7 +2,7 @@
   "workout": {
     "name": "تأهيل الاصابة",
     "days": 1,
-    "createdAt": "2025-11-05T14:21:52.355Z",
+    "createdAt": "2025-11-05T14:30:57.923Z",
     "day1": {
       "dayName": "يوم 1",
       "exercises": [
@@ -10,43 +10,43 @@
           "name": "Y raises",
           "sets": 3,
           "singleArm": false,
-          "image": "https://liftmanual.com/wp-content/uploads/2023/04/dumbbell-incline-y-raise.jpg"
+          "image": ""
         },
         {
           "name": "Serratus anterior",
           "sets": 3,
           "singleArm": false,
-          "image": "https://weighttraining.guide/wp-content/uploads/2016/12/machine-chest-press-resized.png"
+          "image": ""
         },
         {
           "name": "rear delt fly",
           "sets": 3,
           "singleArm": false,
-          "image": ""
+          "image": "https://miro.medium.com/1*GrUZ3L1DEGvcHwW6EIRe7w.jpeg"
         },
         {
           "name": "dumbell lateral raise",
           "sets": 3,
           "singleArm": false,
-          "image": ""
+          "image": "https://weighttraining.guide/wp-content/uploads/2016/05/dumbbell-lateral-raise-resized.png"
         },
         {
           "name": "cable front raise",
           "sets": 3,
           "singleArm": true,
-          "image": "https://images.squarespace-cdn.com/content/v1/5ffcea9416aee143500ea103/1637854995298-0QU223L22UX8ZQ9SNVF4/One%2BArm%2BCable%2BFront%2BRaises.jpeg"
+          "image": ""
         },
         {
           "name": "shrugs",
           "sets": 3,
           "singleArm": false,
-          "image": ""
+          "image": "https://training.fit/wp-content/uploads/2020/02/shrugs-kabelzug.png"
         },
         {
           "name": "lat pull down",
           "sets": 3,
           "singleArm": false,
-          "image": ""
+          "image": "https://training.fit/wp-content/uploads/2020/02/latzug.png"
         }
       ]
     }
