@@ -1,4 +1,9 @@
 {
   "gender": "male",
-  "password": "atta3442"
+  "password": "atta3442",
+  "totalPoints": 0,
+  "usablePoints": 0,
+  "usedCodes": [],
+  "locked": false,
+  "fcmToken": "dpbUJYXRQJ28oGW1x6gE9G:APA91bHI32d7CTEiOlTOqlChD01Eaztv918lGTrv9BbpxGVODcXJIjcm8Kw7_igSh4u-C09sJE_YawYC7Cfqkf94gqzrXrGItA2RVUIZbKKVqpCATIDOSsE"
 }
