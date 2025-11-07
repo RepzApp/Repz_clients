@@ -1,13 +1,6 @@
 {
   "exercises": [
     {
-      "id": "ex3",
-      "name": "صدر سفلى على الكابل",
-      "image": "../../../exercises images/decline cable chest.png",
-      "isSingleSide": false,
-      "numSets": 1
-    },
-    {
       "id": "ex4",
       "name": "جهاز كتف امامى",
       "image": "../../../exercises images/machine shoulder press.jpg",
@@ -20,6 +13,13 @@
       "image": "../../../exercises images/tricep row push down.png",
       "isSingleSide": false,
       "numSets": 2
+    },
+    {
+      "id": "exmhp9leev",
+      "name": "بنش بار سميس",
+      "image": "https://share.google/images/mr0gKSRJwEBTPfAWN",
+      "numSets": 3,
+      "isSingleSide": true
     }
   ]
 }
