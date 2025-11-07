@@ -1,13 +1,6 @@
 {
   "exercises": [
     {
-      "id": "ex2",
-      "name": "رفرفة جانبى بالكابل",
-      "image": "../../../exercises images/cable lateral raise.jpg",
-      "isSingleSide": true,
-      "numSets": 1
-    },
-    {
       "id": "ex3",
       "name": "صدر سفلى على الكابل",
       "image": "../../../exercises images/decline cable chest.png",
