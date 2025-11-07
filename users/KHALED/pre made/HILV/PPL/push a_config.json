@@ -1,0 +1,32 @@
+{
+  "exercises": [
+    {
+      "id": "ex2",
+      "name": "رفرفة جانبى بالكابل",
+      "image": "../../../exercises images/cable lateral raise.jpg",
+      "isSingleSide": true,
+      "numSets": 1
+    },
+    {
+      "id": "ex3",
+      "name": "صدر سفلى على الكابل",
+      "image": "../../../exercises images/decline cable chest.png",
+      "isSingleSide": false,
+      "numSets": 1
+    },
+    {
+      "id": "ex4",
+      "name": "جهاز كتف امامى",
+      "image": "../../../exercises images/machine shoulder press.jpg",
+      "isSingleSide": false,
+      "numSets": 1
+    },
+    {
+      "id": "ex5",
+      "name": "حبل تراى",
+      "image": "../../../exercises images/tricep row push down.png",
+      "isSingleSide": false,
+      "numSets": 2
+    }
+  ]
+}
