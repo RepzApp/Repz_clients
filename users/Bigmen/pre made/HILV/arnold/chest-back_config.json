@@ -1,0 +1,39 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "عالي",
+      "image": "../../../exercises images/incline chest .PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex2",
+      "name": "تى بار رو",
+      "image": "../../../exercises images/t-bar row.PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex3",
+      "name": "صدر مستوى على السميث",
+      "image": "../../../exercises images/flat smith machine.PNG",
+      "isSingleSide": false,
+      "numSets": 1
+    },
+    {
+      "id": "ex4",
+      "name": "سحب عالى واسع",
+      "image": "../../../exercises images/lat pull down.PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex5",
+      "name": "قطانية",
+      "image": "../../../exercises images/lower back extension.jpg",
+      "isSingleSide": false,
+      "numSets": 1
+    }
+  ]
+}
