@@ -26,14 +26,14 @@
       "name": "سحب عالى واسع",
       "image": "../../../exercises images/lat pull down.PNG",
       "isSingleSide": false,
-      "numSets": 2
+      "numSets": 1
     },
     {
-      "id": "ex5",
-      "name": "قطانية",
-      "image": "../../../exercises images/lower back extension.jpg",
-      "isSingleSide": false,
-      "numSets": 1
+      "id": "exmhrzkx8a",
+      "name": "لات",
+      "image": "",
+      "numSets": 2,
+      "isSingleSide": true
     }
   ]
 }
