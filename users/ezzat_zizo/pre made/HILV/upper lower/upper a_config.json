@@ -1,0 +1,46 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "دامبل بنش عالى",
+      "image": "../../../exercises images/incline chest .PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex2",
+      "name": "تى بار رو",
+      "image": "../../../exercises images/t-bar row.PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex3",
+      "name": "لرفرفة جانبى كابل",
+      "image": "../../../exercises images/cable lateral raise.jpg",
+      "isSingleSide": true,
+      "numSets": 1
+    },
+    {
+      "id": "ex4",
+      "name": "حبل تراى",
+      "image": "../../../exercises images/tricep row push down.png",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex5",
+      "name": "حصان فردى دامبل",
+      "image": "../../../exercises images/dumbbell preacher curl.PNG",
+      "isSingleSide": true,
+      "numSets": 1
+    },
+    {
+      "id": "ex6",
+      "name": "ترابيس",
+      "image": "../../../exercises images/shrugs diamond bar.PNG",
+      "isSingleSide": false,
+      "numSets": 1
+    }
+  ]
+}
