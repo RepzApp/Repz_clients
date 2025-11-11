@@ -84,5 +84,18 @@
       ]
     }
   },
-  "records": []
+  "records": [
+    {
+      "date": "2025-11-11T13:56:31.331Z",
+      "data": {
+        "ex-ant-post-day1-ex6-set1-weight": "4",
+        "ex-ant-post-day1-ex6-set1-reps": "124",
+        "ex-ant-post-day1-ex6-set1-tank": "4",
+        "ex-ant-post-day1-ex6-set2-weight": "12",
+        "ex-ant-post-day1-ex6-set2-reps": "42",
+        "ex-ant-post-day1-ex6-set2-tank": "1"
+      },
+      "day": 1
+    }
+  ]
 }
