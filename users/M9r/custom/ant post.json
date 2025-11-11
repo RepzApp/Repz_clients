@@ -1,0 +1,88 @@
+{
+  "workout": {
+    "name": "ant post",
+    "days": 4,
+    "createdAt": "2025-11-11T13:54:44.497Z",
+    "day1": {
+      "dayName": "امامي 1",
+      "exercises": [
+        {
+          "name": "صدر عالي",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "صدر مستوي",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "تراي بوش داون",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "اوفر هيد",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "سكوات",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "كتف جانبي",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "بطن",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    },
+    "day2": {
+      "dayName": "سحب",
+      "exercises": [
+        {
+          "name": "123123",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    },
+    "day3": {
+      "dayName": "123",
+      "exercises": [
+        {
+          "name": "123",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    },
+    "day4": {
+      "dayName": "يبشسي",
+      "exercises": [
+        {
+          "name": "345لا",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
