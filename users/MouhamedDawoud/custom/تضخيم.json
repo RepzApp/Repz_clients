@@ -1,0 +1,52 @@
+{
+  "workout": {
+    "name": "تضخيم",
+    "days": 4,
+    "createdAt": "2025-11-14T19:33:22.427Z",
+    "day1": {
+      "dayName": "الاثنين",
+      "exercises": [
+        {
+          "name": "بنش",
+          "sets": 3,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    },
+    "day2": {
+      "dayName": "صدر",
+      "exercises": [
+        {
+          "name": "بنش",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    },
+    "day3": {
+      "dayName": "صدر",
+      "exercises": [
+        {
+          "name": "بنش",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    },
+    "day4": {
+      "dayName": "صدر",
+      "exercises": [
+        {
+          "name": "بنش",
+          "sets": 3,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
