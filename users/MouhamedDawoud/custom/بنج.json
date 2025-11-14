@@ -1,0 +1,19 @@
+{
+  "workout": {
+    "name": "بنج",
+    "days": 1,
+    "createdAt": "2025-11-14T19:29:09.297Z",
+    "day1": {
+      "dayName": "الخميس",
+      "exercises": [
+        {
+          "name": "بنج",
+          "sets": 3,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
