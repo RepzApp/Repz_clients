@@ -198,5 +198,51 @@
       ]
     }
   },
-  "records": []
+  "records": [
+    {
+      "date": "2025-11-16T15:07:09.965Z",
+      "data": {
+        "ex-upper-lower-day1-ex0-set1-weight": "22.5",
+        "ex-upper-lower-day1-ex0-set1-reps": "7",
+        "ex-upper-lower-day1-ex0-set2-weight": "22.5",
+        "ex-upper-lower-day1-ex0-set2-reps": "7",
+        "ex-upper-lower-day1-ex0-notes": "ارفع البنش ٤ درجات",
+        "ex-upper-lower-day1-ex1-set1-weight": "13",
+        "ex-upper-lower-day1-ex1-set1-reps": "7",
+        "ex-upper-lower-day1-ex1-set2-weight": "13",
+        "ex-upper-lower-day1-ex1-set2-reps": "7",
+        "ex-upper-lower-day1-ex1-notes": "13 بلاطه و خليك تحت القبضه و اسحب لتحت مش ل ورا",
+        "ex-upper-lower-day1-ex2-set1-weight": "32.5",
+        "ex-upper-lower-day1-ex2-set1-reps": "8",
+        "ex-upper-lower-day1-ex2-set2-weight": "32.5",
+        "ex-upper-lower-day1-ex2-set2-reps": "8",
+        "ex-upper-lower-day1-ex2-notes": "القبضه في نفس مستوى صدرك المستوي و ضم لوحين كتفك و نزل كتفك",
+        "ex-upper-lower-day1-ex3-set1-weight": "35",
+        "ex-upper-lower-day1-ex3-set1-reps": "7",
+        "ex-upper-lower-day1-ex3-set2-weight": "35",
+        "ex-upper-lower-day1-ex3-set2-reps": "7",
+        "ex-upper-lower-day1-ex3-notes": "ايدك فوق زاويه ٤٥ و اقفل و افتح لوحين كتفك و كمل kelso shrugs",
+        "ex-upper-lower-day1-ex4-set1-weight": "5",
+        "ex-upper-lower-day1-ex4-set1-right-reps": "8",
+        "ex-upper-lower-day1-ex4-set1-left-reps": "7",
+        "ex-upper-lower-day1-ex4-set2-weight": "5",
+        "ex-upper-lower-day1-ex4-set2-right-reps": "8",
+        "ex-upper-lower-day1-ex4-set2-left-reps": "7",
+        "ex-upper-lower-day1-ex4-notes": "اقرص على كتفك الخلفي و كوعك ورا جذعك سنه بسيطه و الوزن بالبلاطه و الشداد يبقى مع مفصل الريست",
+        "ex-upper-lower-day1-ex5-set1-weight": "10",
+        "ex-upper-lower-day1-ex5-set1-right-reps": "6",
+        "ex-upper-lower-day1-ex5-set1-left-reps": "4",
+        "ex-upper-lower-day1-ex5-set2-weight": "10",
+        "ex-upper-lower-day1-ex5-set2-right-reps": "6",
+        "ex-upper-lower-day1-ex5-set2-left-reps": "4",
+        "ex-upper-lower-day1-ex5-notes": "العب بالشداد عشان تكسر وزن و خلي الشداد على ريستك و حط فيه دامبل ٥",
+        "ex-upper-lower-day1-ex6-set1-weight": "8",
+        "ex-upper-lower-day1-ex6-set1-reps": "8",
+        "ex-upper-lower-day1-ex6-set2-weight": "8",
+        "ex-upper-lower-day1-ex6-set2-reps": "8",
+        "ex-upper-lower-day1-ex6-notes": "امسك اوسع قبضه و كوعك قدام جسمك حاجه بسيطه"
+      },
+      "day": 1
+    }
+  ]
 }
