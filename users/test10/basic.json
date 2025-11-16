@@ -3,8 +3,10 @@
   "password": "123456",
   "locked": false,
   "fcmToken": "",
-  "usedCodes": [],
-  "totalPoints": 0,
-  "usablePoints": 0,
+  "usedCodes": [
+    "AHMED_SABER50"
+  ],
+  "totalPoints": 50,
+  "usablePoints": 50,
   "appVersion": "1.0.2.2"
 }
