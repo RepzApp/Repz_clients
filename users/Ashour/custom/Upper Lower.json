@@ -1,0 +1,202 @@
+{
+  "workout": {
+    "name": "Upper Lower",
+    "days": 4,
+    "createdAt": "2025-11-16T13:59:30.279Z",
+    "day1": {
+      "dayName": "Upper",
+      "exercises": [
+        {
+          "name": "Smith High Incline Press",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Lat pulldown",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Chest Press Machine",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "T bar row",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "SA tricep Pushdown",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "DB Preacher Curl",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Reverse grip curls",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    },
+    "day2": {
+      "dayName": "Lower A",
+      "exercises": [
+        {
+          "name": "Machine lateral raises",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Leg press calf raises",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Leg press",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "SA Rear delt flies",
+          "sets": 1,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Seated leg curl",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Leg extension",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Hip adduction",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Wrist curls",
+          "sets": 3,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    },
+    "day3": {
+      "dayName": "Upper B",
+      "exercises": [
+        {
+          "name": "Chest press machine",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "T bar row",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Incline chest press machine",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "SA lat row",
+          "sets": 1,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Face away curl",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Tricep overhead extension",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Cable shrugs",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    },
+    "day4": {
+      "dayName": "Lower B",
+      "exercises": [
+        {
+          "name": "Cable lateral raises",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "SLDL",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Seated leg curl",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Leg extension",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Hip adduction",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Lat pulldown crunches",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Leg press calf raises",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
