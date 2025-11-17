@@ -24,13 +24,6 @@
     "displayTime": null
   },
   {
-    "message": "Your serial has expired. Please renew to continue using the app.",
-    "timestamp": "2025-11-17T07:03:34.570Z",
-    "seen": false,
-    "repeat": true,
-    "repeatEndDate": null
-  },
-  {
     "message": "انتهت صلاحية الرقم التسلسلي الخاص بك. يرجى التجديد للمتابعة في استخدام التطبيق.",
     "timestamp": "2025-11-17T09:01:08.885Z",
     "seen": false,
