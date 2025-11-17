@@ -29,5 +29,12 @@
     "seen": false,
     "repeat": true,
     "repeatEndDate": null
+  },
+  {
+    "message": "انتهت صلاحية الرقم التسلسلي الخاص بك. يرجى التجديد للمتابعة في استخدام التطبيق.",
+    "timestamp": "2025-11-17T09:01:08.885Z",
+    "seen": false,
+    "repeat": true,
+    "repeatEndDate": null
   }
 ]
