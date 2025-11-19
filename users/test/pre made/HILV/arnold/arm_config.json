@@ -1,0 +1,25 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Cable Lateral Raise",
+      "image": "../../../exercises images/cable lateral raise.jpg",
+      "isSingleSide": true,
+      "numSets": 2
+    },
+    {
+      "id": "ex2",
+      "name": "Tri Cep Rope Push Down",
+      "image": "../../../exercises images/tricep row push down.png",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex3",
+      "name": "No Cheated Curl",
+      "image": "../../../exercises images/no cheated curl.jpg",
+      "isSingleSide": false,
+      "numSets": 2
+    }
+  ]
+}
