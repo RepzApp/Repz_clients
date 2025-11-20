@@ -2,7 +2,8 @@
   "selectedCoach": {
     "name": "test coach2",
     "code": "123456",
-    "folder": "test-coach2-123456"
+    "folder": "test-coach2-123456",
+    "image": ""
   },
-  "clientCode": "001tes"
+  "clientCode": "003tes"
 }
