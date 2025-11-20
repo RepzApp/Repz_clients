@@ -2,7 +2,8 @@
   "selectedCoach": {
     "name": "test coach2",
     "code": "123456",
-    "folder": "test-coach2-123456"
+    "folder": "test-coach2-123456",
+    "profileImage": "https://raw.githubusercontent.com/AhmedSaber45/workout-serials/main/coaches/test-coach2-123456/media/coach-profile-1763639089595.PNG"
   },
   "clientCode": "002cli"
 }
