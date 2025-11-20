@@ -1,8 +1,7 @@
 {
-  "selectedCoach": {
-    "name": "test coach2",
-    "code": "123456",
-    "folder": "test-coach2-123456"
-  },
-  "clientCode": "001tes"
+  "serial": "KR3-YNK-MWS-0ON-CDV-4T4-A1",
+  "status": "Active",
+  "expiryDate": "2025-11-27T05:26:49.949Z",
+  "durationCode": "01",
+  "isTrial": false
 }
