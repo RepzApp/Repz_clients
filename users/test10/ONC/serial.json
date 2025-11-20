@@ -1,8 +1,7 @@
 {
-  "selectedCoach": {
-    "name": "test coach2",
-    "code": "123456",
-    "folder": "test-coach2-123456"
-  },
-  "clientCode": "001tes"
+  "serial": "369-DMD-UON-0CY-PVJ-A8D-J1",
+  "status": "Active",
+  "expiryDate": "2025-11-27T08:32:50.194Z",
+  "durationCode": "01",
+  "isTrial": false
 }
