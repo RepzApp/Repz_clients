@@ -1,7 +1,8 @@
 {
-  "serial": "ONC-B3F-MSS-034-3FB-V46-C1",
-  "status": "Active",
-  "expiryDate": "2025-11-27T08:35:07.909Z",
-  "durationCode": "01",
-  "isTrial": false
+  "selectedCoach": {
+    "name": "test coach2",
+    "code": "123456",
+    "folder": "test-coach2-123456"
+  },
+  "clientCode": "001tes"
 }
