@@ -1,9 +1,11 @@
 {
   "serialInfo": {
-    "serial": "98C-USH-EHQ-0LY-FF8-2FU-C1",
-    "duration": "7",
-    "expiryDate": "2025-11-24T09:04:29.842Z",
-    "activatedDate": "2025-11-17T09:04:29.842Z"
+    "serial": "ONC-5W3-YVL-04W-AYU-4Y9-T1",
+    "duration": "90",
+    "expiryDate": "2026-02-18T14:49:38.277Z",
+    "activatedDate": "2025-11-20T14:49:38.277Z",
+    "deviceId": "device-tyu7ipe20d3snkuokl51b",
+    "isGhost": true
   },
   "trialUsed": true
 }
