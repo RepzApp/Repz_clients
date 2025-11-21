@@ -56,5 +56,15 @@
       ]
     }
   },
-  "records": []
+  "records": [
+    {
+      "date": "2025-11-21T06:42:04.644Z",
+      "data": {
+        "ex-ppl-day1-ex0-set1-weight": "5",
+        "ex-ppl-day1-ex0-set1-reps": "10",
+        "ex-ppl-day1-ex0-set1-tank": "0"
+      },
+      "day": 1
+    }
+  ]
 }
