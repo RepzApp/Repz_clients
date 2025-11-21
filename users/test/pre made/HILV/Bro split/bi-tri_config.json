@@ -10,7 +10,7 @@
     {
       "id": "ex2",
       "name": "No Cheated Curl",
-      "image": "https://i.ytimg.com/vi/EV5kZrHnVbM/sddefault.jpg",
+      "image": "../../../exercises images/no cheated curl.jpg",
       "isSingleSide": false,
       "numSets": 2
     },
