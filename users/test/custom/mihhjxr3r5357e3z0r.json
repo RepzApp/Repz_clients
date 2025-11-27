@@ -2,7 +2,7 @@
   "workout": {
     "name": "test tech",
     "days": 1,
-    "createdAt": "2025-11-27T13:46:44.439Z",
+    "createdAt": "2025-11-27T13:47:52.175Z",
     "id": "mihhjxr3r5357e3z0r",
     "day1": {
       "dayName": "push",
@@ -29,6 +29,30 @@
           "singleArm": false,
           "image": "",
           "setType": "Superset",
+          "staticNotes": ""
+        },
+        {
+          "name": "exer4",
+          "sets": 1,
+          "singleArm": false,
+          "image": "",
+          "setType": "Normal",
+          "staticNotes": ""
+        },
+        {
+          "name": "exer 5",
+          "sets": 1,
+          "singleArm": false,
+          "image": "",
+          "setType": "Superset",
+          "staticNotes": ""
+        },
+        {
+          "name": "exer 6",
+          "sets": 1,
+          "singleArm": false,
+          "image": "",
+          "setType": "Giant Set",
           "staticNotes": ""
         }
       ]
