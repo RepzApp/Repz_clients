@@ -1,0 +1,23 @@
+{
+  "workout": {
+    "name": "test2",
+    "days": 1,
+    "createdAt": "2025-11-27T14:59:29.198Z",
+    "id": "mihk6iyxsrxaowl57u",
+    "day1": {
+      "dayName": "push",
+      "exercises": [
+        {
+          "name": "test1",
+          "sets": 1,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/Repz_clients/main/users/test/custom/media/test1-1763532704280.jpg",
+          "groupId": "None",
+          "isDropset": true,
+          "staticNotes": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
