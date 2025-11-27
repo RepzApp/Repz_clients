@@ -19,5 +19,23 @@
       ]
     }
   },
-  "records": []
+  "records": [
+    {
+      "date": "2025-11-27T15:00:15.303Z",
+      "data": {
+        "ex-test2-day1-ex0-set1-weight": "15",
+        "ex-test2-day1-ex0-set1-reps": "10",
+        "ex-test2-day1-ex0-set1-tank": "0",
+        "ex-test2-day1-ex0-set1-drop0-weight": "12.5",
+        "ex-test2-day1-ex0-set1-drop0-reps": "8",
+        "ex-test2-day1-ex0-set1-drop1-weight": "10",
+        "ex-test2-day1-ex0-set1-drop1-reps": "8",
+        "ex-test2-day1-ex0-set1-drop2-weight": "5",
+        "ex-test2-day1-ex0-set1-drop2-reps": "6",
+        "ex-test2-day1-ex0-set1-drop3-weight": "2.5",
+        "ex-test2-day1-ex0-set1-drop3-reps": "10"
+      },
+      "day": 1
+    }
+  ]
 }
