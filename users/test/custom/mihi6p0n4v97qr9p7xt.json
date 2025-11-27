@@ -1,0 +1,68 @@
+{
+  "workout": {
+    "name": "test tech2",
+    "days": 1,
+    "createdAt": "2025-11-27T14:02:42.599Z",
+    "id": "mihi6p0n4v97qr9p7xt",
+    "day1": {
+      "dayName": "test tech 2",
+      "exercises": [
+        {
+          "name": "exer 1",
+          "sets": 1,
+          "singleArm": false,
+          "image": "",
+          "groupId": "None",
+          "isDropset": true,
+          "staticNotes": ""
+        },
+        {
+          "name": "exer 2",
+          "sets": 1,
+          "singleArm": false,
+          "image": "",
+          "groupId": "A",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "exer 3",
+          "sets": 1,
+          "singleArm": false,
+          "image": "",
+          "groupId": "A",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "exer 4",
+          "sets": 1,
+          "singleArm": false,
+          "image": "",
+          "groupId": "A",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "exer 5",
+          "sets": 1,
+          "singleArm": false,
+          "image": "",
+          "groupId": "B",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "exer 6",
+          "sets": 1,
+          "singleArm": false,
+          "image": "",
+          "groupId": "B",
+          "isDropset": false,
+          "staticNotes": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
