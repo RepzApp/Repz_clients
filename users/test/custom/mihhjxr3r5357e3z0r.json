@@ -58,5 +58,16 @@
       ]
     }
   },
-  "records": []
+  "records": [
+    {
+      "date": "2025-11-27T13:49:17.039Z",
+      "data": {
+        "ex-test-tech-day1-ex0-set1-weight": "15",
+        "ex-test-tech-day1-ex0-set1-reps": "10",
+        "ex-test-tech-day1-ex0-set1-tank": "0",
+        "ex-test-tech-day1-ex0-notes": "notes write "
+      },
+      "day": 1
+    }
+  ]
 }
