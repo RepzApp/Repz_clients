@@ -2,7 +2,7 @@
   "workout": {
     "name": "test tech",
     "days": 1,
-    "createdAt": "2025-11-27T13:45:00.831Z",
+    "createdAt": "2025-11-27T13:46:44.439Z",
     "id": "mihhjxr3r5357e3z0r",
     "day1": {
       "dayName": "push",
@@ -21,6 +21,14 @@
           "singleArm": false,
           "image": "",
           "setType": "Dropset",
+          "staticNotes": ""
+        },
+        {
+          "name": "exer 3",
+          "sets": 1,
+          "singleArm": false,
+          "image": "",
+          "setType": "Superset",
           "staticNotes": ""
         }
       ]
