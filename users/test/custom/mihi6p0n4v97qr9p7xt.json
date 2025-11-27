@@ -64,5 +64,15 @@
       ]
     }
   },
-  "records": []
+  "records": [
+    {
+      "date": "2025-11-27T14:40:41.790Z",
+      "data": {
+        "ex-test-tech2-day1-ex0-set1-weight": "15",
+        "ex-test-tech2-day1-ex0-set1-reps": "10",
+        "ex-test-tech2-day1-ex0-set1-tank": "0"
+      },
+      "day": 1
+    }
+  ]
 }
