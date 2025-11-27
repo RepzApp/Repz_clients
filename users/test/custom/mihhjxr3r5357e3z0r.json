@@ -1,8 +1,8 @@
 {
   "workout": {
     "name": "test tech",
-    "days": 1,
-    "createdAt": "2025-11-27T13:47:52.175Z",
+    "days": 2,
+    "createdAt": "2025-11-27T15:37:27.541Z",
     "id": "mihhjxr3r5357e3z0r",
     "day1": {
       "dayName": "push",
@@ -12,7 +12,8 @@
           "sets": 1,
           "singleArm": false,
           "image": "",
-          "setType": "Superset",
+          "groupId": "None",
+          "isDropset": false,
           "staticNotes": "test notes"
         },
         {
@@ -20,7 +21,8 @@
           "sets": 1,
           "singleArm": false,
           "image": "",
-          "setType": "Dropset",
+          "groupId": "None",
+          "isDropset": false,
           "staticNotes": ""
         },
         {
@@ -28,7 +30,8 @@
           "sets": 1,
           "singleArm": false,
           "image": "",
-          "setType": "Superset",
+          "groupId": "None",
+          "isDropset": false,
           "staticNotes": ""
         },
         {
@@ -36,7 +39,8 @@
           "sets": 1,
           "singleArm": false,
           "image": "",
-          "setType": "Normal",
+          "groupId": "None",
+          "isDropset": false,
           "staticNotes": ""
         },
         {
@@ -44,7 +48,8 @@
           "sets": 1,
           "singleArm": false,
           "image": "",
-          "setType": "Superset",
+          "groupId": "None",
+          "isDropset": false,
           "staticNotes": ""
         },
         {
@@ -52,7 +57,22 @@
           "sets": 1,
           "singleArm": false,
           "image": "",
-          "setType": "Giant Set",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        }
+      ]
+    },
+    "day2": {
+      "dayName": "day 2 test",
+      "exercises": [
+        {
+          "name": "exer2",
+          "sets": 1,
+          "singleArm": false,
+          "image": "",
+          "groupId": "None",
+          "isDropset": false,
           "staticNotes": ""
         }
       ]
