@@ -80,6 +80,16 @@
   },
   "records": [
     {
+      "date": "2025-11-28T09:13:07.139Z",
+      "data": {
+        "ex-test-tech-day2-ex0-set1-weight": "15",
+        "ex-test-tech-day2-ex0-set1-reps": "10",
+        "ex-test-tech-day2-ex0-set1-tank": "0",
+        "ex-test-tech-day2-ex0-set1-rest": "0"
+      },
+      "day": 2
+    },
+    {
       "date": "2025-11-27T13:49:17.039Z",
       "data": {
         "ex-test-tech-day1-ex0-set1-weight": "15",
@@ -90,12 +100,12 @@
       "day": 1
     },
     {
-      "date": "2025-11-28T09:13:07.139Z",
+      "date": "2025-11-28T09:13:54.907Z",
       "data": {
-        "ex-test-tech-day2-ex0-set1-weight": "15",
+        "ex-test-tech-day2-ex0-set1-weight": "20",
         "ex-test-tech-day2-ex0-set1-reps": "10",
         "ex-test-tech-day2-ex0-set1-tank": "0",
-        "ex-test-tech-day2-ex0-set1-rest": "0"
+        "ex-test-tech-day2-ex0-set1-rest": "15"
       },
       "day": 2
     }
