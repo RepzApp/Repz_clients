@@ -28,5 +28,21 @@
       ]
     }
   },
-  "records": []
+  "records": [
+    {
+      "date": "2025-11-28T15:23:43.039Z",
+      "data": {
+        "ex-test-his-table-2-day1-ex0-set1-weight": "15",
+        "ex-test-his-table-2-day1-ex0-set1-reps": "10",
+        "ex-test-his-table-2-day1-ex0-set1-tank": "0",
+        "ex-test-his-table-2-day1-ex0-set1-rest": "5",
+        "ex-test-his-table-2-day1-ex1-set1-weight": "30",
+        "ex-test-his-table-2-day1-ex1-set1-reps": "10",
+        "ex-test-his-table-2-day1-ex1-set1-tank": "0",
+        "ex-test-his-table-2-day1-ex1-set1-rest": "15",
+        "ex-test-his-table-2-day1-ex1-notes": "test notes exer 2"
+      },
+      "day": 1
+    }
+  ]
 }
