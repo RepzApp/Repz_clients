@@ -39,6 +39,18 @@
         "ex-test-history-table-day1-ex1-set1-rest": "0"
       },
       "day": 1
+    },
+    {
+      "date": "2025-11-28T15:11:18.568Z",
+      "data": {
+        "ex-test-history-table-day1-ex0-set1-weight": "15",
+        "ex-test-history-table-day1-ex0-set1-rest": "0",
+        "ex-test-history-table-day1-ex1-set1-weight": "30",
+        "ex-test-history-table-day1-ex1-set1-reps": "10",
+        "ex-test-history-table-day1-ex1-set1-tank": "0",
+        "ex-test-history-table-day1-ex1-set1-rest": "0"
+      },
+      "day": 1
     }
   ]
 }
