@@ -1,0 +1,32 @@
+{
+  "workout": {
+    "name": "test history table",
+    "days": 1,
+    "createdAt": "2025-11-28T15:09:50.872Z",
+    "id": "mij00vx4sgcb6bb9dgk",
+    "day1": {
+      "dayName": "push",
+      "exercises": [
+        {
+          "name": "incline dumbbell chest press دامبل بنش عالى",
+          "sets": 1,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1764254273742_incline_dumbbell_chest_press_دامبل_بنش_عالى.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "lats pull down سحب عالى واسع",
+          "sets": 1,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1764254330422_lats_pull_down_سحب_عالى_واسع.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
