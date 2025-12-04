@@ -3,16 +3,19 @@
     "ex1": {
       "set1": {
         "weight": "15",
-        "reps": "10",
-        "tank": "0"
+        "rest": "0",
+        "reps": "",
+        "tank": ""
       },
       "set2": {
         "weight": "",
+        "rest": "0",
         "reps": "",
         "tank": ""
       },
       "set3": {
         "weight": "",
+        "rest": "0",
         "reps": "",
         "tank": ""
       },
@@ -21,6 +24,7 @@
     "ex2": {
       "set1": {
         "weight": "",
+        "rest": "0",
         "rightReps": "",
         "rightTank": "",
         "leftReps": "",
@@ -28,6 +32,7 @@
       },
       "set2": {
         "weight": "",
+        "rest": "0",
         "rightReps": "",
         "rightTank": "",
         "leftReps": "",
@@ -35,6 +40,7 @@
       },
       "set3": {
         "weight": "",
+        "rest": "0",
         "rightReps": "",
         "rightTank": "",
         "leftReps": "",
@@ -45,16 +51,19 @@
     "ex3": {
       "set1": {
         "weight": "",
+        "rest": "6",
         "reps": "",
         "tank": ""
       },
       "set2": {
         "weight": "",
+        "rest": "0",
         "reps": "",
         "tank": ""
       },
       "set3": {
         "weight": "",
+        "rest": "0",
         "reps": "",
         "tank": ""
       },
