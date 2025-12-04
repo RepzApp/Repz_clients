@@ -77,9 +77,9 @@
     },
     "ex3": {
       "set1": {
-        "weight": "15",
-        "reps": "8",
-        "tank": "0"
+        "weight": "",
+        "reps": "",
+        "tank": ""
       },
       "set2": {
         "weight": "",
