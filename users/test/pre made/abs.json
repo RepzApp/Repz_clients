@@ -50,10 +50,10 @@
     },
     "ex3": {
       "set1": {
-        "weight": "",
-        "rest": "6",
-        "reps": "",
-        "tank": ""
+        "weight": "15",
+        "rest": "15",
+        "reps": "10",
+        "tank": "0"
       },
       "set2": {
         "weight": "",
