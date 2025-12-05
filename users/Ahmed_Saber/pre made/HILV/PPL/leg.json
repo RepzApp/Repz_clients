@@ -1,0 +1,58 @@
+{
+  "2025-12-05": {
+    "ex1": {
+      "set1": {
+        "weight": "8",
+        "rightReps": "10",
+        "rightTank": "0",
+        "leftReps": "10",
+        "leftTank": "0"
+      },
+      "set2": {
+        "weight": "10",
+        "rightReps": "10",
+        "rightTank": "0",
+        "leftReps": "10",
+        "leftTank": "0"
+      },
+      "notes": "لعبت زوجى"
+    },
+    "ex2": {
+      "set1": {
+        "weight": "50",
+        "reps": "12",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex3": {
+      "set1": {
+        "weight": "15",
+        "reps": "10",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex4": {
+      "set1": {
+        "weight": "10",
+        "reps": "10",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex5": {
+      "set1": {
+        "weight": "15",
+        "reps": "15",
+        "tank": "0"
+      },
+      "set2": {
+        "weight": "15",
+        "reps": "15",
+        "tank": "0"
+      },
+      "notes": ""
+    }
+  }
+}
