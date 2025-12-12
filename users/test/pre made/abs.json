@@ -69,5 +69,76 @@
       },
       "notes": ""
     }
+  },
+  "2025-12-12": {
+    "ex1": {
+      "set1": {
+        "weight": "15",
+        "rest": "4",
+        "reps": "",
+        "tank": ""
+      },
+      "set2": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "set3": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    },
+    "ex2": {
+      "set1": {
+        "weight": "",
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "set2": {
+        "weight": "",
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "set3": {
+        "weight": "",
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "notes": ""
+    },
+    "ex3": {
+      "set1": {
+        "weight": "15",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "set2": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "set3": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    }
   }
 }
