@@ -50,7 +50,7 @@
   {
     "message": "test newst",
     "timestamp": "2025-10-26T20:17:15.751Z",
-    "seen": false,
+    "seen": true,
     "repeat": false,
     "repeatEndDate": null,
     "displayTime": null
@@ -58,7 +58,7 @@
   {
     "message": "New update is available 1.0.2.0",
     "timestamp": "2025-10-27T14:02:26.135Z",
-    "seen": false,
+    "seen": true,
     "repeat": false,
     "repeatEndDate": null,
     "displayTime": null
@@ -66,7 +66,7 @@
   {
     "message": "New update is available 1.0.2.1",
     "timestamp": "2025-10-27T14:33:22.975Z",
-    "seen": false,
+    "seen": true,
     "repeat": false,
     "repeatEndDate": null,
     "displayTime": null
@@ -74,7 +74,7 @@
   {
     "message": "New update is available 1.0.2.2",
     "timestamp": "2025-10-27T14:51:20.786Z",
-    "seen": false,
+    "seen": true,
     "repeat": false,
     "repeatEndDate": null,
     "displayTime": null
