@@ -1,0 +1,220 @@
+{
+  "workout": {
+    "name": "Anterior",
+    "days": 4,
+    "createdAt": "2025-12-15T18:20:08.830Z",
+    "day1": {
+      "dayName": "Anterior a",
+      "exercises": [
+        {
+          "name": "Flat machine press",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Calf raises",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Leg press",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Incline press",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Cable lateral raises",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Tri b.d",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Wrest flexion",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Cable shrugs",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Ab crunch",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    },
+    "day2": {
+      "dayName": "Posterior a",
+      "exercises": [
+        {
+          "name": "Lat pull down",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Upper back row",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "SLDL",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Preacher curl",
+          "sets": 1,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "iliac pull down",
+          "sets": 1,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "No cheat curl",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Rear delt",
+          "sets": 1,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Reverse curl",
+          "sets": 1,
+          "singleArm": true,
+          "image": ""
+        }
+      ]
+    },
+    "day3": {
+      "dayName": "Anterior b",
+      "exercises": [
+        {
+          "name": "Leg extension",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "D.b lateral raises",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Incline d.b press",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Overhead cable",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Pec.dec",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "dumbbel shoulder press",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "QL extension",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    },
+    "day4": {
+      "dayName": "Posterior b",
+      "exercises": [
+        {
+          "name": "Lying leg cutl",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Chest supported u.b",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Sldl",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "S.a lat row",
+          "sets": 1,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Preacher curl",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Bi curl l",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Reverse curl",
+          "sets": 1,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Bsck dxtension",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
