@@ -1,7 +1,9 @@
 {
-  "serial": "4ON-CDB-9UP-0TW-H8N-S3L-A2",
-  "status": "Active",
-  "expiryDate": "2026-01-14T11:15:21.110Z",
-  "durationCode": "02",
-  "isTrial": false
+  "selectedCoach": {
+    "name": "test coach2",
+    "code": "123456",
+    "folder": "test-coach2-123456",
+    "profileImage": "https://raw.githubusercontent.com/AhmedSaber45/workout-serials/main/coaches/test-coach2-123456/media/profile-1764243941908.png"
+  },
+  "clientCode": "004tes"
 }
