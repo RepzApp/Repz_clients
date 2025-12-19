@@ -1,0 +1,71 @@
+{
+  "2025-12-19": {
+    "ex1": {
+      "set1": {
+        "weight": "10",
+        "reps": "12",
+        "tank": "5"
+      },
+      "set2": {
+        "weight": "15",
+        "reps": "10",
+        "tank": "5"
+      },
+      "notes": "تسخين \nايدى فى نص الخط "
+    },
+    "ex2": {
+      "set1": {
+        "weight": "1",
+        "rightReps": "12",
+        "rightTank": "5",
+        "leftReps": "12",
+        "leftTank": "5"
+      },
+      "notes": "تسخين \nفتحة خامسة من تحت \nحبل قماش بدل الشداد"
+    },
+    "ex3": {
+      "set1": {
+        "weight": "15",
+        "reps": "12",
+        "tank": "5"
+      },
+      "set2": {
+        "weight": "20",
+        "reps": "12",
+        "tank": "5"
+      },
+      "notes": ""
+    },
+    "ex4": {
+      "set1": {
+        "weight": "3",
+        "reps": "12",
+        "tank": "5"
+      },
+      "set2": {
+        "weight": "3",
+        "reps": "12",
+        "tank": "5"
+      },
+      "notes": "الفتحة التامنة من تحت \nمسكرة زجزاج"
+    },
+    "exmhx9notn": {
+      "set1": {
+        "weight": "20",
+        "reps": "15",
+        "tank": "5"
+      },
+      "set2": {
+        "weight": "20",
+        "reps": "15",
+        "tank": "5"
+      },
+      "set3": {
+        "weight": "20",
+        "reps": "12",
+        "tank": "5"
+      },
+      "notes": ""
+    }
+  }
+}
