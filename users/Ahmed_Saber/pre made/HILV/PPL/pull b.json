@@ -181,5 +181,79 @@
       },
       "notes": ""
     }
+  },
+  "2025-12-20": {
+    "ex1": {
+      "set1": {
+        "weight": "5",
+        "rightReps": "15",
+        "rightTank": "5",
+        "leftReps": "15",
+        "leftTank": "5"
+      },
+      "set2": {
+        "weight": "5",
+        "rightReps": "15",
+        "rightTank": "5",
+        "leftReps": "15",
+        "leftTank": "5"
+      },
+      "notes": "كابل جديد\nفتحة رابعة من فوق \nتسخين"
+    },
+    "ex2": {
+      "set1": {
+        "weight": "30",
+        "reps": "12",
+        "tank": "5"
+      },
+      "notes": "تسخين"
+    },
+    "ex3": {
+      "set1": {
+        "weight": "15",
+        "reps": "15",
+        "tank": "10"
+      },
+      "notes": "تسخين "
+    },
+    "ex4": {
+      "set1": {
+        "weight": "7.5",
+        "rightReps": "15",
+        "rightTank": "5",
+        "leftReps": "15",
+        "leftTank": "5"
+      },
+      "notes": "تسخين "
+    },
+    "ex5": {
+      "set1": {
+        "weight": "15",
+        "reps": "15",
+        "tank": "5"
+      },
+      "notes": "تسخين"
+    },
+    "ex6": {
+      "set1": {
+        "weight": "0",
+        "reps": "15",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "exmjeg62l2": {
+      "set1": {
+        "weight": "5",
+        "reps": "15",
+        "tank": "5"
+      },
+      "set2": {
+        "weight": "5",
+        "reps": "15",
+        "tank": "5"
+      },
+      "notes": "جهاز جديد \nقبضة جديدة ضيقة\nسهم القبضة لفوق"
+    }
   }
 }
