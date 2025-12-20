@@ -1,11 +1,9 @@
 {
   "serialInfo": {
-    "serial": "3UA-XVZ-UGW-97Y-VZD-CUS-V9",
-    "programId": "11",
-    "duration": 0,
-    "expiryDate": "2025-12-20T17:53:16.220Z",
-    "activatedDate": "2025-12-20T17:53:16.220Z",
-    "deviceId": "device-r9x9q8i2y"
+    "serial": "CUS-4N7-88X-9ZE-SMD-HZ2-H9",
+    "duration": "permanent",
+    "expiryDate": "permanent",
+    "activatedDate": "2025-12-20T18:02:52.388Z"
   },
   "trialUsed": true
 }
