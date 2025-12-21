@@ -54,5 +54,61 @@
       },
       "notes": ""
     }
+  },
+  "2025-12-21": {
+    "ex1": {
+      "set1": {
+        "weight": "14",
+        "rightReps": "10",
+        "rightTank": "5",
+        "leftReps": "10",
+        "leftTank": "5"
+      },
+      "set2": {
+        "weight": "14",
+        "rightReps": "10",
+        "rightTank": "5",
+        "leftReps": "10",
+        "leftTank": "5"
+      },
+      "notes": "تسخين\nلعبت زوجى"
+    },
+    "ex2": {
+      "set1": {
+        "weight": "70",
+        "reps": "12",
+        "tank": "5"
+      },
+      "notes": "تسخين"
+    },
+    "ex3": {
+      "set1": {
+        "weight": "15",
+        "reps": "12",
+        "tank": "3"
+      },
+      "notes": "تسخين"
+    },
+    "ex4": {
+      "set1": {
+        "weight": "10",
+        "reps": "12",
+        "tank": "5"
+      },
+      "notes": "تسخين"
+    },
+    "ex5": {
+      "set1": {
+        "weight": "25",
+        "reps": "12",
+        "tank": "5"
+      },
+      "set2": {
+        "weight": "25",
+        "reps": "12",
+        "tank": "5"
+      },
+      "notes": "تسخين"
+    }
   }
 }
