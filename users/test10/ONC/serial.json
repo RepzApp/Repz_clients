@@ -1,9 +1,7 @@
 {
-  "selectedCoach": {
-    "name": "test coach2",
-    "code": "123456",
-    "folder": "test-coach2-123456",
-    "profileImage": "https://raw.githubusercontent.com/AhmedSaber45/workout-serials/main/coaches/test-coach2-123456/media/profile-1764243941908.png"
-  },
-  "clientCode": "004tes"
+  "serial": "G62-CTP-A7O-0NC-B2B-QED-U2",
+  "status": "Active",
+  "expiryDate": "2026-01-21T00:04:01.813Z",
+  "durationCode": "02",
+  "isTrial": false
 }
