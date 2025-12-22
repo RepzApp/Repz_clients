@@ -1,9 +1,11 @@
 {
   "serialInfo": {
-    "serial": "CDE-GMQ-TCU-0SJ-SPP-3FW-Y1",
-    "duration": "7",
-    "expiryDate": "2025-12-29T12:02:38.808Z",
-    "activatedDate": "2025-12-22T12:02:38.808Z"
+    "serial": "G62-CTP-A7O-0NC-B2B-QED-U2",
+    "duration": "90",
+    "expiryDate": "2026-03-22T22:38:58.578Z",
+    "activatedDate": "2025-12-22T22:38:58.578Z",
+    "deviceId": "device-187iuw1vc8yamjwk5pscqt",
+    "isGhost": true
   },
   "trialUsed": true
 }
