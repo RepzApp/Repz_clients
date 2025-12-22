@@ -28,5 +28,17 @@
       ]
     }
   },
-  "records": []
+  "records": [
+    {
+      "date": "2025-12-22T12:03:07.923Z",
+      "data": {
+        "ex-test-history-table-day1-ex0-set1-weight": "10",
+        "ex-test-history-table-day1-ex0-set1-reps": "5",
+        "ex-test-history-table-day1-ex0-set1-tank": "10",
+        "ex-test-history-table-day1-ex0-set1-rest": "0",
+        "ex-test-history-table-day1-ex1-set1-rest": "0"
+      },
+      "day": 1
+    }
+  ]
 }
