@@ -217,5 +217,62 @@
       },
       "notes": ""
     }
+  },
+  "2025-12-23": {
+    "ex1": {
+      "set1": {
+        "weight": "45",
+        "reps": "9.5",
+        "tank": "0"
+      },
+      "set2": {
+        "weight": "45",
+        "reps": "10.3",
+        "tank": "0"
+      },
+      "notes": ""
+    },
+    "ex3": {
+      "set1": {
+        "weight": "6",
+        "reps": "10",
+        "tank": "5"
+      },
+      "set2": {
+        "weight": "7",
+        "reps": "10",
+        "tank": "5"
+      },
+      "notes": ""
+    },
+    "ex4": {
+      "set1": {
+        "weight": "7",
+        "reps": "10",
+        "tank": "2"
+      },
+      "notes": ""
+    },
+    "ex5": {
+      "set1": {
+        "weight": "10",
+        "reps": "12",
+        "tank": "5"
+      },
+      "set2": {
+        "weight": "12",
+        "reps": "9",
+        "tank": "0"
+      },
+      "notes": "بوصلها ببقى تعبان اوى "
+    },
+    "ex6": {
+      "set1": {
+        "weight": "0",
+        "reps": "15",
+        "tank": "0"
+      },
+      "notes": ""
+    }
   }
 }
