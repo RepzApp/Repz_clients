@@ -67,5 +67,74 @@
       },
       "notes": ""
     }
+  },
+  "2025-12-24": {
+    "ex1": {
+      "set1": {
+        "weight": "25",
+        "reps": "10",
+        "tank": "0"
+      },
+      "set2": {
+        "weight": "27.5",
+        "reps": "6",
+        "tank": ""
+      },
+      "notes": "ايدى فى نص العلامة "
+    },
+    "ex2": {
+      "set1": {
+        "weight": "1",
+        "rightReps": "12",
+        "rightTank": "5",
+        "leftReps": "12",
+        "leftTank": "5"
+      },
+      "notes": "فتحة خامسة من تحت "
+    },
+    "ex3": {
+      "set1": {
+        "weight": "25",
+        "reps": "9",
+        "tank": "0"
+      },
+      "set2": {
+        "weight": "0",
+        "reps": "0",
+        "tank": "0"
+      },
+      "notes": "لاعبين مجموعة واحدة بس "
+    },
+    "ex4": {
+      "set1": {
+        "weight": "5",
+        "reps": "10",
+        "tank": "2"
+      },
+      "set2": {
+        "weight": "5",
+        "reps": "10",
+        "tank": "0"
+      },
+      "notes": "فتحة 8 من تحت مسطرة زجزاج"
+    },
+    "exmhx9notn": {
+      "set1": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "set2": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "set3": {
+        "weight": "",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": "مالعبتهاش"
+    }
   }
 }
