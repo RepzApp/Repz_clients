@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2025-12-25T19:02:35.512Z",
+    "createdAt": "2025-12-25T19:36:43.376Z",
     "id": "mjlt873sfa5dqs6qro",
     "day1": {
       "dayName": "Push A",
@@ -304,7 +304,7 @@
           "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/dumbell standing wrist curl.webp",
           "groupId": "B",
           "isDropset": false,
-          "staticNotes": "50 عدة اول مجموعة\n25 عدة تانى مجموعة"
+          "staticNotes": "أول مجموعة 50 عدة | تانى مجموعة 25 عدة"
         },
         {
           "name": "Dumbbell reverse curl  تمرين الكيرل العكسي بالدمبل",
@@ -313,7 +313,7 @@
           "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678037823_Dumbbell_reverse_curl_تمرين_الكيرل_العكسي_بالدمبل.webp",
           "groupId": "B",
           "isDropset": false,
-          "staticNotes": "25 عدة اوى مجموعة\n50 عدة تانى مجموعة"
+          "staticNotes": "أول مجموعة 25 عدة | تانى مجموعة 50 عدة"
         }
       ]
     }
