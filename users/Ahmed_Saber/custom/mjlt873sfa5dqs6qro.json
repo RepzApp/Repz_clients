@@ -1,0 +1,322 @@
+{
+  "workout": {
+    "name": "Push Pull Leg",
+    "days": 5,
+    "createdAt": "2025-12-25T19:02:35.512Z",
+    "id": "mjlt873sfa5dqs6qro",
+    "day1": {
+      "dayName": "Push A",
+      "exercises": [
+        {
+          "name": "incline dumbbell chest press دامبل بنش عالى",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1764254273742_incline_dumbbell_chest_press_دامبل_بنش_عالى.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Cable Lateral Raise رفرفة جانبى فردى بالكابل",
+          "sets": 2,
+          "singleArm": true,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678417951_Cable_Lateral_Raise_رفرفة_جانبى_فردى_بالكابل.jpg",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": "فتحة خامسة من تحت"
+        },
+        {
+          "name": "Decline Cable Fly (Lower Chest) صدر سفلى بالكابل",
+          "sets": 1,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678504671_Decline_Cable_Fly_(Lower_Chest)_صدر_سفلى_بالكابل.png",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": "فتحة خامسة من فوق \nافتح ايدى 90 درجة"
+        },
+        {
+          "name": "Machine Shoulder Press  جهاز كتف أمامى",
+          "sets": 1,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678536079_Machine_Shoulder_Press_جهاز_كتف_أمامى.jpg",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "TriCep Rope Push Down حبل تراى",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678560479_TriCep_Rope_Push_Down_حبل_تراى.png",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": "حبل جديد"
+        },
+        {
+          "name": "Serratus Anterior العضلة المنشارية",
+          "sets": 1,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766679372911_Serratus_Anterior_العضلة_المنشارية.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": "على جهاز البنش"
+        }
+      ]
+    },
+    "day2": {
+      "dayName": "Pull A",
+      "exercises": [
+        {
+          "name": "T-Bar Row || Kelsu Shrugs",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766679913439_T-Bar_Row_تجديف_بالبار_T.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "illiac Lat Pull Down Single Arm سحب عالى فردى مجنص",
+          "sets": 1,
+          "singleArm": true,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680052087_illiac_Lat_Pull_Down_Single_Arm_سحب_عالى_فردى_مجنص.jpg",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": "فتحة رابعة من فوق"
+        },
+        {
+          "name": "No Cheated Dumbbell Curl دامبل باى بدون غش",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680142743_No_Cheated_Dumbbell_Curl_دامبل_باى_بدون_غش.jpg",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Rear Delt Row Wide Grip سحب كتف خلفى واسع",
+          "sets": 1,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680185919_Rear_Delt_Row_Wide_Grip_سحب_كتف_خلفى_واسع.png",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Lower Back Extension جهاز قطانية",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680227007_Lower_Back_Extension_جهاز_قطانية.jpg",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        }
+      ]
+    },
+    "day3": {
+      "dayName": "Push B",
+      "exercises": [
+        {
+          "name": "Flat Smith Machine Bench Press صدر مستوى على جهاز السميث",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766679477887_Flat_Smith_Machine_Bench_Press_صدر_مستوى_على_جهاز_السميث.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": "ايدى فى نص العلامة من البار"
+        },
+        {
+          "name": "Single Arm Cable Y-Raise",
+          "sets": 2,
+          "singleArm": true,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766679729087_Cable_Y-Raise_كابل_رفرفة_Y.webp",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": "فتحة رابعة من تحت\nفردة الكوع ثابتة \nبطلع لحد اقصى مدى فى كتفى"
+        },
+        {
+          "name": "incline dumbbell chest press دامبل بنش عالى",
+          "sets": 1,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1764254273742_incline_dumbbell_chest_press_دامبل_بنش_عالى.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Single Arm Cable  Seated TriCep Over Head تراى فردى قاعد للرأس الطويلة على الكابل",
+          "sets": 2,
+          "singleArm": true,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766679856935_Single_Arm_Seated_TriCep_Over_Head_تراى_فردى_قاعد_للرأس_الطويلة_على_الكابل.jpg",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": "كابل قديم"
+        },
+        {
+          "name": "Serratus Anterior العضلة المنشارية",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766679372911_Serratus_Anterior_العضلة_المنشارية.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": "جهاز البنش"
+        }
+      ]
+    },
+    "day4": {
+      "dayName": "Pull B",
+      "exercises": [
+        {
+          "name": "lats pull down سحب عالى واسع",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1764254330422_lats_pull_down_سحب_عالى_واسع.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "T-Bar Row تجديف بالبار T",
+          "sets": 1,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766679913439_T-Bar_Row_تجديف_بالبار_T.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Seated Row Close V-Grip سحب أرضى ضيق",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680264568_Seated_Row_Close_Grip_سحب_أرضى_ضيق.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": "سهم القبضة باصص لفوق عشان تلزق كوعى جمبى"
+        },
+        {
+          "name": "Shrugs Diamond Bar(Trapz) ترابيس بار واسع",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680304535_Shrugs_Diamond_Bar(Trapz)_ترابيس_بار_واسع.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Machine Preacher Curl جهاز حصان باى",
+          "sets": 1,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680330255_Machine_Preacher_Curl_جهاز_حصان_باى.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Bar Dead Lift بار ديد ليفت",
+          "sets": 1,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680372303_Bar_Dead_Lift_بار_ديد_ليفت.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": "For Strength"
+        }
+      ]
+    },
+    "day5": {
+      "dayName": "Leg",
+      "exercises": [
+        {
+          "name": "Single Leg Extension جهاز رجل  أمامى",
+          "sets": 2,
+          "singleArm": true,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677276719_Leg_Extension_جهاز_رجل_أمامى.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Adductor Machine جهاز ضامة",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677300119_Adductor_Machine_جهاز_ضامة.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Hack Squat جهاز هاك اسكوات",
+          "sets": 1,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677320319_Hack_Squat_جهاز_هاك_اسكوات.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Dumbbell RDL (Romanian deadlift)  دامبل رومانيان ديد ليفت",
+          "sets": 1,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677393791_Dumbbell_RDL_(Romanian_deadlift)_دامبل_رومانيان_ديد_ليفت.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Standing Calves سمانة واقف على الجهاز",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677426607_Standing_Calves_سمانة_واقف_على_الجهاز.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Cable Crunch تمرين الكرنش بالكابل",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677467999_Cable_Crunch_تمرين_الكرنش_بالكابل.PNG",
+          "groupId": "A",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Single Side Cable Crunch كرانش فردى جانبى على الكابل",
+          "sets": 2,
+          "singleArm": true,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677586487_Single_Side_Cable_Crunch_كرانش_فردى_جانبى_على_الكابل.webp",
+          "groupId": "A",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Straight Leg Raise رفع الساق المستقيمة",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677669887_Straight_Leg_Raise_رفع_الساق_المستقيمة.webp",
+          "groupId": "A",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Dumbbell Standing Wrist Curl دامبل ثنى الساعد واقف",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/dumbell standing wrist curl.webp",
+          "groupId": "B",
+          "isDropset": false,
+          "staticNotes": "50 عدة اول مجموعة\n25 عدة تانى مجموعة"
+        },
+        {
+          "name": "Dumbbell reverse curl  تمرين الكيرل العكسي بالدمبل",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678037823_Dumbbell_reverse_curl_تمرين_الكيرل_العكسي_بالدمبل.webp",
+          "groupId": "B",
+          "isDropset": false,
+          "staticNotes": "25 عدة اوى مجموعة\n50 عدة تانى مجموعة"
+        }
+      ]
+    }
+  },
+  "records": []
+}
