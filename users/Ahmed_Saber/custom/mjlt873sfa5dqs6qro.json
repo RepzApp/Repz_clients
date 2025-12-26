@@ -318,5 +318,50 @@
       ]
     }
   },
-  "records": []
+  "records": [
+    {
+      "date": "2025-12-26T18:32:33.331Z",
+      "data": {
+        "ex-push-pull-leg-day4-ex0-set1-weight": "8",
+        "ex-push-pull-leg-day4-ex0-set1-reps": "10",
+        "ex-push-pull-leg-day4-ex0-set1-tank": "5",
+        "ex-push-pull-leg-day4-ex0-set1-rest": "195",
+        "ex-push-pull-leg-day4-ex0-set2-weight": "9",
+        "ex-push-pull-leg-day4-ex0-set2-reps": "10",
+        "ex-push-pull-leg-day4-ex0-set2-tank": "3",
+        "ex-push-pull-leg-day4-ex0-set2-rest": "300",
+        "ex-push-pull-leg-day4-ex0-notes": "كتفى وجعنى سنة بسيطة اوى ",
+        "ex-push-pull-leg-day4-ex1-set1-weight": "45",
+        "ex-push-pull-leg-day4-ex1-set1-reps": "9.5",
+        "ex-push-pull-leg-day4-ex1-set1-tank": "0",
+        "ex-push-pull-leg-day4-ex1-set1-rest": "180",
+        "ex-push-pull-leg-day4-ex2-set1-weight": "7",
+        "ex-push-pull-leg-day4-ex2-set1-reps": "10",
+        "ex-push-pull-leg-day4-ex2-set1-tank": "5",
+        "ex-push-pull-leg-day4-ex2-set1-rest": "195",
+        "ex-push-pull-leg-day4-ex2-set2-weight": "9",
+        "ex-push-pull-leg-day4-ex2-set2-reps": "8",
+        "ex-push-pull-leg-day4-ex2-set2-tank": "0",
+        "ex-push-pull-leg-day4-ex2-set2-rest": "240",
+        "ex-push-pull-leg-day4-ex3-set1-weight": "20",
+        "ex-push-pull-leg-day4-ex3-set1-reps": "12",
+        "ex-push-pull-leg-day4-ex3-set1-tank": "5",
+        "ex-push-pull-leg-day4-ex3-set1-rest": "150",
+        "ex-push-pull-leg-day4-ex3-set2-weight": "25",
+        "ex-push-pull-leg-day4-ex3-set2-reps": "12",
+        "ex-push-pull-leg-day4-ex3-set2-tank": "3",
+        "ex-push-pull-leg-day4-ex3-set2-rest": "180",
+        "ex-push-pull-leg-day4-ex4-set1-weight": "6",
+        "ex-push-pull-leg-day4-ex4-set1-reps": "8.5",
+        "ex-push-pull-leg-day4-ex4-set1-tank": "0",
+        "ex-push-pull-leg-day4-ex4-set1-rest": "150",
+        "ex-push-pull-leg-day4-ex4-notes": "كتفى الشمال وجعنى سنة بسيطة فى الانقباض",
+        "ex-push-pull-leg-day4-ex5-set1-weight": "20",
+        "ex-push-pull-leg-day4-ex5-set1-reps": "12",
+        "ex-push-pull-leg-day4-ex5-set1-tank": "5",
+        "ex-push-pull-leg-day4-ex5-set1-rest": "0"
+      },
+      "day": 4
+    }
+  ]
 }
