@@ -78,12 +78,5 @@
     "repeat": false,
     "repeatEndDate": null,
     "displayTime": null
-  },
-  {
-    "message": "Your serial has expired. Please renew to continue using the app.",
-    "timestamp": "2025-12-26T15:35:48.393Z",
-    "seen": false,
-    "repeat": true,
-    "repeatEndDate": null
   }
 ]
