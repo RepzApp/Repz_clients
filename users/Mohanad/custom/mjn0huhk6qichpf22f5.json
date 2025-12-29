@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2025-12-29T19:38:25.391Z",
+    "createdAt": "2025-12-29T19:39:04.148Z",
     "id": "mjn0huhk6qichpf22f5",
     "day1": {
       "dayName": "Push A",
@@ -302,7 +302,7 @@
           "sets": 2,
           "singleArm": false,
           "image": "https://raw.githubusercontent.com/RepzApp/Repz_clients/main/users/Mohanad/custom/media/dumbell standing wrist curl.webp",
-          "groupId": "B",
+          "groupId": "None",
           "isDropset": false,
           "staticNotes": "أول مجموعة 50 عدة | تانى مجموعة 25 عدة"
         },
