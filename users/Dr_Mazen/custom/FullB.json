@@ -1,0 +1,103 @@
+{
+  "workout": {
+    "name": "FullB",
+    "days": 1,
+    "createdAt": "2025-12-31T20:40:28.704Z",
+    "day1": {
+      "dayName": "FullB",
+      "exercises": [
+        {
+          "name": "Incline 60D chest press",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Tbar row",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Chest fly",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Arm extension",
+          "sets": 1,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Arm adduction",
+          "sets": 1,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Leg extension",
+          "sets": 1,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Cable lateral raises",
+          "sets": 1,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Dumbbell lateral raises",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Leg curl",
+          "sets": 1,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Triceps push down",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "No cheat biceps curl",
+          "sets": 1,
+          "singleArm": false,
+          "image": ""
+        },
+        {
+          "name": "Triceps overhead",
+          "sets": 1,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "60D preacher curl",
+          "sets": 1,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Brachioradialis",
+          "sets": 2,
+          "singleArm": true,
+          "image": ""
+        },
+        {
+          "name": "Wrist flexion",
+          "sets": 2,
+          "singleArm": false,
+          "image": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
