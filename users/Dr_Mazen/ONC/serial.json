@@ -1,7 +1,8 @@
 {
-  "serial": "AON-CKX-3TC-0B2-MXY-CY3-Q2",
-  "status": "نشط",
-  "expiryDate": "2026-01-25T16:33:32.381Z",
-  "durationCode": "02",
-  "isTrial": false
+  "selectedCoach": {
+    "name": "DrMazen",
+    "code": "Mazen2A",
+    "folder": "DrMazen-Mazen2A"
+  },
+  "clientCode": "Ahmed4S3M2A"
 }
