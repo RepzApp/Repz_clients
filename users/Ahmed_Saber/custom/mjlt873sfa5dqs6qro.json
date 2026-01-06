@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2025-12-25T19:36:43.376Z",
+    "createdAt": "2026-01-06T22:31:49.398Z",
     "id": "mjlt873sfa5dqs6qro",
     "day1": {
       "dayName": "Push A",
@@ -132,7 +132,7 @@
           "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766679729087_Cable_Y-Raise_كابل_رفرفة_Y.webp",
           "groupId": "None",
           "isDropset": false,
-          "staticNotes": "فتحة رابعة من تحت\nفردة الكوع ثابتة \nبطلع لحد اقصى مدى فى كتفى"
+          "staticNotes": "فتحة تالتة من تحت\nاقف قدام الكابل"
         },
         {
           "name": "incline dumbbell chest press دامبل بنش عالى",
@@ -293,7 +293,7 @@
           "sets": 2,
           "singleArm": false,
           "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677669887_Straight_Leg_Raise_رفع_الساق_المستقيمة.webp",
-          "groupId": "A",
+          "groupId": "None",
           "isDropset": false,
           "staticNotes": ""
         },
