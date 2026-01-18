@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "message": "Your coach serial will expire in 3 days. Please renew to avoid interruption.",
+    "timestamp": "2026-01-18T21:05:25.801Z",
+    "seen": false,
+    "repeat": true,
+    "repeatEndDate": "2026-01-21T00:04:01.813Z"
+  }
+]
