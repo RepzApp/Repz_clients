@@ -1,0 +1,23 @@
+{
+  "workout": {
+    "name": "test single",
+    "days": 1,
+    "createdAt": "2026-01-22T13:49:23.797Z",
+    "id": "mkpid9zpqig66wepkbc",
+    "day1": {
+      "dayName": "single exercise",
+      "exercises": [
+        {
+          "name": "No Cheated Dumbbell Curl دامبل باى بدون غش",
+          "sets": 1,
+          "singleArm": true,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680142743_No_Cheated_Dumbbell_Curl_دامبل_باى_بدون_غش.jpg",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
