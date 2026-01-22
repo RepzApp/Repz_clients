@@ -31,6 +31,18 @@
         "ex-test-single-day1-ex0-set1-rest": "0"
       },
       "day": 1
+    },
+    {
+      "date": "2026-01-22T14:52:14.125Z",
+      "data": {
+        "ex-test-single-day1-ex0-set1-weight": "10",
+        "ex-test-single-day1-ex0-set1-right-reps": "15",
+        "ex-test-single-day1-ex0-set1-right-tank": "0",
+        "ex-test-single-day1-ex0-set1-left-reps": "0",
+        "ex-test-single-day1-ex0-set1-left-tank": "0",
+        "ex-test-single-day1-ex0-set1-rest": "14"
+      },
+      "day": 1
     }
   ]
 }
