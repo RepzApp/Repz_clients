@@ -1,0 +1,63 @@
+{
+  "2025-12-25": {
+    "ex1": {
+      "set1": {
+        "weight": "10",
+        "rest": "15",
+        "reps": "15",
+        "tank": "0"
+      },
+      "set2": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    },
+    "ex3": {
+      "set1": {
+        "weight": "",
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "notes": ""
+    },
+    "ex4": {
+      "set1": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    },
+    "ex5": {
+      "set1": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "set2": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    },
+    "ex6": {
+      "set1": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    }
+  }
+}
