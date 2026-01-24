@@ -23,8 +23,8 @@
       "set1": {
         "weight": "55",
         "rest": "0",
-        "reps": "10",
-        "tank": "0"
+        "reps": "",
+        "tank": ""
       },
       "notes": ""
     },
@@ -32,8 +32,8 @@
       "set1": {
         "weight": "90",
         "rest": "0",
-        "reps": "",
-        "tank": ""
+        "reps": "10",
+        "tank": "0"
       },
       "set2": {
         "weight": "",
