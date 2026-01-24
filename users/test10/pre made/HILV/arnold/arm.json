@@ -3,11 +3,11 @@
     "ex1": {
       "set1": {
         "weight": "15",
-        "rest": "90",
-        "rightReps": "10",
-        "rightTank": "0",
-        "leftReps": "10",
-        "leftTank": "0"
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
       },
       "set2": {
         "weight": "",
@@ -36,10 +36,10 @@
     },
     "ex3": {
       "set1": {
-        "weight": "",
+        "weight": "120",
         "rest": "0",
-        "reps": "",
-        "tank": ""
+        "reps": "5",
+        "tank": "0"
       },
       "set2": {
         "weight": "",
