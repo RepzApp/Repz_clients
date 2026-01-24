@@ -11,7 +11,7 @@
     },
     "ex2": {
       "set1": {
-        "weight": "20",
+        "weight": "",
         "rest": "0",
         "reps": "10",
         "tank": "0"
@@ -35,10 +35,10 @@
     },
     "ex4": {
       "set1": {
-        "weight": "",
+        "weight": "55",
         "rest": "0",
-        "reps": "",
-        "tank": ""
+        "reps": "10",
+        "tank": "0"
       },
       "notes": ""
     },
