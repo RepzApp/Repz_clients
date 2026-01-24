@@ -21,10 +21,10 @@
     },
     "ex2": {
       "set1": {
-        "weight": "10",
+        "weight": "55",
         "rest": "0",
-        "reps": "",
-        "tank": ""
+        "reps": "10",
+        "tank": "0"
       },
       "notes": ""
     },
@@ -32,8 +32,8 @@
       "set1": {
         "weight": "90",
         "rest": "0",
-        "reps": "10",
-        "tank": "0"
+        "reps": "",
+        "tank": ""
       },
       "set2": {
         "weight": "",
