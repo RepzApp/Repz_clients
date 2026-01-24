@@ -4,17 +4,17 @@
       "set1": {
         "weight": "15",
         "rest": "0",
-        "reps": "15",
-        "tank": "0"
+        "reps": "",
+        "tank": ""
       },
       "notes": ""
     },
     "ex2": {
       "set1": {
-        "weight": "",
+        "weight": "20",
         "rest": "0",
-        "reps": "",
-        "tank": ""
+        "reps": "10",
+        "tank": "0"
       },
       "set2": {
         "weight": "",
@@ -26,7 +26,7 @@
     },
     "ex3": {
       "set1": {
-        "weight": "",
+        "weight": "120",
         "rest": "0",
         "reps": "",
         "tank": ""
