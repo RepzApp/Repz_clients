@@ -4,8 +4,8 @@
       "set1": {
         "weight": "15",
         "rest": "0",
-        "reps": "",
-        "tank": ""
+        "reps": "10",
+        "tank": "0"
       },
       "notes": ""
     },
@@ -13,8 +13,8 @@
       "set1": {
         "weight": "",
         "rest": "0",
-        "reps": "10",
-        "tank": "0"
+        "reps": "",
+        "tank": ""
       },
       "set2": {
         "weight": "",
@@ -35,10 +35,10 @@
     },
     "ex4": {
       "set1": {
-        "weight": "55",
+        "weight": "",
         "rest": "0",
-        "reps": "10",
-        "tank": "0"
+        "reps": "",
+        "tank": ""
       },
       "notes": ""
     },
