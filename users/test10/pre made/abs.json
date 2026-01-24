@@ -74,15 +74,15 @@
     "ex1": {
       "set1": {
         "weight": "10",
-        "rest": "0",
+        "rest": "5",
         "reps": "",
         "tank": ""
       },
       "set2": {
         "weight": "15",
-        "rest": "90",
-        "reps": "10",
-        "tank": "0"
+        "rest": "3",
+        "reps": "",
+        "tank": ""
       },
       "set3": {
         "weight": "",
