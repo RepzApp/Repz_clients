@@ -4,10 +4,10 @@
       "set1": {
         "weight": "10",
         "rest": "0",
-        "rightReps": "51",
-        "rightTank": "0",
-        "leftReps": "10",
-        "leftTank": "0"
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
       },
       "set2": {
         "weight": "",
@@ -23,17 +23,17 @@
       "set1": {
         "weight": "10",
         "rest": "0",
-        "reps": "5",
-        "tank": "0"
+        "reps": "",
+        "tank": ""
       },
       "notes": ""
     },
     "ex3": {
       "set1": {
-        "weight": "",
+        "weight": "90",
         "rest": "0",
-        "reps": "",
-        "tank": ""
+        "reps": "10",
+        "tank": "0"
       },
       "set2": {
         "weight": "",
