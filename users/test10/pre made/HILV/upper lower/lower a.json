@@ -2,10 +2,10 @@
   "2026-01-24": {
     "ex1": {
       "set1": {
-        "weight": "15",
+        "weight": "25",
         "rest": "0",
-        "reps": "",
-        "tank": ""
+        "reps": "10",
+        "tank": "0"
       },
       "notes": ""
     },
@@ -37,8 +37,8 @@
       "set1": {
         "weight": "55",
         "rest": "0",
-        "reps": "10",
-        "tank": "0"
+        "reps": "",
+        "tank": ""
       },
       "notes": ""
     },
