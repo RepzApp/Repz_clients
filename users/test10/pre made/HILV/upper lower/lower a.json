@@ -3,9 +3,9 @@
     "ex1": {
       "set1": {
         "weight": "10",
-        "rest": "0",
-        "reps": "",
-        "tank": ""
+        "rest": "90",
+        "reps": "20",
+        "tank": "5"
       },
       "notes": ""
     },
