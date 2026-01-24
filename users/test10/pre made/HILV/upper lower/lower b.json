@@ -6,8 +6,8 @@
         "rest": "0",
         "rightReps": "51",
         "rightTank": "0",
-        "leftReps": "",
-        "leftTank": ""
+        "leftReps": "10",
+        "leftTank": "0"
       },
       "set2": {
         "weight": "",
