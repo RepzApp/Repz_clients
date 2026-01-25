@@ -2,7 +2,7 @@
   "workout": {
     "name": "test tech",
     "days": 1,
-    "createdAt": "2026-01-25T12:49:04.463Z",
+    "createdAt": "2026-01-25T12:49:47.095Z",
     "id": "mktqj9anw1va7nxo5s",
     "day1": {
       "dayName": "pushA",
@@ -10,7 +10,7 @@
         {
           "name": "Adductor Machine جهاز ضامة",
           "sets": 1,
-          "singleArm": false,
+          "singleArm": true,
           "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677300119_Adductor_Machine_جهاز_ضامة.PNG",
           "groupId": "None",
           "isDropset": true,
