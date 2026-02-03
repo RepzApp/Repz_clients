@@ -1,10 +1,9 @@
 {
   "serialInfo": {
-    "serial": "trial",
-    "duration": "15",
-    "expiryDate": "2026-02-07T16:02:07.569Z",
-    "activatedDate": "2026-01-23T16:02:07.574Z",
-    "deviceId": "trial-device"
+    "serial": "RCU-SWN-YNZ-9YE-DGB-7GE-P9",
+    "duration": "permanent",
+    "expiryDate": "permanent",
+    "activatedDate": "2026-02-03T20:31:07.291Z"
   },
   "trialUsed": true
 }
