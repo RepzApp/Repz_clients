@@ -1,10 +1,9 @@
 {
   "serialInfo": {
-    "serial": "trial",
-    "duration": "30",
-    "expiryDate": "2026-03-06T14:29:15.325Z",
-    "activatedDate": "2026-02-04T14:29:15.325Z",
-    "deviceId": "trial-device"
+    "serial": "0LV-EDF-Y7E-EL5-D4C-S87-0UI",
+    "duration": "365 days",
+    "expiryDate": "2027-02-04T14:42:52.288Z",
+    "activatedDate": "2026-02-04T14:42:52.288Z"
   },
   "trialUsed": true
 }
