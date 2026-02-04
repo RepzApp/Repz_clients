@@ -6,5 +6,13 @@
   "usedCodes": [],
   "totalPoints": 0,
   "usablePoints": 0,
-  "appVersion": "1.0.2.3"
+  "appVersion": "1.0.2.3",
+  "activeSubscription": {
+    "programId": "11",
+    "programName": "Custom Workout",
+    "activatedAt": "2026-02-04T14:32:11.088Z",
+    "expiresAt": "2026-08-03T13:32:11.088Z",
+    "isDirect": true,
+    "status": "active"
+  }
 }
