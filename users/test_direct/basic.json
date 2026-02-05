@@ -8,10 +8,10 @@
   "usablePoints": 0,
   "appVersion": "1.0.2.3",
   "activeSubscription": {
-    "programId": "8",
-    "programName": "Arnold HVLI",
-    "activatedAt": "2026-02-04T15:15:57.448Z",
-    "expiresAt": "2126-01-11T15:15:57.448Z",
+    "programId": "11",
+    "programName": "Custom Workout",
+    "activatedAt": "2026-02-05T10:11:22.617Z",
+    "expiresAt": "2026-08-04T09:11:22.617Z",
     "isDirect": true,
     "status": "active"
   }
