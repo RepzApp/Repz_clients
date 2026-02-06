@@ -1,0 +1,46 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "صدر مستوى على السميث",
+      "image": "../../../exercises images/flat smith machine.PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex2",
+      "name": "سحب عالى واسع",
+      "image": "../../../exercises images/lat pull down.PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex3",
+      "name": "رفرفة جانبى بالكابل",
+      "image": "../../../exercises images/cable lateral raise.jpg",
+      "isSingleSide": true,
+      "numSets": 1
+    },
+    {
+      "id": "ex4",
+      "name": "كتف خلفى فردى على الكابل",
+      "image": "../../../exercises images/Rear delt fly.PNG",
+      "isSingleSide": true,
+      "numSets": 1
+    },
+    {
+      "id": "ex5",
+      "name": "تراى اوفر هيد",
+      "image": "../../../exercises images/tri over head.PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex6",
+      "name": "تبادل باى",
+      "image": "../../../exercises images/no cheated curl.jpg",
+      "isSingleSide": false,
+      "numSets": 2
+    }
+  ]
+}
