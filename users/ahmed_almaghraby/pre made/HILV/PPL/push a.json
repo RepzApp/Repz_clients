@@ -1,0 +1,63 @@
+{
+  "2026-02-07": {
+    "ex1": {
+      "set1": {
+        "weight": "40",
+        "rest": "0",
+        "reps": "8",
+        "tank": "1"
+      },
+      "set2": {
+        "weight": "40",
+        "rest": "0",
+        "reps": "7",
+        "tank": "1"
+      },
+      "notes": ""
+    },
+    "ex2": {
+      "set1": {
+        "weight": "",
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "notes": ""
+    },
+    "ex3": {
+      "set1": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    },
+    "ex4": {
+      "set1": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    },
+    "ex5": {
+      "set1": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "set2": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    }
+  }
+}
