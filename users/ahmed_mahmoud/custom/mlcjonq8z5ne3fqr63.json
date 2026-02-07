@@ -53,15 +53,12 @@
   },
   "records": [
     {
-      "date": "2026-02-07T16:48:19.393Z",
+      "date": "2026-02-07T16:49:41.574Z",
       "data": {
         "ex-anterior-day1-ex0-set1-weight": "85",
         "ex-anterior-day1-ex0-set1-reps": "12",
         "ex-anterior-day1-ex0-set1-tank": "1",
         "ex-anterior-day1-ex0-set1-rest": "0",
-        "ex-anterior-day1-ex1-set1-weight": "35",
-        "ex-anterior-day1-ex1-set1-reps": "12",
-        "ex-anterior-day1-ex1-set1-tank": "2",
         "ex-anterior-day1-ex1-set1-rest": "0"
       },
       "day": 1
