@@ -62,6 +62,18 @@
         "ex-anterior-day1-ex1-set1-rest": "0"
       },
       "day": 1
+    },
+    {
+      "date": "2026-02-07T16:50:04.336Z",
+      "data": {
+        "ex-anterior-day1-ex0-set1-weight": "85",
+        "ex-anterior-day1-ex0-set1-rest": "0",
+        "ex-anterior-day1-ex1-set1-weight": "35",
+        "ex-anterior-day1-ex1-set1-reps": "12",
+        "ex-anterior-day1-ex1-set1-tank": "2",
+        "ex-anterior-day1-ex1-set1-rest": "0"
+      },
+      "day": 1
     }
   ]
 }
