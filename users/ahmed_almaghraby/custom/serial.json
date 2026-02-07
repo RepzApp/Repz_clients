@@ -1,10 +1,9 @@
 {
   "serialInfo": {
-    "serial": "trial",
-    "duration": "15",
-    "expiryDate": "2026-02-21T15:53:40.874Z",
-    "activatedDate": "2026-02-06T15:53:40.874Z",
-    "deviceId": "trial-device"
+    "serial": "TJ2-EAC-USS-9Z7-XXR-LDH-R9",
+    "duration": "Permanent",
+    "expiryDate": "permanent",
+    "activatedDate": "2026-02-07T23:58:22.626Z"
   },
   "trialUsed": true
 }
