@@ -2,11 +2,11 @@
   {
     "message": "Coach sent a message",
     "timestamp": "2026-02-11T14:59:17.282Z",
-    "seen": false
+    "seen": true
   },
   {
     "message": "Coach sent a message",
     "timestamp": "2026-02-11T15:29:02.506Z",
-    "seen": false
+    "seen": true
   }
 ]
