@@ -8,5 +8,10 @@
     "message": "Coach sent a message",
     "timestamp": "2026-02-11T15:29:02.506Z",
     "seen": true
+  },
+  {
+    "message": "Coach sent a message",
+    "timestamp": "2026-02-11T15:46:41.760Z",
+    "seen": false
   }
 ]
