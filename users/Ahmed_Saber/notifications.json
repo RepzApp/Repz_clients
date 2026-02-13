@@ -114,5 +114,13 @@
     "message": "Someone used your code! Now total points: 300, usable: 300",
     "timestamp": "2025-11-16T06:04:36.713Z",
     "seen": true
+  },
+  {
+    "message": "New update is available 1.0.2.4",
+    "timestamp": "2026-02-13T17:16:28.039Z",
+    "seen": false,
+    "repeat": false,
+    "repeatEndDate": null,
+    "displayTime": null
   }
 ]
