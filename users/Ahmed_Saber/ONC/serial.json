@@ -1,8 +1,7 @@
 {
-  "selectedCoach": {
-    "name": "test coach2",
-    "code": "123456",
-    "folder": "test-coach2-123456"
-  },
-  "clientCode": "003tes"
+  "serial": "2FC-ION-CDS-9H6-J3G-GKF-K9",
+  "status": "Active",
+  "expiryDate": "permanent",
+  "durationCode": "00",
+  "isTrial": false
 }
