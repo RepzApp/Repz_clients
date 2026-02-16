@@ -1,7 +1,7 @@
 {
-  "serial": "ONC-CA7-3IT-9AB-KVR-Y1Z-R9",
-  "status": "Active",
-  "expiryDate": "permanent",
+  "serial": "FREE-TRIAL-30-DAYS",
+  "status": "Trial Active",
+  "expiryDate": "2026-03-18T12:40:36.072Z",
   "durationCode": "00",
-  "isTrial": false
+  "isTrial": true
 }
