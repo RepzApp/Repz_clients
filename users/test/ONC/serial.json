@@ -1,7 +1,7 @@
 {
-  "serial": "2FC-ION-CDS-9H6-J3G-GKF-K9",
-  "status": "Active",
-  "expiryDate": "permanent",
-  "durationCode": "00",
-  "isTrial": false
+  "serial": "FREE-TRIAL-30-DAYS",
+  "status": "Trial Active",
+  "expiryDate": "2026-03-18T12:40:36.072Z",
+  "durationCode": "15",
+  "isTrial": true
 }
