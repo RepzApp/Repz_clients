@@ -1,0 +1,18 @@
+{
+  "exercises": [
+    {
+      "id": "ex2",
+      "name": "Side Abs",
+      "image": "../../../exercises images/side abs.PNG",
+      "isSingleSide": false,
+      "numSets": 5
+    },
+    {
+      "id": "Abs Crunch",
+      "name": "Rear Delt Row Wide Grip",
+      "image": "../../../exercises images/abs crunch.PNG",
+      "isSingleSide": true,
+      "numSets": 5
+    }
+  ]
+}
