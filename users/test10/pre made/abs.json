@@ -140,5 +140,83 @@
       },
       "notes": ""
     }
+  },
+  "2026-02-18": {
+    "ex2": {
+      "set1": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "set2": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "set3": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "set4": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "set5": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    },
+    "Abs Crunch": {
+      "set1": {
+        "weight": "",
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "set2": {
+        "weight": "",
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "set3": {
+        "weight": "",
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "set4": {
+        "weight": "",
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "set5": {
+        "weight": "",
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "notes": ""
+    }
   }
 }
