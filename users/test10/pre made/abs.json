@@ -224,32 +224,32 @@
       "set1": {
         "weight": "10",
         "rest": "0",
-        "reps": "10",
-        "tank": "10"
+        "reps": "",
+        "tank": ""
       },
       "set2": {
         "weight": "10",
         "rest": "0",
-        "reps": "10",
-        "tank": "10"
+        "reps": "",
+        "tank": ""
       },
       "set3": {
         "weight": "10",
         "rest": "0",
-        "reps": "10",
-        "tank": "10"
+        "reps": "",
+        "tank": ""
       },
       "set4": {
         "weight": "10",
         "rest": "0",
-        "reps": "10",
-        "tank": "01"
+        "reps": "",
+        "tank": ""
       },
       "set5": {
         "weight": "10",
         "rest": "0",
-        "reps": "10",
-        "tank": "10"
+        "reps": "",
+        "tank": ""
       },
       "notes": ""
     },
@@ -257,42 +257,42 @@
       "set1": {
         "weight": "10",
         "rest": "0",
-        "rightReps": "10",
-        "rightTank": "10",
-        "leftReps": "10",
-        "leftTank": "10"
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
       },
       "set2": {
         "weight": "01",
         "rest": "0",
-        "rightReps": "10",
-        "rightTank": "10",
-        "leftReps": "10",
-        "leftTank": "10"
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
       },
       "set3": {
         "weight": "10",
         "rest": "0",
-        "rightReps": "10",
-        "rightTank": "10",
-        "leftReps": "10",
-        "leftTank": "10"
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
       },
       "set4": {
         "weight": "10",
         "rest": "0",
-        "rightReps": "10",
-        "rightTank": "10",
-        "leftReps": "10",
-        "leftTank": "10"
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
       },
       "set5": {
         "weight": "10",
         "rest": "0",
-        "rightReps": "01",
-        "rightTank": "10",
-        "leftReps": "10",
-        "leftTank": "10"
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
       },
       "notes": ""
     }
