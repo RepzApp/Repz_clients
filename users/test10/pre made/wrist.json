@@ -4,20 +4,20 @@
       "set1": {
         "weight": "10",
         "rest": "0",
-        "reps": "",
-        "tank": ""
+        "reps": "15",
+        "tank": "10"
       },
       "set2": {
         "weight": "10",
         "rest": "0",
-        "reps": "",
-        "tank": ""
+        "reps": "10",
+        "tank": "10"
       },
       "set3": {
         "weight": "10",
         "rest": "0",
-        "reps": "",
-        "tank": ""
+        "reps": "10",
+        "tank": "10"
       },
       "notes": ""
     },
