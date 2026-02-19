@@ -15,13 +15,6 @@
       "numSets": 2
     },
     {
-      "id": "ex3",
-      "name": "Cable Lateral Raise",
-      "image": "../../../exercises images/cable lateral raise.jpg",
-      "isSingleSide": true,
-      "numSets": 1
-    },
-    {
       "id": "ex5",
       "name": "Dumbbell Preacher Curl",
       "image": "../../../exercises images/dumbbell preacher curl.PNG",
