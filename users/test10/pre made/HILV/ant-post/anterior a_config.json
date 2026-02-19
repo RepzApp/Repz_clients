@@ -8,13 +8,6 @@
       "numSets": 2
     },
     {
-      "id": "ex2",
-      "name": "T-Bar Row",
-      "image": "../../../exercises images/t-bar row.PNG",
-      "isSingleSide": false,
-      "numSets": 2
-    },
-    {
       "id": "ex5",
       "name": "Dumbbell Preacher Curl",
       "image": "../../../exercises images/dumbbell preacher curl.PNG",
