@@ -15,6 +15,13 @@
       "numSets": 2
     },
     {
+      "id": "ex3",
+      "name": "Cable Lateral Raise",
+      "image": "../../../exercises images/cable lateral raise.jpg",
+      "isSingleSide": true,
+      "numSets": 1
+    },
+    {
       "id": "ex4",
       "name": "Tricep Rope Push Down",
       "image": "../../../exercises images/tricep row push down.png",
@@ -26,6 +33,13 @@
       "name": "Dumbbell Preacher Curl",
       "image": "../../../exercises images/dumbbell preacher curl.PNG",
       "isSingleSide": true,
+      "numSets": 1
+    },
+    {
+      "id": "ex6",
+      "name": "Shrugs Diamond Bar",
+      "image": "../../../exercises images/shrugs diamond bar.PNG",
+      "isSingleSide": false,
       "numSets": 1
     }
   ]
