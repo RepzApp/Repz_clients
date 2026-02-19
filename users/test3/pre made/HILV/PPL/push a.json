@@ -3,7 +3,7 @@
     "ex1": {
       "set1": {
         "weight": "10",
-        "rest": "8",
+        "rest": "0",
         "reps": "15",
         "tank": "0"
       },
@@ -27,15 +27,6 @@
       "notes": ""
     },
     "ex3": {
-      "set1": {
-        "weight": "",
-        "rest": "0",
-        "reps": "",
-        "tank": ""
-      },
-      "notes": ""
-    },
-    "ex4": {
       "set1": {
         "weight": "",
         "rest": "0",
