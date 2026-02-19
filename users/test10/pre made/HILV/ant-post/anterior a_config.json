@@ -22,13 +22,6 @@
       "numSets": 1
     },
     {
-      "id": "ex4",
-      "name": "Tricep Rope Push Down",
-      "image": "../../../exercises images/tricep row push down.png",
-      "isSingleSide": false,
-      "numSets": 2
-    },
-    {
       "id": "ex5",
       "name": "Dumbbell Preacher Curl",
       "image": "../../../exercises images/dumbbell preacher curl.PNG",
