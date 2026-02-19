@@ -30,6 +30,17 @@
       },
       "notes": ""
     },
+    "ex3": {
+      "set1": {
+        "weight": "",
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "notes": ""
+    },
     "ex4": {
       "set1": {
         "weight": "",
@@ -53,6 +64,15 @@
         "rightTank": "",
         "leftReps": "",
         "leftTank": ""
+      },
+      "notes": ""
+    },
+    "ex6": {
+      "set1": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
       },
       "notes": ""
     }
