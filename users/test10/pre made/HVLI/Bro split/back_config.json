@@ -1,0 +1,39 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "تى بار رو",
+      "image": "../../../exercises images/t-bar row.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex2",
+      "name": "سحب عالى واسع",
+      "image": "../../../exercises images/lat pull down.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex3",
+      "name": "سحب ارضى واسع",
+      "image": "../../../exercises images/seated row wide grip.PNG",
+      "isSingleSide": false,
+      "numSets": 3
+    },
+    {
+      "id": "ex4",
+      "name": "سحب مجنص فردى بالدامبل",
+      "image": "../../../exercises images/dumbbell lat row.PNG",
+      "isSingleSide": true,
+      "numSets": 3
+    },
+    {
+      "id": "ex5",
+      "name": "قطانية",
+      "image": "../../../exercises images/lower back extension.jpg",
+      "isSingleSide": false,
+      "numSets": 3
+    }
+  ]
+}
