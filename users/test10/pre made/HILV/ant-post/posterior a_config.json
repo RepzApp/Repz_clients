@@ -27,13 +27,6 @@
       "image": "../../../exercises images/dumbbell preacher curl.PNG",
       "isSingleSide": true,
       "numSets": 1
-    },
-    {
-      "id": "ex6",
-      "name": "Shrugs Diamond Bar",
-      "image": "../../../exercises images/shrugs diamond bar.PNG",
-      "isSingleSide": false,
-      "numSets": 1
     }
   ]
 }
