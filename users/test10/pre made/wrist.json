@@ -2,22 +2,22 @@
   "2026-02-19": {
     "ex1": {
       "set1": {
-        "weight": "",
+        "weight": "10",
         "rest": "0",
-        "reps": "",
-        "tank": ""
+        "reps": "15",
+        "tank": "10"
       },
       "set2": {
-        "weight": "",
+        "weight": "10",
         "rest": "0",
-        "reps": "",
-        "tank": ""
+        "reps": "15",
+        "tank": "10"
       },
       "set3": {
-        "weight": "",
+        "weight": "10",
         "rest": "0",
-        "reps": "",
-        "tank": ""
+        "reps": "10",
+        "tank": "10"
       },
       "notes": ""
     },
