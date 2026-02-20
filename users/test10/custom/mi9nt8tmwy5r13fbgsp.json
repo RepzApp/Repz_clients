@@ -56,5 +56,19 @@
       ]
     }
   },
-  "records": []
+  "records": [
+    {
+      "date": "2026-02-20T01:35:15.800Z",
+      "data": {
+        "ex-ppl-day1-ex0-set1-weight": "10",
+        "ex-ppl-day1-ex0-set1-reps": "15",
+        "ex-ppl-day1-ex0-set1-tank": "10",
+        "ex-ppl-day1-ex0-set1-rest": "0",
+        "ex-ppl-day1-ex1-set1-rest": "0",
+        "ex-ppl-day1-ex2-set1-rest": "0",
+        "ex-ppl-day1-ex3-set1-rest": "0"
+      },
+      "day": 1
+    }
+  ]
 }
