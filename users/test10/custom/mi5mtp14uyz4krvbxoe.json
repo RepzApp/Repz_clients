@@ -16,13 +16,5 @@
     },
     "id": "mi5mtp14uyz4krvbxoe"
   },
-  "records": [
-    {
-      "date": "2026-02-20T01:33:20.232Z",
-      "data": {
-        "ex-test2-day1-ex0-set1-rest": "0"
-      },
-      "day": 1
-    }
-  ]
+  "records": []
 }
