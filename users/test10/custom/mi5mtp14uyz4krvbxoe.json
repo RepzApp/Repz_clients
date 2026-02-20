@@ -23,6 +23,16 @@
         "ex-test2-day1-ex0-set1-rest": "0"
       },
       "day": 1
+    },
+    {
+      "date": "2026-02-20T01:37:34.472Z",
+      "data": {
+        "ex-test2-day1-ex0-set1-weight": "10",
+        "ex-test2-day1-ex0-set1-reps": "10",
+        "ex-test2-day1-ex0-set1-tank": "10",
+        "ex-test2-day1-ex0-set1-rest": "0"
+      },
+      "day": 1
     }
   ]
 }
