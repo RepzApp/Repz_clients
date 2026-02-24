@@ -1,9 +1,7 @@
 {
-  "selectedCoach": {
-    "name": "test coach2",
-    "code": "123456",
-    "folder": "test-coach2-123456",
-    "profileImage": "https://raw.githubusercontent.com/AhmedSaber45/workout-serials/main/coaches/test-coach2-123456/media/profile-1764243941908.png"
-  },
-  "clientCode": "004tes"
+  "serial": "ONC-AIL-DP4-9Z4-6K1-UYB-Y9",
+  "status": "Active",
+  "expiryDate": "permanent",
+  "durationCode": "00",
+  "isTrial": false
 }
