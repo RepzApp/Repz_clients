@@ -220,27 +220,6 @@
     }
   },
   "2026-02-19": {
-    "ex1": {
-      "set1": {
-        "weight": "10",
-        "rest": "0",
-        "reps": "10",
-        "tank": "10"
-      },
-      "set2": {
-        "weight": "10",
-        "rest": "0",
-        "reps": "10",
-        "tank": "10"
-      },
-      "set3": {
-        "weight": "10",
-        "rest": "0",
-        "reps": "10",
-        "tank": "10"
-      },
-      "notes": ""
-    },
     "ex2": {
       "set1": {
         "weight": "",
@@ -259,6 +238,61 @@
         "rest": "0",
         "reps": "",
         "tank": ""
+      },
+      "set4": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "set5": {
+        "weight": "",
+        "rest": "0",
+        "reps": "",
+        "tank": ""
+      },
+      "notes": ""
+    },
+    "Abs Crunch": {
+      "set1": {
+        "weight": "",
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "set2": {
+        "weight": "",
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "set3": {
+        "weight": "",
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "set4": {
+        "weight": "",
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
+      },
+      "set5": {
+        "weight": "",
+        "rest": "0",
+        "rightReps": "",
+        "rightTank": "",
+        "leftReps": "",
+        "leftTank": ""
       },
       "notes": ""
     }
