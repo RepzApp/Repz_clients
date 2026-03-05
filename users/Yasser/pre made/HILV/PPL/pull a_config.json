@@ -1,0 +1,39 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "تى بار رو || ترابيس Kelsu",
+      "image": "../../../exercises images/t-bar row.PNG",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex3",
+      "name": "سحب ارضى مجنص فردى",
+      "image": "../../../exercises images/sa lat row.jpg",
+      "isSingleSide": true,
+      "numSets": 1
+    },
+    {
+      "id": "ex4",
+      "name": "سحب ارضى واسع للكتف الخلفى",
+      "image": "../../../exercises images/rear delt wide grip.png",
+      "isSingleSide": false,
+      "numSets": 1
+    },
+    {
+      "id": "ex5",
+      "name": "تبادل باى",
+      "image": "../../../exercises images/no cheated curl.jpg",
+      "isSingleSide": false,
+      "numSets": 2
+    },
+    {
+      "id": "ex6",
+      "name": "قطانية",
+      "image": "../../../exercises images/lower back extension.jpg",
+      "isSingleSide": false,
+      "numSets": 1
+    }
+  ]
+}
