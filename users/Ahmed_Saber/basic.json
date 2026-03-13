@@ -7,10 +7,10 @@
   "usablePoints": 0,
   "usedCodes": [],
   "activeSubscription": {
-    "programId": "13",
-    "programName": "Anterior Posterior HILV",
-    "activatedAt": "2026-03-13T17:18:23.230Z",
-    "expiresAt": "2126-02-17T17:18:23.230Z",
+    "programId": "14",
+    "programName": "Anterior Posterior HVLI",
+    "activatedAt": "2026-03-13T17:18:36.632Z",
+    "expiresAt": "2126-02-17T17:18:36.632Z",
     "isDirect": true,
     "status": "active"
   }
