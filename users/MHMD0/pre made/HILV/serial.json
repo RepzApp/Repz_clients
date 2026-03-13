@@ -16,5 +16,11 @@
     "serial": "C3G-FNX-9VH-9G9-AHI-OLT-H9",
     "activatedAt": "2026-03-13T16:42:07.786Z",
     "duration": "Permanent"
+  },
+  {
+    "program": "Upper Lower HILV",
+    "serial": "6UU-HI3-0D2-9OY-JR0-A7U-29",
+    "activatedAt": "2026-03-13T16:42:17.570Z",
+    "duration": "Permanent"
   }
 ]
