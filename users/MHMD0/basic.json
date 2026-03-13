@@ -8,10 +8,10 @@
   "usablePoints": 0,
   "appVersion": "1.0.2.5",
   "activeSubscription": {
-    "programId": "7",
-    "programName": "Bro Split HVLI",
-    "activatedAt": "2026-03-13T16:42:51.206Z",
-    "expiresAt": "2126-02-17T16:42:51.206Z",
+    "programId": "8",
+    "programName": "Arnold HVLI",
+    "activatedAt": "2026-03-13T16:42:59.915Z",
+    "expiresAt": "2126-02-17T16:42:59.915Z",
     "isDirect": true,
     "status": "active"
   }
