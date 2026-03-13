@@ -5,5 +5,13 @@
   "fcmToken": "f0-wYmifShyurGjsK7OhPF:APA91bFZ4PI5-fc4mbZAN4SO8xC6P_7goSLmdo-p0r4oS_on9-vYqEStxQIU4wM34j3LSTbXi4foTAUFWzDHYzS1bUq7whCtXefAK180gZ0nmELpHtQhqO8",
   "totalPoints": 0,
   "usablePoints": 0,
-  "usedCodes": []
+  "usedCodes": [],
+  "activeSubscription": {
+    "programId": "13",
+    "programName": "Anterior Posterior HILV",
+    "activatedAt": "2026-03-13T17:18:23.230Z",
+    "expiresAt": "2126-02-17T17:18:23.230Z",
+    "isDirect": true,
+    "status": "active"
+  }
 }
