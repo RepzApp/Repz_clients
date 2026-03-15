@@ -45,5 +45,13 @@
     "repeat": false,
     "repeatEndDate": null,
     "displayTime": null
+  },
+  {
+    "message": "New update is available 1.02.6",
+    "timestamp": "2026-03-15T09:17:56.535Z",
+    "seen": false,
+    "repeat": false,
+    "repeatEndDate": null,
+    "displayTime": null
   }
 ]
