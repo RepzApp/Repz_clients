@@ -8,10 +8,10 @@
   "usablePoints": 0,
   "appVersion": "1.0.2.5",
   "activeSubscription": {
-    "programId": "14",
-    "programName": "Anterior Posterior HVLI",
-    "activatedAt": "2026-03-13T17:00:05.048Z",
-    "expiresAt": "2126-02-17T17:00:05.048Z",
+    "programId": "9",
+    "programName": "Upper Lower HVLI",
+    "activatedAt": "2026-03-15T08:20:09.822Z",
+    "expiresAt": "2126-02-19T08:20:09.822Z",
     "isDirect": true,
     "status": "active"
   }
