@@ -2,10 +2,10 @@
   "2026-03-15": {
     "ex1": {
       "set1": {
-        "weight": "",
+        "weight": "10",
         "rest": "0",
-        "reps": "",
-        "tank": ""
+        "reps": "10",
+        "tank": "10"
       },
       "notes": ""
     },
@@ -13,14 +13,14 @@
       "set1": {
         "weight": "10",
         "rest": "0",
-        "reps": "10",
-        "tank": "10"
+        "reps": "",
+        "tank": ""
       },
       "set2": {
         "weight": "10",
         "rest": "0",
-        "reps": "10",
-        "tank": "10"
+        "reps": "",
+        "tank": ""
       },
       "notes": ""
     },
