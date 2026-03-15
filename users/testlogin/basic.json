@@ -8,10 +8,10 @@
   "usablePoints": 0,
   "appVersion": "1.0.2.5",
   "activeSubscription": {
-    "programId": "4",
-    "programName": "Upper Lower HILV",
-    "activatedAt": "2026-03-15T08:29:16.328Z",
-    "expiresAt": "2126-02-19T08:29:16.328Z",
+    "programId": "6",
+    "programName": "Push Pull Leg HVLI",
+    "activatedAt": "2026-03-15T15:33:39.463Z",
+    "expiresAt": "2126-02-19T15:33:39.463Z",
     "isDirect": true,
     "status": "active"
   }
