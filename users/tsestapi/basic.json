@@ -8,10 +8,10 @@
   "usablePoints": 0,
   "appVersion": "1.0.2.5",
   "activeSubscription": {
-    "programId": "13",
-    "programName": "Anterior Posterior HILV",
-    "activatedAt": "2026-03-15T08:51:22.063Z",
-    "expiresAt": "2126-02-19T08:51:22.063Z",
+    "programId": "3",
+    "programName": "Arnold HILV",
+    "activatedAt": "2026-03-15T08:51:55.613Z",
+    "expiresAt": "2126-02-19T08:51:55.613Z",
     "isDirect": true,
     "status": "active"
   }
