@@ -28,5 +28,10 @@
     "program": "Full Body HVLI",
     "serial": "S6F-HVH-6SU-9UE-SM7-TRL-J9",
     "activatedAt": "2026-03-15T08:28:05.180Z"
+  },
+  {
+    "program": "Push Pull Leg HVLI",
+    "serial": "10A-10F-QPH-9V9-Z28-BBT-L9",
+    "activatedAt": "2026-03-15T15:33:37.583Z"
   }
 ]
