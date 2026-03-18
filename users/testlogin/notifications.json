@@ -2,7 +2,7 @@
   {
     "message": "New update is available 1.02.6",
     "timestamp": "2026-03-15T09:18:51.642Z",
-    "seen": false,
+    "seen": true,
     "repeat": false,
     "repeatEndDate": null,
     "displayTime": null
@@ -10,7 +10,7 @@
   {
     "message": "New update is available 1.0.2.7",
     "timestamp": "2026-03-15T09:30:45.811Z",
-    "seen": false,
+    "seen": true,
     "repeat": false,
     "repeatEndDate": null,
     "displayTime": null
@@ -18,7 +18,7 @@
   {
     "message": "New update is available 1.0.2.8",
     "timestamp": "2026-03-15T15:48:31.310Z",
-    "seen": false,
+    "seen": true,
     "repeat": false,
     "repeatEndDate": null,
     "displayTime": null
