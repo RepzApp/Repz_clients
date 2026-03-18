@@ -10,6 +10,15 @@
       "exNotes": ""
     },
     {
+      "id": "ex2",
+      "name": "Machine Shoulder Press  جهاز كتف أمامى",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678536079_Machine_Shoulder_Press_جهاز_كتف_أمامى.jpg",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/machine-shoulder-press.mp4",
+      "isSingleSide": false,
+      "numSets": 2,
+      "exNotes": ""
+    },
+    {
       "id": "ex3",
       "name": "TriCep Push Down",
       "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678560479_TriCep_Rope_Push_Down_حبل_تراى.png",
