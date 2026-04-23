@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2026-04-23T23:44:15.600Z",
+    "createdAt": "2026-04-23T23:46:14.744Z",
     "id": "mjlt873sfa5dqs6qro",
     "day1": {
       "dayName": "Push A",
@@ -280,19 +280,28 @@
           "staticNotes": ""
         },
         {
-          "name": "Adductor Machine جهاز ضامة",
-          "sets": 2,
-          "singleArm": false,
-          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677300119_Adductor_Machine_جهاز_ضامة.PNG",
+          "name": "Cable hip adduction",
+          "sets": 1,
+          "singleArm": true,
+          "image": "https://weighttraining.guide/wp-content/uploads/2017/12/Cable-Hip-Adduction-resized.png",
           "groupId": "None",
           "isDropset": false,
           "staticNotes": ""
         },
         {
-          "name": "Hack Squat جهاز هاك اسكوات",
+          "name": "Cable hip abduction",
           "sets": 1,
-          "singleArm": false,
-          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677320319_Hack_Squat_جهاز_هاك_اسكوات.PNG",
+          "singleArm": true,
+          "image": "https://weighttraining.guide/wp-content/uploads/2017/06/Cable-hip-abduction-resized.png",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Dumbbell lunge طعن دامبل",
+          "sets": 1,
+          "singleArm": true,
+          "image": "https://weighttraining.guide/wp-content/uploads/2016/10/Dumbbell-Lunge-resized-fixed.png",
           "groupId": "None",
           "isDropset": false,
           "staticNotes": ""
@@ -302,15 +311,6 @@
           "sets": 1,
           "singleArm": false,
           "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677393791_Dumbbell_RDL_(Romanian_deadlift)_دامبل_رومانيان_ديد_ليفت.PNG",
-          "groupId": "None",
-          "isDropset": false,
-          "staticNotes": ""
-        },
-        {
-          "name": "Standing Calves سمانة واقف على الجهاز",
-          "sets": 2,
-          "singleArm": false,
-          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677426607_Standing_Calves_سمانة_واقف_على_الجهاز.PNG",
           "groupId": "None",
           "isDropset": false,
           "staticNotes": ""
