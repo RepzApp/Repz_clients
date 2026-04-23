@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2026-04-23T23:36:46.912Z",
+    "createdAt": "2026-04-23T23:40:42.352Z",
     "id": "mjlt873sfa5dqs6qro",
     "day1": {
       "dayName": "Push A",
@@ -53,22 +53,31 @@
           "staticNotes": ""
         },
         {
-          "name": "TriCep Rope Push Down حبل تراى",
+          "name": "Single TriCep Push Down حبل تراى فردي",
           "sets": 2,
           "singleArm": true,
-          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678560479_TriCep_Rope_Push_Down_حبل_تراى.png",
+          "image": "https://fitwill.app/_next/image?url=https%3A%2F%2Ffitwill.app%2Fapi%2Fimage%2F5033%3Fw%3D1024%26h%3D576&w=3840&q=75",
           "groupId": "None",
           "isDropset": false,
           "staticNotes": "كوعي راجع ورا جسمي"
         },
         {
-          "name": "scapula push up",
-          "sets": 1,
+          "name": "Scapula Push-Up",
+          "sets": 2,
           "singleArm": false,
-          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766679372911_Serratus_Anterior_العضلة_المنشارية.PNG",
+          "image": "https://liftmanual.com/wp-content/uploads/2023/04/scapula-push-up.jpg",
           "groupId": "None",
           "isDropset": false,
-          "staticNotes": "على جهاز البنش"
+          "staticNotes": ""
+        },
+        {
+          "name": "Single Arm Seated TriCep Over Head تراى فردى قاعد للرأس الطويلة على الكابل",
+          "sets": 1,
+          "singleArm": true,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766679856935_Single_Arm_Seated_TriCep_Over_Head_تراى_فردى_قاعد_للرأس_الطويلة_على_الكابل.jpg",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
         }
       ]
     },
