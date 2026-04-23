@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2026-04-23T23:46:14.744Z",
+    "createdAt": "2026-04-23T23:52:35.448Z",
     "id": "mjlt873sfa5dqs6qro",
     "day1": {
       "dayName": "Push A",
@@ -316,6 +316,15 @@
           "staticNotes": ""
         },
         {
+          "name": "Smith Standing Calves Raises",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://images.squarespace-cdn.com/content/v1/5ffcea9416aee143500ea103/1638439391035-NK1KZ50802C39TP6INCV/7.%2BShouldered%2BSmith%2BMachine%2BStanding%2BCalf%2BRaises.png",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
           "name": "Cable Crunch تمرين الكرنش بالكابل",
           "sets": 2,
           "singleArm": false,
@@ -364,6 +373,47 @@
     }
   },
   "records": [
+    {
+      "date": "2026-04-21T11:42:52.031Z",
+      "data": {
+        "ex-push-pull-leg-day1-ex0-set1-weight": "25",
+        "ex-push-pull-leg-day1-ex0-set1-reps": "10",
+        "ex-push-pull-leg-day1-ex0-set1-tank": "0",
+        "ex-push-pull-leg-day1-ex0-set1-rest": "0",
+        "ex-push-pull-leg-day1-ex0-set2-weight": "25",
+        "ex-push-pull-leg-day1-ex0-set2-reps": "10",
+        "ex-push-pull-leg-day1-ex0-set2-tank": "1",
+        "ex-push-pull-leg-day1-ex0-set2-rest": "0",
+        "ex-push-pull-leg-day1-ex1-set1-weight": "3",
+        "ex-push-pull-leg-day1-ex1-set1-right-reps": "6",
+        "ex-push-pull-leg-day1-ex1-set1-right-tank": "0",
+        "ex-push-pull-leg-day1-ex1-set1-left-reps": "6",
+        "ex-push-pull-leg-day1-ex1-set1-left-tank": "0",
+        "ex-push-pull-leg-day1-ex1-set1-rest": "0",
+        "ex-push-pull-leg-day1-ex1-set2-weight": "3",
+        "ex-push-pull-leg-day1-ex1-set2-right-reps": "9",
+        "ex-push-pull-leg-day1-ex1-set2-right-tank": "0",
+        "ex-push-pull-leg-day1-ex1-set2-left-reps": "9",
+        "ex-push-pull-leg-day1-ex1-set2-left-tank": "0",
+        "ex-push-pull-leg-day1-ex1-set2-rest": "0",
+        "ex-push-pull-leg-day1-ex2-set1-weight": "7",
+        "ex-push-pull-leg-day1-ex2-set1-reps": "10",
+        "ex-push-pull-leg-day1-ex2-set1-tank": "0",
+        "ex-push-pull-leg-day1-ex2-set1-rest": "0",
+        "ex-push-pull-leg-day1-ex3-set1-weight": "25",
+        "ex-push-pull-leg-day1-ex3-set1-reps": "12",
+        "ex-push-pull-leg-day1-ex3-set1-tank": "1",
+        "ex-push-pull-leg-day1-ex3-set1-rest": "0",
+        "ex-push-pull-leg-day1-ex4-set1-weight": "8",
+        "ex-push-pull-leg-day1-ex4-set1-rest": "0",
+        "ex-push-pull-leg-day1-ex4-set2-weight": "8",
+        "ex-push-pull-leg-day1-ex4-set2-rest": "0",
+        "ex-push-pull-leg-day1-ex4-notes": "لعبتها فردى ب4 بلاطات وكانت كويسة جبت 7 عدات فى الايدين ",
+        "ex-push-pull-leg-day1-ex5-set1-weight": "25",
+        "ex-push-pull-leg-day1-ex5-set1-rest": "0"
+      },
+      "day": 1
+    },
     {
       "date": "2026-04-19T18:13:30.037Z",
       "data": {
@@ -1870,47 +1920,6 @@
         "ex-push-pull-leg-day4-ex5-set1-rest": "0"
       },
       "day": 4
-    },
-    {
-      "date": "2026-04-21T11:42:52.031Z",
-      "data": {
-        "ex-push-pull-leg-day1-ex0-set1-weight": "25",
-        "ex-push-pull-leg-day1-ex0-set1-reps": "10",
-        "ex-push-pull-leg-day1-ex0-set1-tank": "0",
-        "ex-push-pull-leg-day1-ex0-set1-rest": "0",
-        "ex-push-pull-leg-day1-ex0-set2-weight": "25",
-        "ex-push-pull-leg-day1-ex0-set2-reps": "10",
-        "ex-push-pull-leg-day1-ex0-set2-tank": "1",
-        "ex-push-pull-leg-day1-ex0-set2-rest": "0",
-        "ex-push-pull-leg-day1-ex1-set1-weight": "3",
-        "ex-push-pull-leg-day1-ex1-set1-right-reps": "6",
-        "ex-push-pull-leg-day1-ex1-set1-right-tank": "0",
-        "ex-push-pull-leg-day1-ex1-set1-left-reps": "6",
-        "ex-push-pull-leg-day1-ex1-set1-left-tank": "0",
-        "ex-push-pull-leg-day1-ex1-set1-rest": "0",
-        "ex-push-pull-leg-day1-ex1-set2-weight": "3",
-        "ex-push-pull-leg-day1-ex1-set2-right-reps": "9",
-        "ex-push-pull-leg-day1-ex1-set2-right-tank": "0",
-        "ex-push-pull-leg-day1-ex1-set2-left-reps": "9",
-        "ex-push-pull-leg-day1-ex1-set2-left-tank": "0",
-        "ex-push-pull-leg-day1-ex1-set2-rest": "0",
-        "ex-push-pull-leg-day1-ex2-set1-weight": "7",
-        "ex-push-pull-leg-day1-ex2-set1-reps": "10",
-        "ex-push-pull-leg-day1-ex2-set1-tank": "0",
-        "ex-push-pull-leg-day1-ex2-set1-rest": "0",
-        "ex-push-pull-leg-day1-ex3-set1-weight": "25",
-        "ex-push-pull-leg-day1-ex3-set1-reps": "12",
-        "ex-push-pull-leg-day1-ex3-set1-tank": "1",
-        "ex-push-pull-leg-day1-ex3-set1-rest": "0",
-        "ex-push-pull-leg-day1-ex4-set1-weight": "8",
-        "ex-push-pull-leg-day1-ex4-set1-rest": "0",
-        "ex-push-pull-leg-day1-ex4-set2-weight": "8",
-        "ex-push-pull-leg-day1-ex4-set2-rest": "0",
-        "ex-push-pull-leg-day1-ex4-notes": "لعبتها فردى ب4 بلاطات وكانت كويسة جبت 7 عدات فى الايدين ",
-        "ex-push-pull-leg-day1-ex5-set1-weight": "25",
-        "ex-push-pull-leg-day1-ex5-set1-rest": "0"
-      },
-      "day": 1
     }
   ]
 }
