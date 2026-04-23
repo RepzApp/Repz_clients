@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2026-04-23T23:41:47.416Z",
+    "createdAt": "2026-04-23T23:44:15.600Z",
     "id": "mjlt873sfa5dqs6qro",
     "day1": {
       "dayName": "Push A",
@@ -112,10 +112,19 @@
           "staticNotes": ""
         },
         {
-          "name": "Rear Delt Row Wide Grip سحب كتف خلفى واسع",
+          "name": "Cable rear drive",
+          "sets": 1,
+          "singleArm": true,
+          "image": "https://weighttraining.guide/wp-content/uploads/2017/07/Cable-Rear-Drive-resized.png",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": "فتحة تالتة من فوق\nايدى زاوية 45 مع جسمى"
+        },
+        {
+          "name": "Machine Preacher Curl جهاز حصان باى",
           "sets": 1,
           "singleArm": false,
-          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680185919_Rear_Delt_Row_Wide_Grip_سحب_كتف_خلفى_واسع.png",
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680330255_Machine_Preacher_Curl_جهاز_حصان_باى.PNG",
           "groupId": "None",
           "isDropset": false,
           "staticNotes": ""
