@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2026-04-23T23:40:42.352Z",
+    "createdAt": "2026-04-23T23:41:47.416Z",
     "id": "mjlt873sfa5dqs6qro",
     "day1": {
       "dayName": "Push A",
@@ -171,13 +171,31 @@
           "staticNotes": "كابل قديم"
         },
         {
-          "name": "Serratus Anterior العضلة المنشارية",
-          "sets": 2,
+          "name": "Dumbbell lateral raise رفرفة جانبي بالدامبل",
+          "sets": 1,
           "singleArm": false,
-          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766679372911_Serratus_Anterior_العضلة_المنشارية.PNG",
+          "image": "https://weighttraining.guide/wp-content/uploads/2016/05/dumbbell-lateral-raise-resized.png",
           "groupId": "None",
           "isDropset": false,
-          "staticNotes": "جهاز البنش"
+          "staticNotes": ""
+        },
+        {
+          "name": "Single TriCep Push Down حبل تراى فردي",
+          "sets": 1,
+          "singleArm": true,
+          "image": "https://fitwill.app/_next/image?url=https%3A%2F%2Ffitwill.app%2Fapi%2Fimage%2F5033%3Fw%3D1024%26h%3D576&w=3840&q=75",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": "كوعي راجع ورا جسمي"
+        },
+        {
+          "name": "Dumbbell one-arm wrist extension",
+          "sets": 2,
+          "singleArm": true,
+          "image": "https://weighttraining.guide/wp-content/uploads/2017/12/Dumbbell-one-arm-reverse-wrist-curl-resized.png",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
         }
       ]
     },
