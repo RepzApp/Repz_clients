@@ -418,6 +418,26 @@
         "ex-push-pull-leg-------1--day3-ex6-set2-rest": "0"
       },
       "day": 3
+    },
+    {
+      "date": "2026-04-25T17:34:29.268Z",
+      "data": {
+        "ex-push-pull-leg-------1--day4-ex0-set1-weight": "12",
+        "ex-push-pull-leg-------1--day4-ex0-set1-reps": "8",
+        "ex-push-pull-leg-------1--day4-ex0-set1-rest": "0",
+        "ex-push-pull-leg-------1--day4-ex0-set2-weight": "12",
+        "ex-push-pull-leg-------1--day4-ex0-set2-reps": "7",
+        "ex-push-pull-leg-------1--day4-ex0-set2-rest": "0",
+        "ex-push-pull-leg-------1--day4-ex1-set1-rest": "0",
+        "ex-push-pull-leg-------1--day4-ex2-set1-rest": "0",
+        "ex-push-pull-leg-------1--day4-ex2-set2-rest": "0",
+        "ex-push-pull-leg-------1--day4-ex3-set1-rest": "0",
+        "ex-push-pull-leg-------1--day4-ex3-set2-rest": "0",
+        "ex-push-pull-leg-------1--day4-ex4-set1-rest": "0",
+        "ex-push-pull-leg-------1--day4-ex4-set2-rest": "0",
+        "ex-push-pull-leg-------1--day4-ex5-set1-rest": "0"
+      },
+      "day": 4
     }
   ]
 }
