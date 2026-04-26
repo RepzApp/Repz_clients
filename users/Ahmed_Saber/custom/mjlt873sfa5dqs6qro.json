@@ -1920,6 +1920,49 @@
         "ex-push-pull-leg-day4-ex5-set1-rest": "0"
       },
       "day": 4
+    },
+    {
+      "date": "2026-04-26T12:19:13.656Z",
+      "data": {
+        "ex-push-pull-leg-day2-ex0-set1-weight": "60",
+        "ex-push-pull-leg-day2-ex0-set1-reps": "7.3",
+        "ex-push-pull-leg-day2-ex0-set1-tank": "0",
+        "ex-push-pull-leg-day2-ex0-set1-rest": "180",
+        "ex-push-pull-leg-day2-ex0-set2-weight": "60",
+        "ex-push-pull-leg-day2-ex0-set2-reps": "7.4",
+        "ex-push-pull-leg-day2-ex0-set2-tank": "0",
+        "ex-push-pull-leg-day2-ex0-set2-rest": "170",
+        "ex-push-pull-leg-day2-ex1-set1-weight": "11",
+        "ex-push-pull-leg-day2-ex1-set1-right-reps": "9.5",
+        "ex-push-pull-leg-day2-ex1-set1-right-tank": "0",
+        "ex-push-pull-leg-day2-ex1-set1-left-reps": "10",
+        "ex-push-pull-leg-day2-ex1-set1-left-tank": "0",
+        "ex-push-pull-leg-day2-ex1-set1-rest": "178",
+        "ex-push-pull-leg-day2-ex1-notes": "القبضة القماش مريحة اكتر",
+        "ex-push-pull-leg-day2-ex2-set1-weight": "15",
+        "ex-push-pull-leg-day2-ex2-set1-reps": "11",
+        "ex-push-pull-leg-day2-ex2-set1-tank": "0",
+        "ex-push-pull-leg-day2-ex2-set1-rest": "180",
+        "ex-push-pull-leg-day2-ex2-set2-weight": "15",
+        "ex-push-pull-leg-day2-ex2-set2-reps": "9",
+        "ex-push-pull-leg-day2-ex2-set2-tank": "0",
+        "ex-push-pull-leg-day2-ex2-set2-rest": "150",
+        "ex-push-pull-leg-day2-ex3-set1-weight": "8",
+        "ex-push-pull-leg-day2-ex3-set1-rest": "0",
+        "ex-push-pull-leg-day2-ex3-notes": "كتفى فشخنى اخش فراشة او سحب ارضى واسع زى. مانا ",
+        "ex-push-pull-leg-day2-ex4-set1-weight": "6",
+        "ex-push-pull-leg-day2-ex4-set1-reps": "9",
+        "ex-push-pull-leg-day2-ex4-set1-tank": "0",
+        "ex-push-pull-leg-day2-ex4-set1-rest": "90",
+        "ex-push-pull-leg-day2-ex5-set1-weight": "5",
+        "ex-push-pull-leg-day2-ex5-set1-reps": "15",
+        "ex-push-pull-leg-day2-ex5-set1-tank": "2",
+        "ex-push-pull-leg-day2-ex5-set1-rest": "0",
+        "ex-push-pull-leg-day2-ex5-set2-weight": "5",
+        "ex-push-pull-leg-day2-ex5-set2-rest": "0",
+        "ex-push-pull-leg-day2-ex5-notes": "ماقدرتش العب الدور التانى مش واكل قبل ماجى "
+      },
+      "day": 2
     }
   ]
 }
