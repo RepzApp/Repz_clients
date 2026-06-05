@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2026-04-23T23:52:35.448Z",
+    "createdAt": "2026-06-05T15:54:02.538Z",
     "id": "mjlt873sfa5dqs6qro",
     "day1": {
       "dayName": "Push A",
@@ -41,7 +41,7 @@
           "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678504671_Decline_Cable_Fly_(Lower_Chest)_صدر_سفلى_بالكابل.png",
           "groupId": "None",
           "isDropset": false,
-          "staticNotes": "فتحة خامسة من فوق \nافتح ايدى 90 درجة"
+          "staticNotes": "فتحة خامسة من فوق \nافتح ايدى 90 درجة\nمالبعش بالقبضة القماش خالص"
         },
         {
           "name": "Machine Shoulder Press  جهاز كتف أمامى",
@@ -63,7 +63,7 @@
         },
         {
           "name": "Scapula Push-Up",
-          "sets": 2,
+          "sets": 3,
           "singleArm": false,
           "image": "https://liftmanual.com/wp-content/uploads/2023/04/scapula-push-up.jpg",
           "groupId": "None",
