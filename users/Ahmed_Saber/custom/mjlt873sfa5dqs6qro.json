@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2026-06-05T16:00:33.314Z",
+    "createdAt": "2026-06-05T16:01:17.058Z",
     "id": "mjlt873sfa5dqs6qro",
     "day1": {
       "dayName": "Push A",
@@ -308,7 +308,7 @@
         },
         {
           "name": "Dumbbell lunge طعن دامبل",
-          "sets": 1,
+          "sets": 2,
           "singleArm": true,
           "image": "https://weighttraining.guide/wp-content/uploads/2016/10/Dumbbell-Lunge-resized-fixed.png",
           "groupId": "None",
@@ -317,7 +317,7 @@
         },
         {
           "name": "Dumbbell RDL (Romanian deadlift)  دامبل رومانيان ديد ليفت",
-          "sets": 1,
+          "sets": 2,
           "singleArm": false,
           "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677393791_Dumbbell_RDL_(Romanian_deadlift)_دامبل_رومانيان_ديد_ليفت.PNG",
           "groupId": "None",
@@ -335,7 +335,7 @@
         },
         {
           "name": "Cable Crunch تمرين الكرنش بالكابل",
-          "sets": 2,
+          "sets": 3,
           "singleArm": false,
           "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677467999_Cable_Crunch_تمرين_الكرنش_بالكابل.PNG",
           "groupId": "A",
@@ -344,7 +344,7 @@
         },
         {
           "name": "Single Side Cable Crunch كرانش فردى جانبى على الكابل",
-          "sets": 2,
+          "sets": 3,
           "singleArm": true,
           "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677586487_Single_Side_Cable_Crunch_كرانش_فردى_جانبى_على_الكابل.webp",
           "groupId": "A",
@@ -353,7 +353,7 @@
         },
         {
           "name": "Straight Leg Raise رفع الساق المستقيمة",
-          "sets": 2,
+          "sets": 3,
           "singleArm": false,
           "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677669887_Straight_Leg_Raise_رفع_الساق_المستقيمة.webp",
           "groupId": "None",
