@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2026-06-05T15:55:38.066Z",
+    "createdAt": "2026-06-05T15:59:49.786Z",
     "id": "mjlt873sfa5dqs6qro",
     "day1": {
       "dayName": "Push A",
@@ -190,7 +190,7 @@
         },
         {
           "name": "Dumbbell lateral raise رفرفة جانبي بالدامبل",
-          "sets": 1,
+          "sets": 2,
           "singleArm": false,
           "image": "https://weighttraining.guide/wp-content/uploads/2016/05/dumbbell-lateral-raise-resized.png",
           "groupId": "None",
@@ -208,7 +208,7 @@
         },
         {
           "name": "Dumbbell one-arm wrist extension",
-          "sets": 2,
+          "sets": 3,
           "singleArm": true,
           "image": "https://weighttraining.guide/wp-content/uploads/2017/12/Dumbbell-one-arm-reverse-wrist-curl-resized.png",
           "groupId": "None",
