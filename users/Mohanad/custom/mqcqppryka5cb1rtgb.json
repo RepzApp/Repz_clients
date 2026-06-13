@@ -404,6 +404,49 @@
         "ex-push-pull-leg-day2-ex6-set3-rest": "0"
       },
       "day": 2
+    },
+    {
+      "date": "2026-06-13T22:58:35.724Z",
+      "data": {
+        "ex-push-pull-leg-day2-ex0-set1-weight": "50",
+        "ex-push-pull-leg-day2-ex0-set1-reps": "8.4",
+        "ex-push-pull-leg-day2-ex0-set1-rest": "0",
+        "ex-push-pull-leg-day2-ex0-set2-weight": "50",
+        "ex-push-pull-leg-day2-ex0-set2-reps": "7.4",
+        "ex-push-pull-leg-day2-ex0-set2-rest": "0",
+        "ex-push-pull-leg-day2-ex1-set1-weight": "8",
+        "ex-push-pull-leg-day2-ex1-set1-right-reps": "9",
+        "ex-push-pull-leg-day2-ex1-set1-left-reps": "9",
+        "ex-push-pull-leg-day2-ex1-set1-rest": "0",
+        "ex-push-pull-leg-day2-ex1-set2-weight": "8",
+        "ex-push-pull-leg-day2-ex1-set2-right-reps": "9",
+        "ex-push-pull-leg-day2-ex1-set2-left-reps": "9",
+        "ex-push-pull-leg-day2-ex1-set2-rest": "0",
+        "ex-push-pull-leg-day2-ex1-notes": "الوزن بلاطات\n20 كيلو\nالفاتحه الخامسه من فوق ",
+        "ex-push-pull-leg-day2-ex2-set1-weight": "10",
+        "ex-push-pull-leg-day2-ex2-set1-reps": "11",
+        "ex-push-pull-leg-day2-ex2-set1-rest": "0",
+        "ex-push-pull-leg-day2-ex2-set2-weight": "12",
+        "ex-push-pull-leg-day2-ex2-set2-reps": "6",
+        "ex-push-pull-leg-day2-ex2-set2-rest": "0",
+        "ex-push-pull-leg-day2-ex3-set1-weight": "6",
+        "ex-push-pull-leg-day2-ex3-set1-reps": "8",
+        "ex-push-pull-leg-day2-ex3-set1-rest": "0",
+        "ex-push-pull-leg-day2-ex3-notes": "الوزن بلاطات ",
+        "ex-push-pull-leg-day2-ex4-set1-weight": "3",
+        "ex-push-pull-leg-day2-ex4-set1-reps": "9",
+        "ex-push-pull-leg-day2-ex4-set1-rest": "0",
+        "ex-push-pull-leg-day2-ex4-notes": "الوزن بلاطات ",
+        "ex-push-pull-leg-day2-ex5-set1-reps": "9",
+        "ex-push-pull-leg-day2-ex5-set1-rest": "0",
+        "ex-push-pull-leg-day2-ex5-set2-reps": "9",
+        "ex-push-pull-leg-day2-ex5-set2-rest": "0",
+        "ex-push-pull-leg-day2-ex6-set1-rest": "0",
+        "ex-push-pull-leg-day2-ex6-set2-rest": "0",
+        "ex-push-pull-leg-day2-ex6-set3-rest": "0",
+        "ex-push-pull-leg-day2-ex6-notes": "زنا "
+      },
+      "day": 2
     }
   ]
 }
