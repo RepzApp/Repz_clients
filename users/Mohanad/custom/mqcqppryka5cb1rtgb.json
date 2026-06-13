@@ -381,5 +381,29 @@
       ]
     }
   },
-  "records": []
+  "records": [
+    {
+      "date": "2026-06-13T19:35:51.108Z",
+      "data": {
+        "ex-push-pull-leg-day2-ex0-set1-weight": "50",
+        "ex-push-pull-leg-day2-ex0-set1-reps": "8",
+        "ex-push-pull-leg-day2-ex0-set1-tank": "0.5",
+        "ex-push-pull-leg-day2-ex0-set1-rest": "0",
+        "ex-push-pull-leg-day2-ex0-set2-rest": "0",
+        "ex-push-pull-leg-day2-ex0-notes": "سخنت ب 20 وبعدين ب 40",
+        "ex-push-pull-leg-day2-ex1-set1-rest": "0",
+        "ex-push-pull-leg-day2-ex1-set2-rest": "0",
+        "ex-push-pull-leg-day2-ex2-set1-rest": "0",
+        "ex-push-pull-leg-day2-ex2-set2-rest": "0",
+        "ex-push-pull-leg-day2-ex3-set1-rest": "0",
+        "ex-push-pull-leg-day2-ex4-set1-rest": "0",
+        "ex-push-pull-leg-day2-ex5-set1-rest": "0",
+        "ex-push-pull-leg-day2-ex5-set2-rest": "0",
+        "ex-push-pull-leg-day2-ex6-set1-rest": "0",
+        "ex-push-pull-leg-day2-ex6-set2-rest": "0",
+        "ex-push-pull-leg-day2-ex6-set3-rest": "0"
+      },
+      "day": 2
+    }
+  ]
 }
