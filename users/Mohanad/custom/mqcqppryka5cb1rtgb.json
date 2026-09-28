@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2026-09-28T18:57:32.401Z",
+    "createdAt": "2026-09-28T18:57:51.377Z",
     "id": "mqcqppryka5cb1rtgb",
     "day1": {
       "dayName": "Push A",
@@ -225,6 +225,15 @@
           "sets": 1,
           "singleArm": false,
           "image": "https://raw.githubusercontent.com/RepzApp/Repz_clients/main/users/Mohanad/custom/media/1766679913439_T-Bar_Row_تجديف_بالبار_T.PNG",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Dumbbell hammer curl",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://weighttraining.guide/wp-content/uploads/2016/11/Dumbbell-Hammer-Curl-resized.png",
           "groupId": "None",
           "isDropset": false,
           "staticNotes": ""
