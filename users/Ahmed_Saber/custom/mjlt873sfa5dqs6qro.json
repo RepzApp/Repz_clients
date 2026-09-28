@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2026-09-28T18:59:56.105Z",
+    "createdAt": "2026-09-28T19:03:51.209Z",
     "id": "mjlt873sfa5dqs6qro",
     "day1": {
       "dayName": "Push A",
@@ -298,19 +298,10 @@
           "staticNotes": ""
         },
         {
-          "name": "Cable hip adduction",
+          "name": "Seated leg curl",
           "sets": 1,
-          "singleArm": true,
-          "image": "https://weighttraining.guide/wp-content/uploads/2017/12/Cable-Hip-Adduction-resized.png",
-          "groupId": "None",
-          "isDropset": false,
-          "staticNotes": ""
-        },
-        {
-          "name": "Cable hip abduction",
-          "sets": 1,
-          "singleArm": true,
-          "image": "https://weighttraining.guide/wp-content/uploads/2017/06/Cable-hip-abduction-resized.png",
+          "singleArm": false,
+          "image": "https://weighttraining.guide/wp-content/uploads/2016/10/seated-leg-curl-resized.png",
           "groupId": "None",
           "isDropset": false,
           "staticNotes": ""
@@ -334,6 +325,15 @@
           "staticNotes": ""
         },
         {
+          "name": "Barbell hip thrust",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://weighttraining.guide/wp-content/uploads/2017/04/barbell-hip-thrust-resized.png",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
           "name": "Smith Standing Calves Raises",
           "sets": 2,
           "singleArm": false,
@@ -341,51 +341,6 @@
           "groupId": "None",
           "isDropset": false,
           "staticNotes": ""
-        },
-        {
-          "name": "Cable Crunch تمرين الكرنش بالكابل",
-          "sets": 3,
-          "singleArm": false,
-          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677467999_Cable_Crunch_تمرين_الكرنش_بالكابل.PNG",
-          "groupId": "A",
-          "isDropset": false,
-          "staticNotes": ""
-        },
-        {
-          "name": "Single Side Cable Crunch كرانش فردى جانبى على الكابل",
-          "sets": 3,
-          "singleArm": true,
-          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677586487_Single_Side_Cable_Crunch_كرانش_فردى_جانبى_على_الكابل.webp",
-          "groupId": "A",
-          "isDropset": false,
-          "staticNotes": ""
-        },
-        {
-          "name": "Straight Leg Raise رفع الساق المستقيمة",
-          "sets": 3,
-          "singleArm": false,
-          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677669887_Straight_Leg_Raise_رفع_الساق_المستقيمة.webp",
-          "groupId": "None",
-          "isDropset": false,
-          "staticNotes": ""
-        },
-        {
-          "name": "Dumbbell Standing Wrist Curl دامبل ثنى الساعد واقف",
-          "sets": 2,
-          "singleArm": false,
-          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/dumbell standing wrist curl.webp",
-          "groupId": "B",
-          "isDropset": false,
-          "staticNotes": "أول مجموعة 50 عدة | تانى مجموعة 25 عدة"
-        },
-        {
-          "name": "Dumbbell reverse curl  تمرين الكيرل العكسي بالدمبل",
-          "sets": 2,
-          "singleArm": false,
-          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678037823_Dumbbell_reverse_curl_تمرين_الكيرل_العكسي_بالدمبل.webp",
-          "groupId": "B",
-          "isDropset": false,
-          "staticNotes": "أول مجموعة 25 عدة | تانى مجموعة 50 عدة"
         }
       ]
     }
