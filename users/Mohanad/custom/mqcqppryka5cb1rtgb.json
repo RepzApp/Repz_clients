@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2026-09-28T18:52:56.977Z",
+    "createdAt": "2026-09-28T18:55:11.281Z",
     "id": "mqcqppryka5cb1rtgb",
     "day1": {
       "dayName": "Push A",
@@ -162,13 +162,13 @@
           "staticNotes": "ايدى فى نص العلامة من البار"
         },
         {
-          "name": "Single Arm Cable Y-Raise",
+          "name": "Prone incline dumbbell front Y-raise",
           "sets": 2,
-          "singleArm": true,
-          "image": "https://raw.githubusercontent.com/RepzApp/Repz_clients/main/users/Mohanad/custom/media/1766679729087_Cable_Y-Raise_كابل_رفرفة_Y.webp",
+          "singleArm": false,
+          "image": "https://weighttraining.guide/wp-content/uploads/2023/04/Prone-incline-dumbbell-front-raise.png",
           "groupId": "None",
           "isDropset": false,
-          "staticNotes": "فتحة تالتة من تحت\nاقف قدام الكابل"
+          "staticNotes": ""
         },
         {
           "name": "incline dumbbell chest press دامبل بنش عالى",
@@ -199,21 +199,12 @@
         },
         {
           "name": "Single TriCep Push Down حبل تراى فردي",
-          "sets": 1,
+          "sets": 2,
           "singleArm": true,
-          "image": "https://fitwill.app/_next/image?url=https%3A%2F%2Ffitwill.app%2Fapi%2Fimage%2F5033%3Fw%3D1024%26h%3D576&w=3840&q=75",
+          "image": "https://weighttraining.guide/wp-content/uploads/2017/01/Cable-Standing-One-Arm-underhand-Triceps-Extension-resized.png",
           "groupId": "None",
           "isDropset": false,
           "staticNotes": "كوعي راجع ورا جسمي"
-        },
-        {
-          "name": "Dumbbell one-arm wrist extension",
-          "sets": 3,
-          "singleArm": true,
-          "image": "https://weighttraining.guide/wp-content/uploads/2017/12/Dumbbell-one-arm-reverse-wrist-curl-resized.png",
-          "groupId": "None",
-          "isDropset": false,
-          "staticNotes": ""
         }
       ]
     },
