@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2026-06-05T16:01:17.058Z",
+    "createdAt": "2026-09-28T18:46:25.641Z",
     "id": "mqcqppryka5cb1rtgb",
     "day1": {
       "dayName": "Push A",
@@ -56,16 +56,16 @@
           "name": "Single TriCep Push Down حبل تراى فردي",
           "sets": 2,
           "singleArm": true,
-          "image": "https://fitwill.app/_next/image?url=https%3A%2F%2Ffitwill.app%2Fapi%2Fimage%2F5033%3Fw%3D1024%26h%3D576&w=3840&q=75",
+          "image": "https://weighttraining.guide/wp-content/uploads/2017/01/Cable-Standing-One-Arm-underhand-Triceps-Extension-resized.png",
           "groupId": "None",
           "isDropset": false,
           "staticNotes": "كوعي راجع ورا جسمي"
         },
         {
-          "name": "Scapula Push-Up",
-          "sets": 3,
+          "name": "Chest Fly / Pec Deck فراشة",
+          "sets": 2,
           "singleArm": false,
-          "image": "https://liftmanual.com/wp-content/uploads/2023/04/scapula-push-up.jpg",
+          "image": "https://weighttraining.guide/wp-content/uploads/2016/12/Machine-Fly-resized.png",
           "groupId": "None",
           "isDropset": false,
           "staticNotes": ""
