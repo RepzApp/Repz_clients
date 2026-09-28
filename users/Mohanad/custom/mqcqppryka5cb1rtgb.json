@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2026-09-28T18:57:51.377Z",
+    "createdAt": "2026-09-28T18:59:59.785Z",
     "id": "mqcqppryka5cb1rtgb",
     "day1": {
       "dayName": "Push A",
@@ -107,6 +107,15 @@
           "sets": 2,
           "singleArm": false,
           "image": "https://raw.githubusercontent.com/RepzApp/Repz_clients/main/users/Mohanad/custom/media/1766680142743_No_Cheated_Dumbbell_Curl_دامبل_باى_بدون_غش.jpg",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Cable Lat PullOver",
+          "sets": 3,
+          "singleArm": false,
+          "image": "https://i.pinimg.com/736x/e0/43/b1/e043b1309484b265a32046f3dfc708b8.jpg",
           "groupId": "None",
           "isDropset": false,
           "staticNotes": ""
