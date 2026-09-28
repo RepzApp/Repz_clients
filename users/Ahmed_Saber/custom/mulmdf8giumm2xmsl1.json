@@ -1,0 +1,86 @@
+{
+  "workout": {
+    "name": "Wrist & ABS",
+    "days": 1,
+    "createdAt": "2026-09-28T19:07:27.712Z",
+    "id": "mulmdf8giumm2xmsl1",
+    "day1": {
+      "dayName": "Wrist & ABS",
+      "exercises": [
+        {
+          "name": "Cable Crunch تمرين الكرنش بالكابل",
+          "sets": 3,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677467999_Cable_Crunch_تمرين_الكرنش_بالكابل.PNG",
+          "groupId": "A",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Single Side Cable Crunch كرانش فردى جانبى على الكابل",
+          "sets": 3,
+          "singleArm": true,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677586487_Single_Side_Cable_Crunch_كرانش_فردى_جانبى_على_الكابل.webp",
+          "groupId": "A",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Dumbbell Standing Wrist Curl دامبل ثنى الساعد واقف",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/dumbell standing wrist curl.webp",
+          "groupId": "B",
+          "isDropset": false,
+          "staticNotes": "أول مجموعة 50 عدة \nثانى مجموعة 25 عدة"
+        },
+        {
+          "name": "Dumbbell reverse curl  تمرين الكيرل العكسي بالدمبل",
+          "sets": 2,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678037823_Dumbbell_reverse_curl_تمرين_الكيرل_العكسي_بالدمبل.webp",
+          "groupId": "B",
+          "isDropset": false,
+          "staticNotes": "اول مجموعة 25 عدة \nثانى مجموعة 50 عدة"
+        },
+        {
+          "name": "Straight Leg Raise رفع الساق المستقيمة",
+          "sets": 3,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677669887_Straight_Leg_Raise_رفع_الساق_المستقيمة.webp",
+          "groupId": "B",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Scapula Push-Up",
+          "sets": 3,
+          "singleArm": false,
+          "image": "https://liftmanual.com/wp-content/uploads/2023/04/scapula-push-up.jpg",
+          "groupId": "C",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "High reverse plank",
+          "sets": 3,
+          "singleArm": false,
+          "image": "https://weighttraining.guide/wp-content/uploads/2016/11/high-reverse-plank-resized.png",
+          "groupId": "C",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Dumbbell one-arm reverse wrist curl",
+          "sets": 3,
+          "singleArm": true,
+          "image": "https://weighttraining.guide/wp-content/uploads/2017/12/Dumbbell-one-arm-reverse-wrist-curl-resized.png",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
