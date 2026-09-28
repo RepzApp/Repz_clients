@@ -2854,6 +2854,44 @@
         "ex-push-pull-leg-day2-ex6-set3-rest": "0"
       },
       "day": 2
+    },
+    {
+      "date": "2026-09-28T21:46:00.849Z",
+      "data": {
+        "ex-push-pull-leg-day4-ex0-set1-weight": "12",
+        "ex-push-pull-leg-day4-ex0-set1-reps": "10",
+        "ex-push-pull-leg-day4-ex0-set1-rest": "0",
+        "ex-push-pull-leg-day4-ex0-set2-weight": "12",
+        "ex-push-pull-leg-day4-ex0-set2-reps": "8",
+        "ex-push-pull-leg-day4-ex0-set2-rest": "0",
+        "ex-push-pull-leg-day4-ex1-set1-weight": "60",
+        "ex-push-pull-leg-day4-ex1-set1-reps": "8",
+        "ex-push-pull-leg-day4-ex1-set1-rest": "0",
+        "ex-push-pull-leg-day4-ex2-set1-weight": "10",
+        "ex-push-pull-leg-day4-ex2-set1-reps": "14",
+        "ex-push-pull-leg-day4-ex2-set1-rest": "0",
+        "ex-push-pull-leg-day4-ex2-set2-weight": "15",
+        "ex-push-pull-leg-day4-ex2-set2-reps": "8",
+        "ex-push-pull-leg-day4-ex2-set2-rest": "0",
+        "ex-push-pull-leg-day4-ex3-set1-weight": "10",
+        "ex-push-pull-leg-day4-ex3-set1-reps": "10",
+        "ex-push-pull-leg-day4-ex3-set1-rest": "0",
+        "ex-push-pull-leg-day4-ex3-set2-weight": "9",
+        "ex-push-pull-leg-day4-ex3-set2-reps": "12",
+        "ex-push-pull-leg-day4-ex3-set2-rest": "0",
+        "ex-push-pull-leg-day4-ex4-set1-weight": "6",
+        "ex-push-pull-leg-day4-ex4-set1-rest": "0",
+        "ex-push-pull-leg-day4-ex4-set2-weight": "6",
+        "ex-push-pull-leg-day4-ex4-set2-rest": "0",
+        "ex-push-pull-leg-day4-ex5-set1-weight": "6",
+        "ex-push-pull-leg-day4-ex5-set1-reps": "7",
+        "ex-push-pull-leg-day4-ex5-set1-rest": "0",
+        "ex-push-pull-leg-day4-ex5-set2-weight": "6",
+        "ex-push-pull-leg-day4-ex5-set2-reps": "6",
+        "ex-push-pull-leg-day4-ex5-set2-rest": "0",
+        "ex-push-pull-leg-day4-ex6-set1-rest": "0"
+      },
+      "day": 4
     }
   ]
 }
