@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2026-09-28T18:55:07.938Z",
+    "createdAt": "2026-09-28T18:57:12.753Z",
     "id": "mjlt873sfa5dqs6qro",
     "day1": {
       "dayName": "Push A",
@@ -54,7 +54,7 @@
         },
         {
           "name": "Single TriCep Push Down حبل تراى فردي",
-          "sets": 2,
+          "sets": 3,
           "singleArm": true,
           "image": "https://weighttraining.guide/wp-content/uploads/2017/01/Cable-Standing-One-Arm-underhand-Triceps-Extension-resized.png",
           "groupId": "None",
