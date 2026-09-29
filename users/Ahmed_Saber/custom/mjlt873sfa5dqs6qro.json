@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2026-09-29T18:57:08.498Z",
+    "createdAt": "2026-09-29T18:58:36.346Z",
     "id": "mjlt873sfa5dqs6qro",
     "day1": {
       "dayName": "Push A",
@@ -130,17 +130,8 @@
           "staticNotes": ""
         },
         {
-          "name": "Machine Preacher Curl جهاز حصان باى",
-          "sets": 1,
-          "singleArm": false,
-          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680330255_Machine_Preacher_Curl_جهاز_حصان_باى.PNG",
-          "groupId": "None",
-          "isDropset": false,
-          "staticNotes": ""
-        },
-        {
           "name": "Dumbbell preacher curl",
-          "sets": 1,
+          "sets": 2,
           "singleArm": true,
           "image": "https://weighttraining.guide/wp-content/uploads/2019/10/Dumbbell-preacher-curl-resized-1.png",
           "groupId": "None",
