@@ -2,7 +2,7 @@
   "workout": {
     "name": "Push Pull Leg",
     "days": 5,
-    "createdAt": "2026-09-29T18:58:36.346Z",
+    "createdAt": "2026-09-29T19:00:45.978Z",
     "id": "mjlt873sfa5dqs6qro",
     "day1": {
       "dayName": "Push A",
@@ -230,10 +230,10 @@
           "staticNotes": ""
         },
         {
-          "name": "Dumbbell hammer curl",
+          "name": "Single Arm Bayesian Cable Curl",
           "sets": 2,
-          "singleArm": false,
-          "image": "https://weighttraining.guide/wp-content/uploads/2016/11/Dumbbell-Hammer-Curl-resized.png",
+          "singleArm": true,
+          "image": "https://www.repcountapp.com/images/exercises/bayesian-curl.jpg",
           "groupId": "None",
           "isDropset": false,
           "staticNotes": ""
@@ -249,7 +249,7 @@
         },
         {
           "name": "Shrugs Diamond Bar(Trapz) ترابيس بار واسع",
-          "sets": 2,
+          "sets": 1,
           "singleArm": false,
           "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680304535_Shrugs_Diamond_Bar(Trapz)_ترابيس_بار_واسع.PNG",
           "groupId": "None",
