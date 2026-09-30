@@ -1,0 +1,122 @@
+{
+  "workout": {
+    "name": "Core",
+    "days": 1,
+    "createdAt": "2026-09-30T17:22:51.964Z",
+    "id": "muoe486shtzk0ppvsq",
+    "day1": {
+      "dayName": "Core",
+      "exercises": [
+        {
+          "name": "Pistol box squat",
+          "sets": 3,
+          "singleArm": true,
+          "image": "https://weighttraining.guide/wp-content/uploads/2023/08/Pistol-box-squat.png",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "High reverse plank",
+          "sets": 3,
+          "singleArm": false,
+          "image": "https://weighttraining.guide/wp-content/uploads/2016/11/high-reverse-plank-resized.png",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "High side plank",
+          "sets": 3,
+          "singleArm": true,
+          "image": "https://weighttraining.guide/wp-content/uploads/2023/03/High-side-plank.png",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Dead bug",
+          "sets": 3,
+          "singleArm": false,
+          "image": "https://weighttraining.guide/wp-content/uploads/2022/07/Dead-bug-with-no-arm-movement.png",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Cat Cow",
+          "sets": 3,
+          "singleArm": false,
+          "image": "https://liftmanual.com/wp-content/uploads/2023/04/cat-cow-stretch.jpg",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Crunch",
+          "sets": 3,
+          "singleArm": false,
+          "image": "https://weighttraining.guide/wp-content/uploads/2016/05/Crunch-resized.png",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Straight Leg Raise",
+          "sets": 3,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677669887_Straight_Leg_Raise_رفع_الساق_المستقيمة.webp",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Scapula Push-Up",
+          "sets": 3,
+          "singleArm": false,
+          "image": "https://liftmanual.com/wp-content/uploads/2023/04/scapula-push-up.jpg",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Russian Twist",
+          "sets": 3,
+          "singleArm": false,
+          "image": "https://i.pinimg.com/736x/4b/be/5e/4bbe5e9336ce359d3b80595467f8b292.jpg",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Glutes Bridge",
+          "sets": 3,
+          "singleArm": false,
+          "image": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/06681101-Rear-Decline-Bridge_Waist_small.jpg",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Bird Dog",
+          "sets": 3,
+          "singleArm": false,
+          "image": "https://modusx.de/wp-content/uploads/bird-dog-armstuetz-mit-arm-und-beinheben-1280x720.webp",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        },
+        {
+          "name": "Deep Squat",
+          "sets": 3,
+          "singleArm": false,
+          "image": "https://raw.githubusercontent.com/RepzApp/Repz_clients/main/users/Mohanad/custom/media/strong-man-is-doing-cross-training-exercise-royalty-free-image-1591028127.jpg?crop=0.668xw:1.00xh;0.260xw,0&resize=640:*",
+          "groupId": "None",
+          "isDropset": false,
+          "staticNotes": ""
+        }
+      ]
+    }
+  },
+  "records": []
+}
